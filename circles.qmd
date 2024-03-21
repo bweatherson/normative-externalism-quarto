@@ -1,6 +1,6 @@
-## Circles, Epistemic and Benign {#circlesepistemicandbenign}
+# Circles, Epistemic and Benign {#circlesepistemicandbenign}
 
-### Normative Externalism and Circularity {#normativeexternalismandcircularity}
+## Normative Externalism and Circularity {#normativeexternalismandcircularity}
 
 Some of the views that I'm opposing are motivated by anti-circularity considerations. Consider, for instance, the principle David Christensen calls Independence, which is a version of the bracketing principle that was the focus of the previous section. I'm quoting it here with the argument for it that immediately follows.
 
@@ -17,29 +17,19 @@ I think the problem Christensen is highlighting is not to do with question-beggi
 Part of the difficulty is that it isn't easy to say exactly what the circularity involved is. Consider the following little example, where [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} and [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} are discussing arithmetic. They know that exactly one of them has taken a drug that makes people bad at simple arithmetic. [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} does some sums in her head, listens to [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"}, and reasons as follows.
 
 1.  2+2=4, and 3+3=6, and 4+5=9, and 7+9=16.
-
 2.  [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} believes that 2+2=5, and 3+3=7, and 4+5=8, and 7+9=15, while I believe that 2+2=4, and 3+3=6, and 4+5=9, and 7+9=16.
-
 3.  So, she got those four sums wrong, and I got them right.
-
 4.  It is likely that I would get at least one of them wrong if I'd taken the drug, and unlikely that she would get all four wrong unless she'd taken the drug.
-
 5.  So, probably, I have not taken the drug, and she has.
-
 6.  So I should not modify my beliefs about arithmetic in light of what [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} says; she has taken a drug that makes her unreliable.
 
 It isn't clear to me just which step is meant to be circular. If [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} had reasoned as follows, I could see how we might take her reasoning to be circular.
 
 1.  It seems to me that 2+2=4, and 3+3=6, and 4+5=9, and 7+9=16.
-
 2.  It seems to [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} that 2+2=5, and 3+3=7, and 4+5=8, and 7+9=15.
-
 3.  From 1, it's true that 2+2=4, and 3+3=6, and 4+5=9, and 7+9=16.
-
 4.  From 1, 2 and 3, my arithmetic seemings are reliable, and [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"}'s are not.
-
 5.  So, probably, I have not taken the drug, and she has.
-
 6.  So I should not modify my beliefs about arithmetic in light of what [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} says; she has taken a drug that makes her unreliable.
 
 If [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} reasons this way, the only reason for thinking she is right and [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} is wrong is her own judgment, which is exactly what is at issue in 6. But that isn't at all how people usually reason. Nor is it a sensible rational reconstruction of their reasoning. Rather, the first version of the inference is much more like the way normal human beings do, and should, reason. And in this case the symmetry of the dispute between [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} and [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} is broken by a fact recorded at line 1, namely that 2 plus 2 really is 4, 3 plus 3 really is 6, and so on. And while [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} uses her mathematical competence to come ot know that fact, she doesn't learn it by reasoning about her mathematical competence. If she did, it would be a posteriori knowledge, whereas in fact it is a priori knowledge. So if there is some circular reasoning going on in the first inference, the circularity is fairly subtle, and it won't be easy to say just what it is.[^44]
@@ -50,38 +40,31 @@ Still, there is some vague feeling of circularity that goes along with even that
 
 [^45]: Cases with the same structure as Dharmottara's became the focus of some discussion in the Anglophone philosophical tradition after they were independently discovered by Edmund @Gettier1963.
 
-### Inference, Implication and Transmission {#inferenceimplicationandtransmission}
+## Inference, Implication and Transmission {#inferenceimplicationandtransmission}
 
 As Gilbert @Harman1986 has pointed out, it is very important to separate the theory of implication, i.e., logic, from the theory of inference, which sits in the intersection between psychology and epistemology. The following argument is perfectly valid, even though following it would make a lousy inference.
 
 1.  The Eiffel Tower is large.
-
 2.  The Eiffel Tower is not large.
-
 3.  So, London is pretty.
 
-Using terminology drawn from work by Crispin [@Wright2000; @Wright2002], we might say this is a case where warrant does not transmit from the premises to the conclusion. An agent could not gain warrant for the conclusion of this argument by gaining warrant for its premises. But that does not tell against the validity of the argument. Whenever the premises are true, so is the conclusion. Any proof of the premises can be converted into a proof of the conclusion. And so we have excellent reason to believe the argument is valid, even though it does not ground any good inference.
+Using terminology drawn from work by Crispin Wright [-@Wright2000; -@Wright2002], we might say this is a case where warrant does not transmit from the premises to the conclusion. An agent could not gain warrant for the conclusion of this argument by gaining warrant for its premises. But that does not tell against the validity of the argument. Whenever the premises are true, so is the conclusion. Any proof of the premises can be converted into a proof of the conclusion. And so we have excellent reason to believe the argument is valid, even though it does not ground any good inference.
 
 Rather than using Wright's slightly technical term 'warrant', we'll focus on the class of **Potential Teaching Arguments**, or PTAs. These are arguments where an agent could come to learn the conclusion by first learning the premises, and then reasoning from them to the conclusion. The modal term 'could' there is context-sensitive, and vague. The context sensitivity comes from the fact that whether an argument is a PTA might depend on which agent we are focussing on, and on how that agent came to know the premises. Imagine, for example, that [Marie]{acronym-label="Marie" acronym-form="singular+short"} is a scientist who is working on a machine to measure the relative radioactivity of two substances. The machine is, it turns out, very accurate, but it is also the first of its kind, and the theory behind it is somewhat speculative. Now consider this argument.
 
 1.  [Marie]{acronym-label="Marie" acronym-form="singular+short"}'s machine says that *a* is more radioactive than *b*.
-
 2.  In fact, *a* is more radioactive than *b*.
-
 3.  So, [Marie]{acronym-label="Marie" acronym-form="singular+short"}'s machine is accurate about *a* and *b*.
 
-That's a valid argument, but it isn't a PTA. At least, it isn'a PTA for [Marie]{acronym-label="Marie" acronym-form="singular+short"} while she is in the process of building and testing her machine, if her evidence for 2 is simply that 1 is true. She can't learn that the machine is accurate by simply trusting its readings. That's true even if it is, in fact, reliably accurate. Jonathan @Vogel2000 has argued that this is a problem for many forms of reliabilism. Stewart [@Cohen2002; @Cohen2005] has offered a generalisation of Vogel's argument that threatens normative externalism plus evidentialism, and we'll return to Cohen's argument later in this chapter. But for now we just need to note that this argument is not a PTA for [Marie]{acronym-label="Marie" acronym-form="singular+short"}, using her new machine, while it might be for other agents. A historian of science a century after [Marie]{acronym-label="Marie" acronym-form="singular+short"}, trying to retrospectively figure out how accurate [Marie]{acronym-label="Marie" acronym-form="singular+short"}'s innovative machine was, could use this argument in their inquiry.
+That's a valid argument, but it isn't a PTA. At least, it isn'a PTA for [Marie]{acronym-label="Marie" acronym-form="singular+short"} while she is in the process of building and testing her machine, if her evidence for 2 is simply that 1 is true. She can't learn that the machine is accurate by simply trusting its readings. That's true even if it is, in fact, reliably accurate. Jonathan @Vogel2000 has argued that this is a problem for many forms of reliabilism. Stewart Cohen [-@Cohen2002; -@Cohen2005] has offered a generalisation of Vogel's argument that threatens normative externalism plus evidentialism, and we'll return to Cohen's argument later in this chapter. But for now we just need to note that this argument is not a PTA for [Marie]{acronym-label="Marie" acronym-form="singular+short"}, using her new machine, while it might be for other agents. A historian of science a century after [Marie]{acronym-label="Marie" acronym-form="singular+short"}, trying to retrospectively figure out how accurate [Marie]{acronym-label="Marie" acronym-form="singular+short"}'s innovative machine was, could use this argument in their inquiry.
 
 So when we say that an argument is, or is not, a PTA, we mean to be talking about a particular, contextually supplied, agent, using something like the methods for learning the premises that they actually use. The phrase 'something like' is obviously rather vague, but the vagueness shouldn't worry us overly, as it won't compromise the discussion to come.
 
 We have already seen some valid arguments that are not PTAs. The argument from the Eiffel Tower to London might not be a PTA for anyone in any possible world. There is a radical version of the view that inference and implication must be kept separate which says that there are literally no valid PTAs. On this view, we never learn by following arguments from premises to conclusions, and thinking we do is a sign one has not properly appreciated the inference/implication distinction. I doubt this view is right. It is worth being sceptical about how often we use valid arguments in inference, but do seem to be some cases where we do. This schema, for instance, seems to be one we can easily use.
 
-1.  $a_1$ is the most recent *F*, and it is *G*.
-
-2.  $a_2$ is the second most recent *F*, and it is *G*.
-
-3.  $a_3$ is the third most recent *F*, and it is *G*.
-
+1.  *a*~1~ is the most recent *F*, and it is *G*.
+2.  *a*~2~ is the second most recent *F*, and it is *G*.
+3.  *a*~3~ is the third most recent *F*, and it is *G*.
 4.  So the last three *F*s are *G*.
 
 For a concrete instance of this, let *F* be *President of the USA*, *G* be *is left-handed*, and the $a_i$ be Barack Obama, George W. Bush and Bill Clinton, and imagine someone considering the argument in 2009. More generally, consider cases where *G* is a coincidental property of the last 3 (or more) *F*s, and we see that the last few *F*s have this property by simply working through the cases. The result is a conclusion that we learn simply by remembering the premises, and then doing a very simple deduction. So there are some PTAs, even if not every valid argument is a PTA.
@@ -92,32 +75,27 @@ Why isn't the argument about radioactivity a PTA for [Marie]{acronym-label="Mari
 
 It is tempting now to generalise from [Marie]{acronym-label="Marie" acronym-form="singular+short"}'s case to the principle that no argument whose conclusion is that a particular method or tool is reliable, and whose premises were based on that method or tool, could be a PTA. But this is too quick. Or at least, as I'll argue in the next section, those of us who are not sceptics should think it is too quick.
 
-### Liberalism, Defeaters and Circles {#liberalismdefeatersandcircles}
+## Liberalism, Defeaters and Circles {#liberalismdefeatersandcircles}
 
 In this section I discuss the following argument.
 
 1.  Normative externalism says that some arguments that exemplify defeater circularity are PTAs.
-
 2.  No argument that exemplifies defeater circularity is a PTA.
-
 3.  So, normative externalism is false.
 
 I'm going to spend a bit of time setting up what defeater circularity is. But the basic idea behind premise 2 is that the principle suggested at the end of the previous section is true. And the idea behind premise 1 is that if we reject level-crossing and accept normative externalism, we end up committed to violations of that principle. I will mostly be concerned to argue against premise 2, though I'll note that there ways we could push back against premise 1 as well. The ideas of this section draw heavily on work by James @Pryor2004 and we'll start with an important distinction he draws.
 
-Pryor distinguishes three different approaches epistemological theorists might take towards different epistemological methods. He offers labels for two of these approaches; I've added a label for the third that naturally extends his metaphor. In every case, we assume agent S used method *M* to get a belief in proposition *p*. And we'll say the proposition *M works* is the conjunction of every proposition of the form (*M represents that q*) $\rightarrow q$ for every salient $q$, where $\rightarrow$ is material implication. Then we have the following three views.[^46]
+Pryor distinguishes three different approaches epistemological theorists might take towards different epistemological methods. He offers labels for two of these approaches; I've added a label for the third that naturally extends his metaphor. In every case, we assume agent S used method *M* to get a belief in proposition *p*. And we'll say the proposition *M works* is the conjunction of every proposition of the form (*M represents that q*) $\rightarrow$ *q* for every salient *q*, where $\rightarrow$ is material implication. Then we have the following three views.[^46]
 
 [^46]: I'm modifying Pryor's views a bit to make these attitudes towards methods, rather than towards propositions; this makes everything a touch clearer I think. But I'm following Pryor, and the literature that has built up around his work, in focussing on justification rather than rationality. For reasons that I discussed in chapter 7, I would rather focus on rationality. I think the difference between the two concepts is not significant to this part of the discussion.
 
 Conservatism
-
 :   S gets a justified belief in *p* only if she antecedently has a justified belief that *M works*.
 
 Liberalism
-
 :   S can in some circumstances get a justified belief in *p* without having an antecedently justified belief that *M works*, but in some other circumstances she can properly use *M* and not get a justified belief in *p*, because her prior evidence defeats the support that *M* provides for *p*.
 
 Radicalism
-
 :   As long as S uses *M* correctly, and *M* genuinely says that *p*, and *M* actually works, then no matter what evidence S has against *M works*, she gets a justified belief in *p*.
 
 Whether conservatism, liberalism or radicalism is the most intuitive initial view will vary depending on which particular method we are considering.
@@ -141,7 +119,6 @@ Pryor also notes an interesting way in which arguments can seem to be circular. 
 [^47]: I'm assuming throughout this chapter that it makes sense to talk about defeaters for beliefs. I actually don't want to commit to that being true. But the assumption is safe nevertheless. Dialectically, the situation is this. I'm trying to respond to the best arguments I know of that normative externalism licences a problematic form of circular reasoning. If the whole ideology of defeaters is misguided, there isn't any danger that a defeater based argument will threaten work. But I'm not going to have the defence of normative externalism rest on that ideological claim.
 
 Defeater Circularity
-
 :   An argument exemplifies defeater circularity iff evidence against the conclusion would (to at least some degree) undermine the justification the agent has for the premises. This is Pryor's Type 4 dependence; see @Pryor2004 [359].
 
 It is important that Pryor uses 'undermine' here rather than something more general, like 'defeat'. Any valid one premise argument will be such that evidence against the conclusion will rebut, at least to some degree, the justification for the premises. But it won't be necessary that this evidence undermines that justification. If one reasons *X is in Ann Arbor, so X is in Michigan*, then evidence against the conclusion will rebut whatever evidence one had that X is in Ann Arbor. But that might not undermine the support the premise provides to the conclusion, or that the evidence supplies to the premise. If one thought X was in Ann Arbor because a friend said that they just saw X, the counter-evidence need not impugn the friend's reliability in general. It might just mean the friend got this one wrong.
@@ -153,9 +130,7 @@ Pryor argues that some arguments which exemplify defeater circularity are, in th
 Most forms of liberalism imply that there will be good arguments that exemplify defeater circularity. If liberalism about *M* is true, and S can sometimes observe that she is using *M*, then she should be able to make the following argument, which we'll call the *M* argument.
 
 1.  *p*.
-
 2.  *M* says that *p*.
-
 3.  So *M* got this one right.
 
 By hypothesis, this could be a way that S comes to know that *M* is working. Since liberalism about *M* is true, she doesn't need to know that antecedently to using *p* to get the first premise. But the conclusion is obviously entailed by the premises. So it looks like it could be learned by learning the premises an doing a little reasoning. A kind of liberalism that says that whenever S recognises which method she is using, that method is blocked from providing support, would not licence this reasoning. But that's a kind of liberalism that doesn't seem particularly plausible.
@@ -165,15 +140,10 @@ But the *M* argument does exemplify defeater circularity, at least if we're assu
 This is all relevant to us because it is plausible that defeater circularity is the kind of circularity that's at issue in debates over **Independence**. Return again to [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} and [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"}, and recall the reasoning [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} does.
 
 1.  2+2=4, and 3+3=6, and 4+5=9, and 7+9=16.
-
 2.  [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} believes that 2+2=5, and 3+3=7, and 4+5=8, and 7+9=15, while I believe that 2+2=4, and 3+3=6, and 4+5=9, and 7+9=16.
-
 3.  So, she got those four sums wrong, and I got them right.
-
 4.  It is likely that I would get at least one of them wrong if I'd taken the drug, and unlikely that she would get all four wrong unless she'd taken the drug.
-
 5.  So, probably, I have not taken the drug, and she has.
-
 6.  So I should not modify my beliefs about arithmetic in light of what [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} says; she has taken a drug that makes her unreliable.
 
 This violates **Independence**. [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} believes that [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} is the unreliable one because she calculated some sums, and realises that [Aspasia]{acronym-label="Aspasia" acronym-form="singular+short"} got them wrong. And she uses this to conclude that disagreement with [Chiyoko]{acronym-label="Chiyoko" acronym-form="singular+short"} should not move her.
@@ -187,9 +157,7 @@ There is a tricky dialectical point here. The normative externalist need not the
 My main reply to the objection is that exemplifying defeater circularity cannot, in general, prevent arguments being PTAs. And that's because there is a general argument that there must be at least some PTAs that exemplify defeater circularity. Here's the argument for that conclusion.
 
 1.  Liberalism is true about some method of forming beliefs or other, though we aren't necessarily in a position to know which method it is.
-
 2.  If liberalism is true about some method of forming beliefs or other, then some PTAs exemplify defeater circularity.
-
 3.  So, some PTAs exemplify defeater circularity.
 
 I think this argument can be found in @Pryor2004, though he spends more time on arguing that particular exemplifications of defeater circularity are PTAs than directly defending the existential claim.
@@ -201,11 +169,8 @@ Call someone an *extremist* if they are anti-liberal about all methods. One way 
 It actually isn't too hard to motivate extremism. I suspect many philosophers would find the following argument at least somewhat plausible.
 
 1.  For any method of forming beliefs, either it is a priori knowable that it works, or it is not.
-
 2.  We should be radicals about any method of forming beliefs such that it is a priori that the method works.
-
 3.  We should be conservatives about any method of forming beliefs such that it is not a priori that the method works.
-
 4.  So we should be extremists about all methods.
 
 For what it's worth, I think both premises 2 and 3 are false. But starting with this connection to the a priori helps bring out the connection between the argument against extremism and what I've written elsewhere about Humean scepticism  [@Weatherson2005; @Weatherson2014-ProbScept]. The problem with extremism is that it implies external world scepticism, and we should not be external world sceptics.
@@ -220,7 +185,7 @@ And there is even more that the normative externalist can say. Assume I'm wrong 
 
 On the other hand, if radicalism is never true, and extremism is true, then global conservatism is true. And global conservatism is a very implausible doctrine. To see how implausible, it's worth working through some varieties of sceptical argument.
 
-### Pyrrhonian Scepticism and Normative Externalism {#pyrrhonianscepticismandnormativeexternalism}
+## Pyrrhonian Scepticism and Normative Externalism {#pyrrhonianscepticismandnormativeexternalism}
 
 In the previous section I argued that the principle that no PTA exemplifies defeater circularity leads to external world scepticm. But perhaps that was understating the case. Perhaps it really leads to Pyrrhonian scepticism, and Pyrrhhonian scepticism is a kind of reason scepticism. (The next few paragraphs draw on a discussion of scepticism by Peter @KleinSEP.)
 
@@ -238,16 +203,14 @@ And so most epistemologists do indeed reject that premise. Reliabilists say that
 
 If global conservatism is false, then either liberalism is true somewhere, or radicalism is true somewhere. And we have already seen that either of these conclusions would be very bad news for circularity based objections to normative externalism. They certainly suggest that the argument from defeater circularity against normative externalism fails. If liberalism is true somewhere, then some PTAs exemplify defeater circularity, contra premise 2 of the argument. And if radicalism is true somewhere, then it is possible to be a normative externalist without committing to the view that the problematic arguments exemplify defeater circularity, contra premise 1 of the argument.
 
-### Easy Knowledge {#easyknowledge}
+## Easy Knowledge {#easyknowledge}
 
 The normative externalist looks like they will be subject to what Stewart [@Cohen2002; @Cohen2005] calls "The Problem of Easy Knowledge". This might be a better way to cash out the intuition that normative externalism leads to problematic kinds of circular reasoning.
 
 The problem of easy knowledge arises for any theory that says an agent can use a method to gain knowledge without knowing that it is knowledge-producing. Say *M* is one such method, and S one such agent. And assume, at least for now, that S can identify how and when she is using *M*. That is, when she forms a belief that *p* using *M*, she at least often knows that she is doing so. Say that she forms beliefs $p_1, \dots, p_n$ this way, and each of these beliefs amount to knowledge. Then she can reason as follows.
 
-1.  $p_1 \wedge \dots \wedge p_n$
-
-2.  *M* said that $p_1 \wedge \dots \wedge p_n$
-
+1.  *p*~1~ $\wedge \dots \wedge$ *p~n~*
+2.  *M* said that *p*~1~ $\wedge \dots \wedge$ *p~n~*
 3.  So, *M* is fairly reliable.
 
 What could be wrong with this argument? We've assumed that the agent knows premise 1 and premise 2, so as long as she can use whatever she knows in an argument, she is in a position to run the argument. The argument is not deductive, but it seems like a decent inductive argument. Perhaps it could fail if there were external defeaters, but we can assume there are no such defeaters in S's situation. And if the sample size strikes you as too small for the inductive inference, we can increase the size of *n*.
@@ -263,27 +226,21 @@ So given some weak assumptions, it looks like S can use this argument to gather 
 Cohen thinks that the lessons to draw from these cases is that we must distinguish between **KR** and **PKR**.
 
 KR
-
 :   A potential knowledge source *K* can yield knowledge for S, only if S knows that *K* is reliable.
 
 PKR
-
 :   A potential knowledge source *K* can yield knowledge for S, only if S has prior knowledge that *K* is reliable.
 
 **PKR** is the problematic global conservatism. It leads to implausibly sceptical results. But, thinks Cohen, this is no argument against **KR**. Nothing in the discussion so far shows that there is anything absurd with a sweeping form of coherentism that says that S can to know simultaneously, and for the same reasons, all of the following propositions.
 
-1.  $\neg(0=1)$.
+1.  ¬(0=1).
+2.  I used a knowledge generating method to form the belief that ¬(0=1).
+3.  I used a knowledge generating method to form the belief that I used a knowledge generating method to form the belief that ¬(0=1).
+4.  I used a knowledge generating method to form the belief that I used a knowledge generating method to form the belief that I used a knowledge generating method to form the belief that ¬(0=1).
 
-2.  I used a knowledge generating method to form the belief that $\neg(0=1)$.
-
-3.  I used a knowledge generating method to form the belief that I used a knowledge generating method to form the belief that $\neg(0=1)$.
-
-4.  I used a knowledge generating method to form the belief that I used a knowledge generating method to form the belief that I used a knowledge generating method to form the belief that $\neg(0=1)$.
-
-And so on. Cohen's opponents are the anti-coherentists who think it is possible to know $\neg(0=1)$ prior to having this infinite chain of knowledge. Such anti-coherentists can, and do, disagree substantially about what exactly is required for one to know $\neg(0=1)$. Let's start by considering just one opponent, a reliabilist who says that a method can produce basic knowledge if the following two conditions are met:
+And so on. Cohen's opponents are the anti-coherentists who think it is possible to know ¬(0=1) prior to having this infinite chain of knowledge. Such anti-coherentists can, and do, disagree substantially about what exactly is required for one to know ¬(0=1). Let's start by considering just one opponent, a reliabilist who says that a method can produce basic knowledge if the following two conditions are met:
 
 -   The method is in fact reliable; and
-
 -   The agent has no reason to doubt that the method is reliable.
 
 This is a somewhat simplified version of the reliabilism defended by Alvin @Goldman1986 [111-2], and similar in form (though not in its externalist commitments) to Pryor's dogmatism  [@Pryor2000]. And it is very much the kind of view that Cohen takes his arguments to be targeted against. He makes three observations about this kind of theory.
@@ -304,7 +261,7 @@ To make this point more dramatically, consider the theorist (such as perhaps Des
 
 Let's take stock. The big question is whether the Problem of Easy Knowledge helps us isolate a class of circular reasoning that is not acceptable. Cohen has demonstrated that several epistemological theories are committed to some reasoning that looks circular, like the reasoning involved in the imaginary conversations with his 7 year old son. Cohen himself takes those to be arguments against these epistemological theories, and by extension against a lot of circular reasoning. But it isn't clear that Cohen's arguments generalise as far as he intends; their intuitive force may turn on some special features about colour perception. So let's look more closely at the intuitions behind Cohen's examples.
 
-### What's Wrong with Easy Knowledge? {#whatswrongwitheasyknowledge}
+## What's Wrong with Easy Knowledge? {#whatswrongwitheasyknowledge}
 
 It's hard to put one's finger on just what is supposed to be wrong with easy knowledge. Cohen usually just relies on the intuitive implausibility of the methods he is discussing being knowledge producing. But it is hard to generalise from particular cases since intuitions about any given case might be based on particular features of that case. An explanation of the intuition would avoid that problem. So I'll go over a bunch of possible explanations of the intuitions Cohen is relying on, with the hope that once we know why these intuitions are true (when they are), we'll know how far they generalise.
 
@@ -312,7 +269,7 @@ Note that one simple explanation of intuitions in the cases Cohen gives is simpl
 
 The worry is that there is something more general behind Cohen's cases, something that will be general enough to raise a problem for normative externalism. I deny there is, but I don't think there is any way to back up this denial except to work through all the principles we might think are supported by Cohen's cases. So that's the game plan for this section. I'll set things up as a dialogue between an objector, who uses reasoning inspired by Cohen's cases to put forward views that are inconsistent with Change Evidentialism, and my responses to the objector. I'll generally leave off the arguments that the objector's positions are actually in conflict with Change Evidentialism, but mostly they are. There is one exception, where I make a fuss about this in the reply. The objector assumes that we are radicals, or at least radical leaning liberals, about perception in general. We could resist that, while holding on to Change Evidentialism, but I'd rather acquiesce in this assumption.
 
-#### Sensitivity
+### Sensitivity
 
 > *Objection*:\
 > If you use perception to test perception, then you'll come to believe perception is accurate whether it is or not. So if it weren't accurate, you would still believe it is. So your belief that it is accurate will be insensitive, in the sense of @Nozick1981. And insensitive beliefs cannot constitute knowledge.
@@ -323,7 +280,7 @@ Assume a scientist is trying to figure out whether Acme machines are accurate at
 
 We'll return briefly to the question of whether this is a good way to test the tenth machine below. It seems that the scientist has good inductive grounds for knowing that the tenth machine is accurate. Yet the nearest world in which it is not accurate is one in which there were some slipups made in its manufacture, and so it is not accurate even though Acme is generally a good manufacturer. In that world, she'll still believe the tenth machine is accurate. So her belief in its accuracy is insensitive, although she knows it is accurate. So whatever is wrong with testing a machine (or a person) against their own outputs, if the problem is just that the resulting beliefs are insensitive, then that problem does not preclude knowing those outputs are accurate.
 
-#### One-Sidedness
+### One-Sidedness
 
 > *Objection*:\
 > If you use perception to test perception, then you can only come to one conclusion; namely that perception is accurate. Indeed, the test can't even give you any reason to believe that perception is inaccurate. But any test that can only come to one conclusion, and cannot give you a reason to believe the negation of that conclusion, cannot produce knowledge.
@@ -350,7 +307,7 @@ So we have four counterexamples to the principle that you can only know *p* if y
 
 Intuitively, we might read this as saying that if *E* raises the probability of *H* above any threshold *x*, then $\neg E$ would be evidence against *H*. I haven't discussed that objection here, because it's irrelevant. When dealing with foundational matters, like logical inference, Bayesian modelling is inappropriate. We can see that by noting that in any field where Bayesian modelling is appropriate, the objection currently being considered works. What's not so clear, in fact what is most likely false, is that we can model the above four examples in a Bayesian framework. Bayesianism just isn't that good at modelling logical uncertainty, or changes in which singular propositions are accessible to the agent. But that's what matters to these examples.
 
-#### Generality
+### Generality
 
 > *Objection*:\
 > Assume we can use perception to come to know on a particular occasion that perception is reliable. Since we can do this in arbitrary situations where perception is working, anyone whose perception is working can come to know, by induction on a number of successful cases, that their perception is generally reliable. And this is absurd.
@@ -361,7 +318,7 @@ For instance, if we let *F* be *is a Turing machine in the box Ada is holding*, 
 
 There's a general point here, namely that whenever we can only come to know about an *F* only if it is a *G*, then we are never in a position to infer inductively that every *F* is *G*, or even that most of them are. Since even the foundationalist externalist doesn't think we can come to know by perception that perception is not working on an occasion, this means we can never know, by simple induction on perceptual knowledge, that perception is generally reliable.
 
-#### A Priority {#apriority}
+### A Priority {#apriority}
 
 > *Objection*:\
 > Assume it is possible to come to know that perception is reliable by using perception. Then before we even perceive anything, we can see in advance that this method will work. So we can see in advance that perception is reliable. That means we don't *come* to know that perception is reliable using perception, we could have known it all along. In other words, it is a priori knowable that perception is reliable. (This objection is related to an argument by Roger @White2006, though note his argument is directed against a slightly different target.)
@@ -370,21 +327,21 @@ This objection misstates the consequences of the view that perception provides e
 
 This response relies heavily on an externalist treatment of evidence. A first order internalist is perhaps vulnerable to this kind of objection. As I've argued elsewhere  [@Weatherson2005], first-order internalists have strong reasons to think we can know a priori that foundational methods are reliable. Some may think that this is a reductio of this first-order internalism. (I don't.) But the argument crucially relies on first-order internalism, not just on foundationalism.
 
-#### Testing
+### Testing
 
 > *Objection*:\
 > It's bad to test a belief forming method using that very method. The only way to learn that a method is working is to properly test it. So we can't learn that perception is reliable using perception.
 
 This objection is, to me, the most interesting of the lot. It is interesting because the first premise, i.e. the first sentence in it, is true. Testing perception using perception is bad. What's surprising is that the second premise is false. The short version of my reply is that in testing, we aim for more than knowledge. In particular, we aim for sensitive knowledge. A test can be bad because it doesn't deliver sensitive knowledge. And that implies that a bad test can deliver knowledge, at least assuming that not all knowledge is sensitive knowledge. Defending these claims is the point of the next section.
 
-#### Circularity
+### Circularity
 
 > *Objection*:\
 > Even if we haven't put our finger yet exactly on the problem, the reasoning involved in getting easy knowledge is in some way circular, and we should be suspicious of it.
 
 By this stage of the chapter, it should be clear what's wrong with this objection. The hope was that we would find some way of making the anti-circularity intuition more precise by investigating easy knowledge. But all we've ended up with is the view that easy knowledge is bad because it is in some vague sense circular. If this is the intuition behind the Problem of Easy Knowledge, we're back in the territory of the 'whiff of circularity' objection.
 
-#### Multiple Properties {#multipleproperties}
+### Multiple Properties {#multipleproperties}
 
 > *Objection*:\
 > Let's say we grant that each of the six properties you mentioned so far is individually compatible with knowledge. That doesn't show that every combination of them is compatible with knowledge. In general, $\diamond p$ and $\diamond q$ don't entail $\diamond (p \wedge q)$. So you haven't shown easy knowledge is possible.
@@ -393,7 +350,7 @@ I don't quite know what to think about this objection. It strikes me as complete
 
 In short, there isn't any one reason to believe that the intuitions behind the most general form Problem of Easy Knowledge are correct. It could be that no one of them is correct, yet the intuitions are right because of some combination, or because of some extra factor. But at this stage, the best thing to do is to treat the intuitions as suspect. That means they can't form the basis for any objection to normative externalism, or any other theory.
 
-### Coda: Testing {#coda:testing}
+## Coda: Testing {#coda:testing}
 
 In response to the 'testing' argument for the intuition that easy knowledge is no knowledge at all, I suggested that we should distinguish between a test being in general good and a test being the kind of thing which can ground knowledge. I think that's true because tests also aim at sensitive belief. A test can fail in this aim, but still produce knowledge, because sensitivity isn't necessary for knowledge. Here's a simplified version of a real-life situation that makes that position somewhat intuitive.
 
