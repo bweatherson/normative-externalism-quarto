@@ -1,13 +1,16 @@
-## Disagreement
+---
+bread-crumbs: false
+---
 
-### Introducing the Issues {#introducingtheissues}
+# Disagreement
+
+## Introducing the Issues {#introducingtheissues}
 
 So far in this book I have discussed issues about disagreement only insofar as they related to higher-order evidence. In this chapter I change tack, and consider questions about disagreement, and especially peer disagreement, in their own right.
 
 Here is a schematic case of peer disagreement. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are peers in both of the following senses:
 
 1.  They know each other to be equally good at resolving a broad class of questions, of which the question of whether *p* is true is a representative member.
-
 2.  They know that they each have the same evidence that bears on *p*.
 
 They then independently consider the question of whether *p* is true, and when they report back, it turns out they have different views. In one simple, if extreme, case, [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} thinks it is true, while [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} thinks it is false. What changes, if any, should they make to their judgments, once they know what the other thinks?
@@ -36,9 +39,9 @@ Another big motivation for the this view of disagreement I'm defending comes fro
 
 I agree with almost all of this, though I'm not going to issue a full defence of such an evidence aggregation account of testimony here. (Why 'almost'? Because it will be rather important later that we not be able to move as freely between sharing experiences and sharing evidence as Jackson does in the last line.) Rather, I'm just going to acknowledge my debt to Jackson's ideas, and move to disagreement.
 
-I'm hardly the first person to start with broadly evidentialist intuitions and end up with anti-conciliationist conclusions about disagreement; you can see a similar trajectory in recent work by Maria [@Lasonen-Aarnio2013; @Lasonen-Aarnio2014], and what I say here also owes a lot to her. But the details are different enough to justify a new variant on similar themes.
+I'm hardly the first person to start with broadly evidentialist intuitions and end up with anti-conciliationist conclusions about disagreement; you can see a similar trajectory in recent work by Maria Lasonen-Aarnio [-@Lasonen-Aarnio2013; -@Lasonen-Aarnio2014], and what I say here also owes a lot to her. But the details are different enough to justify a new variant on similar themes.
 
-### Two Concepts of Peerhood {#twoconceptsofpeerhood}
+## Two Concepts of Peerhood {#twoconceptsofpeerhood}
 
 My setup of the [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}/[Bojan]{acronym-label="Bojan" acronym-form="singular+short"} case is ambiguous at a key point. I said that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are equally good at resolving questions like this. There are two natural ways to interpret this. We could read it as meaning that they are equally likely to come up with a rational verdict, or that their verdicts are equally reliable. David @Christensen2014 is very good on the importance of this distinction.
 
@@ -48,7 +51,7 @@ Christensen cites @Feldman2007, @Kelly2005, @Christensen2007c and @Cohen2013 as 
 
 The rationality-based understanding is most relevant to the broader themes of this book. If peerhood is understood in terms of rationality, then the motivation to conciliate in light of peer disagreement is indirect. The conciliationist says that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} should do two things in light of [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s disagreement. First, she should use that disagreement as evidence that her initial view is irrational, then second, she should that fact as grounds for revising that first-order credence. Normative externalism disagrees with the second step. The fact that she has some higher-order evidence that she is irrational need not, on its own, be any reason to revise her first-order credence.
 
-But many writers have noted that the first step of this sequence is dubious too. The most that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} gets from [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s disagreement is evidence that some view other than hers is rational. It does not follow that her view is irrational, unless we have make a background assumption that there is only one rational response to any given evidence. So it seems that the argument for conciliationism requires the thesis Roger @White2005 calls Uniqueness: that there is a single rational response to evidence. Whether this seeming is really correct is actively debated: see @Douven2009, @Kelly2010, and [@BallantyneCoffman2011; @BallantyneCoffman2012] for interesting moves in the debate. I'm going to mostly not take a stance on this, since the arguments for conciliationism have other weaknesses.
+But many writers have noted that the first step of this sequence is dubious too. The most that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} gets from [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s disagreement is evidence that some view other than hers is rational. It does not follow that her view is irrational, unless we have make a background assumption that there is only one rational response to any given evidence. So it seems that the argument for conciliationism requires the thesis Roger @White2005 calls Uniqueness: that there is a single rational response to evidence. Whether this seeming is really correct is actively debated: see @Douven2009, @Kelly2010, and Ballantyne and Coffman [-@BallantyneCoffman2011; -@BallantyneCoffman2012] for interesting moves in the debate. I'm going to mostly not take a stance on this, since the arguments for conciliationism have other weaknesses.
 
 It might seem that once [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} views [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} as an accuracy-peer, issues about higher-order evidence aren't relevant to determining whether she should conciliate in light of her disagreement. After all, in that case [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} has two pieces of evidence; her own judgment and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s. By hypothesis, each of them are equally accurate. So she should act as if she had two measuring devices, one which said that *p* was true, and the other that said it was false. And in that case one should have no settled view about *p*.
 
@@ -56,7 +59,7 @@ But that misstates the situation. [Ankita]{acronym-label="Ankita" acronym-form="
 
 So however we understand peerhood, either in terms of rationality or in terms of accuracy, the arguments for conciliationism will be tied up with arguments about higher-order evidence and hence with normative externalism.
 
-### Evidence, Public and Private {#evidencepublicandprivate}
+## Evidence, Public and Private {#evidencepublicandprivate}
 
 In many discussions of peer disagreement, cases are presented where it is clear that the disputants have the same public evidence. It does not follow that in those cases the disputants have the same evidence tout court. Consider this simple case.
 
@@ -69,11 +72,8 @@ This is a case where [Ankita]{acronym-label="Ankita" acronym-form="singular+shor
 This all suggests a very weak, and hence easier to defend, version of conciliationism. It only applies to cases where two parties have differing views about a proposition, and the following four conditions are met.
 
 1.  The two parties have no reason external to this disagreement to think that one is more likely to be rational than the other.
-
 2.  The two parties have no reason external to this disagreement to think that one is more likely to be accurate than the other.
-
 3.  The two parties have the same public evidence.
-
 4.  The two parties have the same private evidence.
 
 The evidence aggregation theory of disagreement is anti-conciliationist in that in this extreme case, it denies that both parties should conciliate. If one party is acting rationally and the other is not, the first party should stick to their view.
@@ -82,7 +82,7 @@ But even though I'm not a conciliationist in theory, this kind of case brings ou
 
 Two more points of clarification before we move on.
 
-First, I'm going to start by looking at a very specific form of conciliationism, namely Adam Elga's Equal Weight View (EWV). The EWV says that when two people are peers, and they have the same evidence, and they learn that they have credences $c_1$ and $c_2$ in a disputed proposition *p*, they should each adopt a credence half-way between their initial credences. That is, their new credence in *p* should be $\frac{c_1 + c_2}{2}$. The EWV is not by any means the only version of conciliationism. Indeed, it faces some difficult technical problems, described by @JehleFitelson2009 and by @Levinstein2013. But as long as we are careful, we can see which objections are only problems for the EWV, and which form more general problems for conciliationism.
+First, I'm going to start by looking at a very specific form of conciliationism, namely Adam Elga's Equal Weight View (EWV). The EWV says that when two people are peers, and they have the same evidence, and they learn that they have credences *c*~1~  and *c*~2~  in a disputed proposition *p*, they should each adopt a credence half-way between their initial credences. That is, their new credence in *p* should be (*c*~1~ + *c*~2~)/2. The EWV is not by any means the only version of conciliationism. Indeed, it faces some difficult technical problems, described by @JehleFitelson2009 and by @Levinstein2013. But as long as we are careful, we can see which objections are only problems for the EWV, and which form more general problems for conciliationism.
 
 Second, it is very important here, as almost everywhere in epistemology, to respect the distinction Gilbert @Harman1986 draws between inference and implication. We can see this by looking at another example about stars.
 
@@ -92,7 +92,7 @@ Second, it is very important here, as almost everywhere in epistemology, to resp
 
 In my opinion, and for that matter [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s, the evidence [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} have conclusively settles the question of whether there are infinitely many stars. What they know about primes, plus what they know about the oracle, plus what they are told by the oracle, probably entails that there are infinitely many stars. So there is, probably, a conclusive implication from their evidence to that conclusion. But there is no reasonable inference from their evidence to the conclusion that there are infinitely many stars. That inference requires knowing something that is not in evidence, namely that there are infinitely many twin primes. The fact that this fact is a logical truth (or at least is logically entailed by things they know about primes) is irrelevant. A probably conclusive implication can be a definitely unreasonable inference, and is in this case. Unless [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} has a proof of the twin prime conjecture up his sleeve, one that he hasn't shared with his co-authors, he should move his credences in the direction of [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s. That is, he should conciliate. It's possible that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} should conciliate too; I haven't said nearly enough about the case to settle that one way or the other. I think the mistaken idea that entailments generate maximally strong inferences has led to some confusion about what to say about certain cases, and that will become relevant as we progress.
 
-### Independence and Conciliationism {#independenceandconciliationism}
+## Independence and Conciliationism {#independenceandconciliationism}
 
 In early writings on concliationism, such as those by @Elga2007 and @Christensen2009, there was a line of argument from principles like Independence (as we've discussed in previous chapters) to conciliationism. This line is flawed, for reasons well set out by Errol @Lord2014. The point of this section is simply to rehearse Lord's arguments before moving onto other possible motivations for conciliationism.
 
@@ -107,7 +107,6 @@ There are weaker and stronger versions of the kind of Independence principle tha
 More plausible independence principles restrict the circumstances in which one must rely on independent reasons to dismiss a conflicting view. There are two interesting restrictions we could look at:
 
 -   Independence might be restricted to cases where the disagreeing parties are known to be just as good at reading the evidence. (We could break this down into two sub-cases depending on whether 'good' is understood in terms of accuracy or rationality, but this won't matter.)
-
 -   Independence might be restricted to cases where the disagreeing parties are known to have the same evidence.
 
 But, and this is the crucial point that Lord makes, neither of these restrictions on their own gives us a plausible principle. If we only impose the first restriction, we end up with the implausible conclusion that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} is expected to conciliate in this case.
@@ -130,7 +129,7 @@ Now if independence just requires that the parties had the same evidence, and th
 
 So just putting each of these restrictions on independence singularly does not yield a viable principle. What happens if we put both restrictions on at once, and say independence holds only if the parties are known to have the same evidence and known to be just as good (in some sense) at processing it? Lord points out that then we don't have a premise in an interesting argument for conciliationism. Rather, the independence principle that is supposed to motivate conciliationism has just become a statement of conciliationism. So it can't provide any independent support for it.
 
-### Circularity and Conciliationism {#circularityandconciliationism}
+## Circularity and Conciliationism {#circularityandconciliationism}
 
 Conciliationism has been supported, or at least anti-conciliationist positions opposed, with arguments that anti-conciliationism lapses into an implausible kind of circularity. Here are a couple of quotes setting out this kind of worry. First, from Adam Elga.
 
@@ -152,35 +151,35 @@ There are a number of ways we could try to turn these rhetorical questions into 
 
 Now I will note one sense in which those replies in chapter 9 might miss the mark. Machuca is defending a form of Pyrrhonian scepticism. And many of my defences of externalism involved showing that the principles deployed against externalism had implausible consequences. In particular, they implied Pyrrhonian scepticism. Now that won't look implausible to a Pyrrhonian like Machuca. Here I must simply note that I'm taking it as a fixed point that we do know a lot, and that Pyrrhonian scepticism is false. This obviously loses some potential converts, but I doubt it is possible to find philosophical arguments that work for one's position against all possible rivals  [@Lewis1982c].
 
-### Six Examples {#sixexamples}
+## Six Examples {#sixexamples}
 
 The last two sections reply to arguments based on general theoretical principles in favor of conciliationism. The prospects for this way of defending the EWV, or indeed any conciliatory position, look dim. But these general theoretical principles have not been what have most moved philosophers towards conciliationism. Rather, they are moved by the idea that the EWV, or at least some form of conciliationism, is the best explanation of the clear facts about some simple cases. The literature here, as with the literature on higher-order evidence, suffers from that "main cause of philosophical disease--an unbalanced diet: one nourishes one's thinking with only one kind of example."  [@Wittgenstein1953 §593]. I can't claim to offer a balanced diet, but I can offer the start of a more varied one. Here are six new morsels that will form the basis of the discussion to follow. I'm going to argue that the evidence aggregation view can explain the last two, while conciliationist can not. And I'll argue there is no case that the conciliationist can explain while the evidence aggregation theorist can not.
 
-#### Arithmetic
+### Arithmetic
 
 [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are working on some arithmetic problems. They both know that they have a similar track record at these problems; both are reliable, with very similar rates of mistakes. They are trying to work out *What is 22 times 18?*. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} correctly works out that it is 396; [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} says that it is 386. What should their credences in each answer be?
 
-#### Jellybeans
+### Jellybeans
 
 [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are trying to guess how many jellybeans are in a sealed, transparent container. They both have equal access to the container, and they both know that they have similarly good track records at this kind of game. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} correctly guesses that there are 396; [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} guesses that there are 386. What should their credences in each answer be? (A similar case is considered by Jack L. @Treynor1987.)
 
-#### Detectives
+### Detectives
 
 [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are the two best murder detectives in the world. They both know that they are the only peers they each have, and that they have very similar track records of success, with equal (and rare) failures. They are brought in to solve a mystery that no one has made any progress on. Each quickly sees that it could only be the butler or the gardener. [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} has equal credence in each suspect, but [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} figures out a subtle reason that it could not have been the gardener, so is sure the butler did it. And in fact the butler did do it, and [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} is right about why the gardener could not have done it. After they compare credences, [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} giving equal credence to each suspect, and [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} being sure it is the butler, what should their credences in each answer be? (I owe this case to Ben @Levinstein2013.)
 
-#### Football
+### Football
 
 [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are both very good at predicting football games of different codes. They both typically make highly rational predictions, and they both have excellent (and similar) records for accuracy. They both know all this, and they have the same public evidence about this weekend's matches. They are comparing their credences in the home team winning ahead of two big matches: an Australian Rules match in Melbourne, and an English Premier League match in London. For each match, [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} has a credence of 0.9 that the home team will win, and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} has a credence of 0.1 that the home team will win. They both regard the matches as completely independent, so [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s credence that both home teams will win is 0.81, while [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s is 0.01, and each of them have credence 0.09 in each of the hypotheses that one particular home team will win and the other will not. Once they share their credences with each other, what should their credence be that (a) the home team will win the Australian Rules match, (b) the home team will win the English Premier League match, and (c) both home teams will win?
 
-#### Simple Arithmetic {#simplearithmetic}
+### Simple Arithmetic {#simplearithmetic}
 
 [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are working on some arithmetic problems. They both know that they have a similar track record at these problems; both are reliable, with very similar rates of mistakes. They are answering the question *What is 2 plus 2?*. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} says it is 4; [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} says that it is 5. What should their credences in each answer be?
 
-#### Doctors
+### Doctors
 
 [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} are the two best cardiologists in the world. They know each other to be peers, the only peers each has. They are brought in to diagnose a case that has stumped all the other experts in the field. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} judges that it is likely disease A, but she is just short of fully believing it is disease A, since she thinks disease B is an unlikely, but real, possibility. This is the rational response to the evidence. Although the patient has disease A, the evidence available to an expert cardiologist is just short of being sufficient to ground knowledge that the patient has disease A, since B is also a realistic possibility. She reports all this when she and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} compare notes, but [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} reports that he is confident that the patient has disease A. What should their credence in each diagnosis be?
 
-#### My Verdicts {#myverdicts}
+### My Verdicts {#myverdicts}
 
 These cases are, in general, not so clear that we can simply know what is true about them after a moment's thought, and use that knowledge to evaluate theories. But for the record, here are my verdicts on the cases.
 
@@ -192,7 +191,7 @@ I have no idea what the answer to the third question in **Football**, about the 
 
 In each of the last three cases, **Detectives**, **Simple Arithmetic** and **Doctors** [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} should not conciliate, and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} should move his credence dramatically in the direction of [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s. Or at least so I say.
 
-### Equal Weight and the Cases {#equalweightandthecases}
+## Equal Weight and the Cases {#equalweightandthecases}
 
 On the face of it, the EWV gets at most one of the six cases right. After all, the only case where it seems even prima facie right to move to a credence half-way between the two expressed views is **Arithmetic**. But a more nuanced understanding of the cases lets EWV handle **Jellybeans**, and a more subtle version of conciliationism does well (or at least well enough) with **Detectives** and **Football**. If there is a case-based objection to conciliationism, it comes from the last two cases. But first I want to go over why the second, third and fourth cases are really not problems for conciliationism. Why, as an anti-conciliationist, should I do that? It's for two reasons. First, I want to demonstrate how hard it is to use any case around here to show that a particular view on disagreement is wrong. Second, we get an interesting insight into the range of possible and indeed plausible versions of conciliationism by working through the cases carefully.
 
@@ -214,17 +213,15 @@ We can also think about **Football** as an 'insider-outsider' problem. This case
 
 Assume that [Chika]{acronym-label="Chika" acronym-form="singular+short"} knows nothing about football (of any code), but does know about [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s predictive records and their credences concerning these games. And assume that she's an ideal aggregator. Finally assume, more or less for reductio, that [Chika]{acronym-label="Chika" acronym-form="singular+short"} aggregates probabilistic judgments by taking the linear average of them. (If that's right, the EWV and the 'insider-outsider' version of conciliationism coincide; if it isn't right, they don't.) The following table gives [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}, [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} and [Chika]{acronym-label="Chika" acronym-form="singular+short"}'s credences and conditional credences, assuming that [Chika]{acronym-label="Chika" acronym-form="singular+short"} does this. I'll use *p* for the home team wins the Australian match and *q* for the home team wins the English match.
 
-::: tabulary
-\@llllll\@ & $p$ & $q$ & $p \wedge q$ & $q \vert p$\
+|   | *p* | *q* | *p* ∧ *q* | *p* \| *q* |
+|:--|:---:|:---:|:---------:|:----------:|
+| Ankita | 0.9 | 0.9 | 0.81 | 0.9 |
+| Bojan | 0.1 | 0.1 | 0.01 | 0.1 |
+| Chika | 0.5 | 0.5 | 0.41 | 0.82| 
 
-[Ankita]{acronym-label="Ankita" acronym-form="singular+short"} & 0.9 & 0.9 & 0.81 & 0.9\
-[Bojan]{acronym-label="Bojan" acronym-form="singular+short"} & 0.1 & 0.1 & 0.01 & 0.1\
-[Chika]{acronym-label="Chika" acronym-form="singular+short"} & 0.5 & 0.5 & 0.41 & 0.82\
-:::
+The key number is in the bottom right. Assuming that [Chika]{acronym-label="Chika" acronym-form="singular+short"} plans to update by conditionalisation, that means that although her credence in *q*  is now 0.5, if she learns *p* , it will rise to 0.82.
 
-The key number is in the bottom right. Assuming that [Chika]{acronym-label="Chika" acronym-form="singular+short"} plans to update by conditionalisation, that means that although her credence in $q$ is now 0.5, if she learns $p$, it will rise to 0.82.
-
-It has been argued, e.g. by @Loewer1985 and @JehleFitelson2009 that this is a mistake for the following reason. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} both take the games to be probabilistically independent. So [Chika]{acronym-label="Chika" acronym-form="singular+short"}, who only has their credences to go on, should take them to be independent too. This argument doesn't work, for a reason Sarah @Moss2011 gives. The probabilities in this table are evidential probabilities. Even if the games are physically independent, it could be that the result of one gives [Chika]{acronym-label="Chika" acronym-form="singular+short"} evidence about the other. And that is what happens; if she learns $p$ she gets one more data point in favor of [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s general accuracy in football-predicting, and against [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s. So it is plausible that, for her, learning $p$ will raise her credence in $q$.
+It has been argued, e.g. by @Loewer1985 and @JehleFitelson2009 that this is a mistake for the following reason. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} both take the games to be probabilistically independent. So [Chika]{acronym-label="Chika" acronym-form="singular+short"}, who only has their credences to go on, should take them to be independent too. This argument doesn't work, for a reason Sarah @Moss2011 gives. The probabilities in this table are evidential probabilities. Even if the games are physically independent, it could be that the result of one gives [Chika]{acronym-label="Chika" acronym-form="singular+short"} evidence about the other. And that is what happens; if she learns *p*  she gets one more data point in favor of [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s general accuracy in football-predicting, and against [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s. So it is plausible that, for her, learning *p*  will raise her credence in *q* .
 
 What isn't plausible, as Staffel notes, is that it could raise her credence that much. We can imagine, consistent with everything I've said so far, that [Chika]{acronym-label="Chika" acronym-form="singular+short"} has a lot of evidence about [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s track records. If *p* is true, then [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} did better at forecasting *p* than [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} did. So that's a reason to no longer given exactly equal weights to their forecasts. But for all I've said so far, this might mean that we have a data set consisting of 1001 times that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s forecast was better, and 1000 times that [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s forecast was better. That does not look like a good reason to have a probability for *q* that is several times closer to [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s forecast than it is to [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s. More generally, just what number goes into the bottom right of the table should be sensitive to how much information we have about [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}, and not just to the balance between them. Arguably, having a conditional credence for *q* given *p* of 0.82 could be reasonable if [Chika]{acronym-label="Chika" acronym-form="singular+short"} knew almost nothing about [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} and [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} before the games were played. But it is not reasonable if she has a very substantial set of results where they have both done very well, and within that a substantial and balanced set of results in games where they have disagreed. But the Equal Weight View is insensitive to the quantity of information that [Chika]{acronym-label="Chika" acronym-form="singular+short"} has.
 
@@ -234,7 +231,7 @@ What I'm saying here is very similar to what I said in the chapter 6 about the p
 
 On the other hand, **Doctors** is a problem for conciliationism, and looking at the problem through [Chika]{acronym-label="Chika" acronym-form="singular+short"}'s eyes doesn't help the conciliationist. If [Chika]{acronym-label="Chika" acronym-form="singular+short"} knows that [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} is certain of a diagnosis, and that [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} gives that credence a very high credence just short of belief, it seems prima facie plausible that [Chika]{acronym-label="Chika" acronym-form="singular+short"} should conclude from that that the diagnosis is correct. Unless we have some way to motivate a theory of judgment aggregation where the aggregate opinion is never more confident in a proposition than the weakest member, there must be some such cases where [Chika]{acronym-label="Chika" acronym-form="singular+short"} should believe the diagnosis is correct. But [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} should not share this confidence. She should not find her doubts assuaged by [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s not sharing them. So **Doctors** is a counterexample to the 'insider-outsider' version of conciliationism. And that's the only version that seems to get **Football** right. So no version of conciliationism can get both these cases right.
 
-It is easy for the evidentialist to say what's going on in **Simple Arithmetic**. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} has maximally strong evidence that 2 plus 2 is in fact 4. That's not just because the conclusion is a logical truth. There are plenty of logical truths that we have insufficient evidence to believe, either because we don't know which logics validate them, or because we don't know what the correct logic is. Rather, it is because the inference from $x = 2 + 2$ to $x = 4$ is one that is immediately justified, without the need for further steps. [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s disagreement can't dislodge that.
+It is easy for the evidentialist to say what's going on in **Simple Arithmetic**. [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} has maximally strong evidence that 2 plus 2 is in fact 4. That's not just because the conclusion is a logical truth. There are plenty of logical truths that we have insufficient evidence to believe, either because we don't know which logics validate them, or because we don't know what the correct logic is. Rather, it is because the inference from *x* = 2 + 2 to *x* = 4 is one that is immediately justified, without the need for further steps. [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s disagreement can't dislodge that.
 
 But how can the conciliationist handle the case? It doesn't seem very plausible to say that when an otherwise reasonable person says that two plus two is five, we're obliged to doubt that it is four. The usual response on behalf of conciliationists is to appeal to the notion of 'personal information'. The idea was first developed by Jennifer @Lackey2010, but I want to first mention the version of this defence put forward by David @Christensen2011. (Christensen is describing a scenario where the narrator plays the role of Ankita, and Bojan is their friend.)
 
@@ -252,7 +249,7 @@ Simple arithmetic cases are important not just because they raise problems for c
 
 Well, consider the case when *p* is the proposition that two plus two is four, and [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} is the party who believes *p*, while [Bojan]{acronym-label="Bojan" acronym-form="singular+short"} rejects it. Having an omniscient referee tell the parties that one of them is mistaken should produce asymmetric responses in the two parties. Now maybe there are only a small class of cases where this is the case, and what Enoch says is right in the majority of cases. But we can't argue for that on perfectly general grounds about the nature of disagreement, because it fails in extreme cases like **Simple Arithmetic**. The argument that it holds in normal cases needs a distinct defence.
 
-### The Evidence Aggregation Approach {#theevidenceaggregationapproach}
+## The Evidence Aggregation Approach {#theevidenceaggregationapproach}
 
 Having gone over how conciliationism handles, or doesn't handle, the cases, let's compare it to how an evidence aggregation view handles them. We'll look at them in reverse order, because the earlier cases are harder for the view.
 
