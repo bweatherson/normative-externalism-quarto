@@ -1,6 +1,6 @@
-## Higher-Order Evidence
+# Higher-Order Evidence
 
-### Varieties of Higher-Order Examples {#varietiesofhigher-orderexamples}
+## Varieties of Higher-Order Examples {#varietiesofhigher-orderexamples}
 
 Higher-order evidence is evidence about one's own evidence, or reliability, or rationality. Several examples have been proposed which are often taken to show that rationality requires adjusting one's confidence in certain propositions to higher-order evidence. And the best explanation of that phenomena may well be that some level-crossing principle or other is true. Since it's my task to argue against level-crossing principles, I need to say something about these examples.
 
@@ -44,7 +44,7 @@ So now we have another task for our theory to perform. It must explain why there
 
 I'm going to argue that a theory that rejects level-crossing principles, and accepts Change Evidentialism, is best placed to explain these four cases.
 
-### Diagnoses and Alternatives {#diagnosesandalternatives}
+## Diagnoses and Alternatives {#diagnosesandalternatives}
 
 It is easy to see why one might think [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s case is a problem for Change Evidentialism. Imagine that [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s twin sister is also a medical resident, and looks at the same public data about [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s patient. And she, like [Riika]{acronym-label="Riika" acronym-form="singular+short"}, concludes that the patient has dengue fever. Now the residents are both told that [Riika]{acronym-label="Riika" acronym-form="singular+short"} (but not her sister) has been awake for 36 hours, and hence a member of a class that is systematically over-confident in their diagnoses. This seems like a reason for [Riika]{acronym-label="Riika" acronym-form="singular+short"}, but not her sister, to reduce their confidence that the patient has dengue fever. And that's a problem for Change Evidentialism. That [Riika]{acronym-label="Riika" acronym-form="singular+short"} has been awake for 36 hours either is, or is not, evidence against the hypothesis that the patient has dengue fever. If it is, then both sisters should become less confident. If, more plausibly, it is not, then if [Riika]{acronym-label="Riika" acronym-form="singular+short"} should change, that violates Change Evidentialism.
 
@@ -73,38 +73,29 @@ There is another complication to consider here. [Riika]{acronym-label="Riika" ac
 
 It is here that concerns about one's own alertness become particularly pressing. At least in my own case, the most worrying consequence of excessive tiredness is that I overlook alternative explanations of phenomena. When that happens, my abductive inferences to particular explanations are unreasonable because I should have looked harder for alternatives before settling on one explanation. So let's spend some time thinking about how this might affect the reasonableness of [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s diagnosis.
 
-### Tiredness and Abduction {#tirednessandabduction}
+## Tiredness and Abduction {#tirednessandabduction}
 
 We'd like to show that NR is true, and even better, that LNR is true, without positing any kind of level-crossing principle.
 
 NR
-
 :   It is Not Reasonable for [Riika]{acronym-label="Riika" acronym-form="singular+short"} to believe that her patient has dengue fever.
 
 LNR
-
 :   When she Learned that she had been awake for 36 hours, it became Not Reasonable for [Riika]{acronym-label="Riika" acronym-form="singular+short"} to believe that her patient has dengue fever.
 
 Since we're not using level crossing principles, we can't reason as follows.
 
 1.  [Riika]{acronym-label="Riika" acronym-form="singular+short"} has been awake for 36 hours, and she knows this.
-
 2.  So it is reasonable for her to believe that her diagnoses are unreasonable.
-
 3.  Whenever it is reasonable to believe that some mental state is unreasonable, it is unreasonable to maintain that mental state.
-
 4.  It was not unreasonable to believe that she'd made a reasonable diagnosis before learning how long she'd been awake.
-
 5.  So, from 3 and 4, LNR is true.
 
 If we want to reject level-crossing principles, then we have to reject step 3 of that purported explanation. We need to find something to put in its place. I'm going to offer three explanations. The first two are probably flawed. But I'm offering them in part because they aren't obviously wrong, and would solve the problem without appeal to level-crossing principles. And, more importantly, thinking through what's wrong with these explanations helps us see what's right about the correct explanation of [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s case. Here is the first of these probably flawed explanations.
 
 1.  To reasonably conclude that *p* by abductive inference, [Riika]{acronym-label="Riika" acronym-form="singular+short"} needs to antecedently, reasonably believe that other explanations of the data fail.
-
 2.  Her best evidence is that other explanations of the data fail is that (a) it seems to her that no other explanation works, and (b) she is a reliable judge of when alternative explanations are available.
-
 3.  When she learns she has been awake for 36 hours, she is no longer in a position to reasonably use part (b) of that evidence.
-
 4.  So LNR is true; once she learns that she has been awake for 36 hours, she can no longer reasonably make the abductive inference from the data to the diagnosis of dengue fever.
 
 I suspect there are two, related, mistakes in this explanation. It relies on a 'psychologised' conception of evidence, and Timothy @Williamson2007 has argued convincingly against that conception of evidence. It isn't at all obvious that [Riika]{acronym-label="Riika" acronym-form="singular+short"} has to reason from how things seem to her to conclusions about the world in order to form medical diagnoses.
@@ -114,9 +105,7 @@ And it isn't obvious that [Riika]{acronym-label="Riika" acronym-form="singular+s
 Even if all that is true, there is still a skill that is needed. That skill needs to reliably rule out alternative explanations. And [Riika]{acronym-label="Riika" acronym-form="singular+short"} is really tired; maybe she can't exercise that skill while so tired. This idea leads to our second (probably mistaken) explanation.
 
 1.  To reasonably conclude that *p* by abductive inference, [Riika]{acronym-label="Riika" acronym-form="singular+short"} has to be able to reliably rule out alternative explanations as unreasonable.
-
 2.  Since she's been awake for 36 hours, [Riika]{acronym-label="Riika" acronym-form="singular+short"} cannot reliably rule out alternative explanations of the symptoms as unreasonable.
-
 3.  So NR is true; [Riika]{acronym-label="Riika" acronym-form="singular+short"} cannot make the diagosis reasonably because she cannot reliably rule out alternatives.
 
 One shortcoming of this explanation is that it doesn't explain LNR. Indeed, if the premises here are true, then LNR is in fact false. It is the fact that [Riika]{acronym-label="Riika" acronym-form="singular+short"} has been awake for 36 hours that makes her diagnosis unreasonable, not her learning that she's been awake that long. To the extent that we think LNR is true, that's a reason to dislike the explanation.
@@ -128,16 +117,14 @@ The alternative explanation starts with the observation that the reliability of 
 A similar story holds true for skills. To learn that the patient has dengue fever, [Riika]{acronym-label="Riika" acronym-form="singular+short"} has to exercise her skill at reliably ruling out alternative explanations of the data. And while she has such a skill, she has no reason to believe that she has it. Indeed, she has a positive reason to believe that she lacks it, since she has been awake so long, and people who have been awake that long typically lack the skill. So she should not rely on the skill. Here, then, is my preferred explanation for what's going on in [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s case. I'll call that explanation the *evidentialist explanation* in what follows, since it makes key use of how evidence does (or does not) change in explaining changes in what states it is rational to hold.
 
 1.  To reasonably conclude *p* by abductive inference, [Riika]{acronym-label="Riika" acronym-form="singular+short"} must reasonably rely on her skill at excluding alternative explanations of the data.
-
 2.  It is not reasonable to rely on a skill if one has excellent, undefeated, evidence that one does not currently possess the skill.
-
 3.  So, once [Riika]{acronym-label="Riika" acronym-form="singular+short"} learns she has been awake 36 hours, she cannot reasonably infer from the observed data to the conclusion that the patient has dengue fever.
 
 If this explanation is correct, the case is not a counterexample to Change Evidentialism, and we do not need to appeal to level-crossing principles. [Riika]{acronym-label="Riika" acronym-form="singular+short"} had to rely on her sensitivity to explanations she had not considered in order to have a justified diagnosis. Even though she is, in the circumstances, sufficiently sensitive to alternative explanations, she could not reasonably rely on that sensitivity when she has such good evidence that her skills are temporarily diminished. So her belief that the patient has dengue fever is unjustified.
 
 That is our explanation of why [Riika]{acronym-label="Riika" acronym-form="singular+short"} loses knowledge, and loses reasonable belief, when she learns that she has been awake for 36 hours. But it isn't the only possible explanation. There are, for example, explanations that appeal to level-crossing principles. Why should we prefer the explanation I just offered? As I'll argue in the next section, the answer is that only this explanation in terms of skill can generalise to cover all of the cases.
 
-### Explaining all Four Cases {#explainingallfourcases}
+## Explaining all Four Cases {#explainingallfourcases}
 
 Let's start with Raina. Unlike [Riika]{acronym-label="Riika" acronym-form="singular+short"}, Raina needs neither specialist background information, nor expert insight, to form a diagnosis. There's a guy with his hair on fire, and she comes to the belief that his hair is on fire. She perhaps needs the background information that burning hair burns and smells, and has a distinctive fiery appearance, but most adults will have that information ready to hand in case of emergency. So the kinds of evidence that are threatened by fatigue are not needed to form the judgment in Raina's case. So she still knows, even in her fatigued state, that her patient's hair is on fire. Since judging that the patient's hair is on fire doesn't require any particular skill, it doesn't matter that her skills are diminished.
 
@@ -184,7 +171,6 @@ I've described four theories of memory, two synchronic and two diachronic. On th
 And what we say about [Hugh]{acronym-label="Hugh" acronym-form="singular+short"} carries over to [Regina]{acronym-label="Regina" acronym-form="singular+short"}'s case. The big issue is whether she (still) has the following two propositions as evidence.
 
 1.  All lethargic patients with yellow eyes are jaundiced.
-
 2.  All jaundiced patients should be treated with quinine.
 
 If she has 1 and 2, then she should treat her patient with quinine. This isn't, or at least isn't just, because 1 and 2 entail that she should treat her patient with quinine. It's rather because these pieces of evidence provide strong and immediate support for the claim that she should treat her patient with quinine.
@@ -202,14 +188,12 @@ The level-crossing explanation of [Riika]{acronym-label="Riika" acronym-form="si
 So [Roshni]{acronym-label="Roshni" acronym-form="singular+short"} is a counterexample to a lot of level-crossing principles. The following claims about her are true:
 
 -   [Roshni]{acronym-label="Roshni" acronym-form="singular+short"} rationally believes that *p*.
-
 -   [Roshni]{acronym-label="Roshni" acronym-form="singular+short"} could not rationally believe that she rationally believes that *p*.
-
 -   [Roshni]{acronym-label="Roshni" acronym-form="singular+short"} should believe that her evidence does not support rational belief in *p*.
 
 And level-crossing principles are meant to rule out just those combinations. So [Roshni]{acronym-label="Roshni" acronym-form="singular+short"}'s case does not just undermine an abductive argument for level-crossing principles, it provides direct evidence that those principles are mistaken.
 
-### Against Bracketing {#againstbracketing}
+## Against Bracketing {#againstbracketing}
 
 David Christensen draws a different response to these puzzles involving higher-order evidence. His theory is that higher-order evidence requires us to 'bracket' first-order evidence. Here is how he introduces the idea. (The background is that he is discussing a case where he did a logic problem, got the right answer, and then was told he took a drug that distorts most people's logical abilities.)
 
