@@ -1,4 +1,4 @@
-## A Dilemma for Internalism {#adilemmaforinternalism}
+# A Dilemma for Internalism {#adilemmaforinternalism}
 
 In the previous chapter I argued against the idea that we should treat factual uncertainty and normative uncertainty symmetrically. In this chapter I'll assume for the sake of the argument that the arguments of the previous chapter are unsuccessful. The upshot of that would be that we prefer theories that respect this symmetry. But this preference cannot be absolute. As with everything else in philosophy, we have to ask what the cost of satisfying this preference would be.
 
@@ -6,7 +6,7 @@ And in this chapter I'll argue that the costs are not worth paying. There are th
 
 The argument I'm offering here is based on a very similar argument that Miriam @Schoenfield2014 offers against various kinds of normative internalism in epistemology. The idea our arguments share is that the more subjective an internalism gets, the less plausible its verdicts about cases are, while the more objective it gets, the less well it is motivated by symmetry. Schoenfield primarily is interested in developing a problem for some forms of normative internalism in epistemology, but as we'll see, the same dilemma arises for internalism in ethics.
 
-### Six Forms of Internalism {#sixformsofinternalism}
+## Six Forms of Internalism {#sixformsofinternalism}
 
 The following schema can be converted into one of six internalist theses by picking one of the 3 options on the left and one of the 2 options on the right.
 
@@ -21,7 +21,6 @@ And I really want the six theses to be understood in an even stronger way. They 
 It will help to have some abbreviations for the six theories. I'll use abbreviations for all five of the possible choices, and concatenate them to get abbreviations for the whole theory. I'll use **Ri** for rightness, **Pr** for praiseworthiness, **Ra** for rationality, **C** for credal and **E** for evidential. So, for instance, here are two theses one can express using this terminology.
 
 -   **RiE** - Rightness is doing the action with the highest evidential expected goodness.
-
 -   **PrC** - Praiseworthiness is doing the action with the highest credal expected goodness.
 
 I've picked these because they are close to two theses endorsed by Michael @Zimmerman2008. They aren't exactly what he endorses; he leaves it open whether agents should be using expected value calculations, or some nearby variant. But they are nice, clean theories, and for that reason useful for theorising about. And Zimmerman is hardly the only theorist to endorse something in the vicinity. Andrew @Sepielli2009 endorses something like **RaC**, and Michael [@Smith2006; @Smith2009] endorses something like **PrC** and **RaC**.
@@ -29,20 +28,18 @@ I've picked these because they are close to two theses endorsed by Michael @Zimm
 The short version of this chapter is that the following three theses are both true and deeply problematic for any kind of internalism.
 
 1.  Both **RiC** and **PrC** theories make false claims about cases of what Nomy @Arpaly2003 [10] calls "inadvertent virtue" and "misguided conscience".
-
 2.  The **E** theories are unmotivated; they are a compromise between two extreme theories, but they inherit the vices and not the virtues of those extremes.
-
 3.  The **Ra** theories posit an asymmetry between cases of factual and normative uncertainty that undermines another kind of symmetry the internalist takes to be intuitive.
 
 So none of the 6 theories are true. But more than that, the way in which the 6 theories collectively fail suggests that the problem won't be solved by adding epicycles, or weakening the theories to deal with hard cases. There is no version of normative internalism in ethics that is both motivated and plausible.
 
 Sections 4.3--4.5 will deal with each of these theses in order. But first I need to say something about the assumptions behind the chapter. In particular, I need to say something about which possible theses are being set aside until the end of the chapter. And saying something about why we're setting various views aside will help position this chapter in the rest of the book.
 
-### Two Difficult Cases {#twodifficultcases}
+## Two Difficult Cases {#twodifficultcases}
 
 There are four ways one could try to motivate normative internalism: by appeal to cases, by appeal to principles about coherence, by appeal to principles about guidance, and by appeal to symmetry. The first two are notably absent in the literature on normative internalism in ethics, though they will play a major role when we turn to epistemology.
 
-There are, to be sure, plenty of arguments that talk about cases where agents have specified credences in theories $T_1$ or $T_2$, but typically, these arguments will not specify what $T_1$ and $T_2$ are. See, for example, @GustafssonTorpman2014 and the papers cited therein, for instances of this phenomena.[^28] I don't think these are really arguments from cases, since nothing like a case that we can have intuitions about is specified until we are told at least roughly what $T_1$ and $T_2$ are. If we were told that, for example, $T_1$ is [Saint-Just]{acronym-label="Saint-Just" acronym-form="singular+short"}'s theory that the world has been empty since the Romans, and $T_2$ is Ayn Rand's version of egoism, we would have an example that we could have intuitions about.[^29] @Lockhart2000 does include some case studies where he assigns credences to particular moral theories - including Rand's but not as it turns out [Saint-Just]{acronym-label="Saint-Just" acronym-form="singular+short"}'s. But this isn't part of his defence of internalism, it's in the service of arguing from his internalist theory to various claims in applied ethics.
+There are, to be sure, plenty of arguments that talk about cases where agents have specified credences in theories *T*~1~ or *T*~2~, but typically, these arguments will not specify what *T*~1~ and *T*~2~ are. See, for example, @GustafssonTorpman2014 and the papers cited therein, for instances of this phenomena.[^28] I don't think these are really arguments from cases, since nothing like a case that we can have intuitions about is specified until we are told at least roughly what *T*~1~ and *T*~2~ are. If we were told that, for example, *T*~1~ is [Saint-Just]{acronym-label="Saint-Just" acronym-form="singular+short"}'s theory that the world has been empty since the Romans, and *T*~2~ is Ayn Rand's version of egoism, we would have an example that we could have intuitions about.[^29] @Lockhart2000 does include some case studies where he assigns credences to particular moral theories - including Rand's but not as it turns out [Saint-Just]{acronym-label="Saint-Just" acronym-form="singular+short"}'s. But this isn't part of his defence of internalism, it's in the service of arguing from his internalist theory to various claims in applied ethics.
 
 [^28]: And, for what it's worth, in the papers I've seen so far citing @GustafssonTorpman2014, though that may change.
 
@@ -55,9 +52,7 @@ It will also be best to leave pure coherence based arguments until we get to epi
 But there is one version of the coherence argument that I want to more explicitly set aside. Consider a theory that accepts all three of the following principles. (See @Markovits2014 for a sophisticated version of the kind of theory I have in mind, but note that I'm simplifying a lot here to make a methodological point.)
 
 -   One should always do the right thing, and one should do the right thing in virtue of the right-making features of those actions, not in virtue of one's moral beliefs.
-
 -   Rationality requires that ones moral beliefs include all and only the true moral propositions.
-
 -   Immoral action is irrational.
 
 Such a theory might agree with something like **RaC**. At the very least, it will say that rationality requires doing the action with the highest credal expected goodness. But that's because rationality requires both that one give credence 1 to the true claim about which action is good to perform, and rationality requires performing the action that is good to perform.
@@ -69,9 +64,7 @@ Is this theory internalist or externalist? I don't think it helps to try to clas
 I discussed the guidance arguments earlier in the book, and argued that they only supported an implausibly subjectivist version of internalism. Not coincidentally, that's going to be similar to what I say in this chapter about the symmetry argument But you might think there is another way to block the argument from symmetry to internalism. This chapter and the last have been focussed on the following argument.
 
 1.  Expected utility theory provides the correct treatment of decision making under factual uncertainty.
-
 2.  Factual uncertainty and normative uncertainty should be treated symmetrically.
-
 3.  So some kind of internalist theory provides the correct treatment of decision making under moral uncertainty.
 
 That's not valid, because a lot of the terms in it are rather vague. But I'm not going to dispute the inference here; if the premises are both true, then they will support some kind of theory that I want to reject.
@@ -81,10 +74,9 @@ I'm also going to assume, for now, that premise 1 of this argument is basically 
 So to recap, we're making two large presuppositions at this stage of the dialectic. The defence of these presuppositions is largely in earlier chapters, but as noted above, some of it is to come. The presuppositions are:
 
 1.  The best argument for normative internalism is an argument from the symmetrical treatment of factual and normative uncertainty. This is an argument for a kind of internalism because (contra traditional consequentialism) factual uncertainty matters to the moral and rational status of actions.
-
 2.  Neither rationality nor morality requires moral omniscience, so if the morality or rationality of an action is sensitive to the actor's actual credence in moral propositions, or to the rational credence in those propositions given their evidence, then in some sense what they should do will differ from what the true (but unknown) moral or epistemological theory says they should do.
 
-### Inadvertent Virtue and Misguided Conscience {#inadvertentvirtueandmisguidedconscience}
+## Inadvertent Virtue and Misguided Conscience {#inadvertentvirtueandmisguidedconscience}
 
 The next three sections will defend the three principles from the end of 4.1. So our aim here is to defend:
 
@@ -97,17 +89,13 @@ Arpaly's paradigm of inadvertent virtue is [Huck]{acronym-label="Huck" acronym-f
 Here are a few basic truths about [Huck]{acronym-label="Huck" acronym-form="singular+short"}leberry's actions in helping Jim remain free.
 
 1.  [Huck]{acronym-label="Huck" acronym-form="singular+short"}leberry does the right thing.
-
 2.  [Huck]{acronym-label="Huck" acronym-form="singular+short"}leberry does not do the wrong thing.
-
 3.  [Huck]{acronym-label="Huck" acronym-form="singular+short"}leberry is praiseworthy for helping Jim remain free.
-
 4.  [Huck]{acronym-label="Huck" acronym-form="singular+short"}leberry is not blameworthy for helping Jim remain free.
 
 If a philosophical theory rejects any of those four claims, it is wrong. Here are two more claims that I think are true, though I'm not going to rest any argumentative weight on them, since I suspect they will strike most readers as, at best, controversial.
 
 5.  Huckleberry's upbringing, and in particular the testimony from his parents, friends and teachers, provides strong evidence for the false moral theory that he in fact believes, namely that morality requires him to turn Jim in, and Huckleberry's relationship with Jim does not provide strong enough counter-evidence to make that belief irrational.
-
 6.  Huckleberry is rational, and not irrational, to help Jim to remain free.
 
 If all of 1 through 6 are true, then all 6 of the theories we started with are false. Turning in Jim maximises both credal and evidential expected goodness. But helping Jim is right (1), praiseworthy (3) and rational (6). So all six theories are false.
@@ -120,7 +108,7 @@ The argument of the last paragraph relies heavily on 5 and 6 though. If 5 is fal
 
 As it stands, the various versions of the **C** theories say that these three actors are either acting rightly, or praiseworthily, or rationally. And again, the first two of these evaluations are wrong, at least if abortion and gay marriage really are morally permissible. Note that I'm not here claiming that the false moral beliefs involved are normatively irrelevant; it's consistent with what I say here that the characters in Harman's stories are blameless without being praiseworthy. I'm going to argue against that view in the next chapter, but I'll set it aside for now. What we need to focus on first is whether their mistaken moral belief suffices for their action being praiseworthy, and it does not.
 
-### Ethics and Epistemology {#ethicsandepistemology}
+## Ethics and Epistemology {#ethicsandepistemology}
 
 In the previous section we looked at arguments against **C** theories; theories that linked normative statuses to the agent's own credences. In this section we'll look at **E** theories, with the aim being to defend this principle.
 
@@ -134,16 +122,15 @@ What [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} doesn't know i
 
 [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} doesn't know what she should do. But she also doesn't know what action will maximise expected goodness. She knows that according to the consequentialist theory, performing the prank maximises goodness. She knows that according to the deontological theory, not performing the prank maximises goodness. But she needs to know a lot more than that to work out what maximises expected goodness. She needs to fill in two variables in the following table.
 
-::: tabulary
-\@lll\@ & Consequentialist (Pr = $p$) & Deontologist (Pr = $1-p$)\
+|   | Consequentialist (Pr = *p*) | Deontologist (Pr = 1-*p*) |
+|:---|:----:|:----:|
+| Perform Prank | -1  | -*v* |
+| Don't Perform Prank | -101 | 0 |
 
-Perform Prank & -1 & $-v$\
-Don't perform prank & -101 & 0\
-:::
 
-The expected value of not pranking is $-101p$. The expected value of pranking is $-p - v(1-p)$. Figuring out which of these is larger requires solving two hard problems: exactly how likely is it that the consequentialist theory is true, and how do you put the violation of a deontological duty on the same scale as the difference between better and worse consequences.
+The expected value of not pranking is -101*p*. The expected value of pranking is -*p* - *v*(1-*p*). Figuring out which of these is larger requires solving two hard problems: exactly how likely is it that the consequentialist theory is true, and how do you put the violation of a deontological duty on the same scale as the difference between better and worse consequences.
 
-The latter problem is very hard, and we'll come back to it in chapter 6. Ted @Lockhart2000 had a nice idea on how to make progress on it, but Andrew @Sepielli2009 shows that it doesn't work. Brian @Hedden2016 uses the difficulty of this problem to argue against internalist theories generally. William @MacAskill2016 thinks that the problem is hard enough that we should respond by not trying to maximise the expected value of some random variable in cases of moral uncertainty, but instead using tools from social choice theory such as voting methods. I'm very sympathetic to MacAskill's approach, insofar as I think that conditional on us wanting an internalist theory of action under moral uncertainty, I think using tools from social choice theory is more promising than trying to find a value for $v$. But if we go down this route, we've given up the symmetry between moral and factual uncertainty, and as I argued at the start of this chapter, without that symmetry it is very hard to motivate internalism. So I'll assume that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} has to find out, or at least be sensitive to, the value of $v$.
+The latter problem is very hard, and we'll come back to it in chapter 6. Ted @Lockhart2000 had a nice idea on how to make progress on it, but Andrew @Sepielli2009 shows that it doesn't work. Brian @Hedden2016 uses the difficulty of this problem to argue against internalist theories generally. William @MacAskill2016 thinks that the problem is hard enough that we should respond by not trying to maximise the expected value of some random variable in cases of moral uncertainty, but instead using tools from social choice theory such as voting methods. I'm very sympathetic to MacAskill's approach, insofar as I think that conditional on us wanting an internalist theory of action under moral uncertainty, I think using tools from social choice theory is more promising than trying to find a value for *v*. But if we go down this route, we've given up the symmetry between moral and factual uncertainty, and as I argued at the start of this chapter, without that symmetry it is very hard to motivate internalism. So I'll assume that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} has to find out, or at least be sensitive to, the value of *v*.
 
 Now the normative externalist has an easy thing to say about [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s case. If consequentialism is the true moral theory, then she should perform to prank to spare the other 100. If the deontological theory is true, then she should not perform the prank, since she should not commit such an immoral act. And that's all there is to say about the case. It might help [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} to know what the right moral theory is, but it isn't necessary. If she performs the prank out of care for the welfare of the 100 people she is saving then, if consequentialism is true, she does the right thing for the right reasons. If she declines to perform the prank because it would disrespect the victim of the prank, then, if the deontological theory is true, she does the right thing for the right reason. Neither of the last two sentences require that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} know that she is doing the right thing or that her reasons are right - what's needed at most is conformity between her motivations and the right-making features of actions.
 
@@ -151,9 +138,9 @@ But the internalist tends to find this answer unsatisfactory for two reasons. Th
 
 [^31]: I try to offset the oddness of this result by adopting an extremely pluralist first-order moral theory, so very few things that are plausibly of moral significance turn out to be irrelevant. But I don't want my defence of normative externalism to turn on this pluralism.
 
-So let's try the opposite extreme, one suggested by our discussion of Descartes in chapter one. (Though what we start with will not be the view Descartes actually endorses.) What matters for morality is match between credences and action. So as long as [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} does what she thinks is best, or perhaps what maximises expected goodness, she does the right thing. In that case she acts rightly, is praiseworthy, and is rational. While she needs to find values for $p$ and $v$, she gets them by introspecting her beliefs, not by hard looking into the external world.[^32] And the hero of this internalist Cartesian story is bound to be coherent, at least in the sense of having their views about what to do match up with the actions that are within their control.
+So let's try the opposite extreme, one suggested by our discussion of Descartes in chapter one. (Though what we start with will not be the view Descartes actually endorses.) What matters for morality is match between credences and action. So as long as [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} does what she thinks is best, or perhaps what maximises expected goodness, she does the right thing. In that case she acts rightly, is praiseworthy, and is rational. While she needs to find values for *p* and *v*, she gets them by introspecting her beliefs, not by hard looking into the external world.[^32] And the hero of this internalist Cartesian story is bound to be coherent, at least in the sense of having their views about what to do match up with the actions that are within their control.
 
-[^32]: I'm setting aside, apart from in this footnote, two problems with this view. As Eric @Schwitzgebel2008 notes, we are often mistaken as what we believe. And thinking that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s beliefs settle the value of $v$ requires adopting a 'desire as belief' view that faces various technical problems  [@Lewis1988b; @Lewis1996b; @RussellHawthorne2016].
+[^32]: I'm setting aside, apart from in this footnote, two problems with this view. As Eric @Schwitzgebel2008 notes, we are often mistaken as what we believe. And thinking that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s beliefs settle the value of *v* requires adopting a 'desire as belief' view that faces various technical problems  [@Lewis1988b; @Lewis1996b; @RussellHawthorne2016].
 
 But such a theory says some odd things about a different character, [Antoine]{acronym-label="Antoine" acronym-form="singular+short"}, who was threatened by the pranksters just last week. [Antoine]{acronym-label="Antoine" acronym-form="singular+short"} believes, rightly, that such a threat is a terrible affront to his dignity as a free person. He further believes, wrongly, that the only appropriate response to such an affront is to kill everyone who makes the threat. Fortuitously, [Antoine]{acronym-label="Antoine" acronym-form="singular+short"} is as bad at figuring out how to kill as he is at figuring out who to kill, so no one gets hurt. But we shouldn't let this lucky break obscure the fact that what [Antoine]{acronym-label="Antoine" acronym-form="singular+short"} does is seriously wrong. And yet, the Cartesian internalist has a problem with this. [Antoine]{acronym-label="Antoine" acronym-form="singular+short"} does exactly what his conscience tells him to do. He is as resolute a person as one could look for. And he is a villain; someone to be loathed and avoided, not admired.
 
@@ -165,21 +152,19 @@ But there are still problems. Indeed, the problems with this kind of worldview w
 
 [Antoine]{acronym-label="Antoine" acronym-form="singular+short"} doesn't just believe that the moral thing to do is to kill the pranksters. He believes that his evidence supports that conclusion. If we are to say that what he does is wrong in some respect, then we have to insist that this does not matter. What he should believe is a function of what the evidence actually supports, not what he thinks it supports.
 
-But now a version of the demandingness objection returns with a vengeance. The internalist thought was that it really unfair to require [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} to be sensitive to a fact that she does not know - namely whether a consequentialist or deontological moral theory is correct. The proposed response now requires that she be sensitive to two facts that she does not know, namely which values of $p$ and $v$ are best supported by her evidence. And worse than that, we have replaced one yes-no question with two quantitative questions. This does not feel like progress.
+But now a version of the demandingness objection returns with a vengeance. The internalist thought was that it really unfair to require [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} to be sensitive to a fact that she does not know - namely whether a consequentialist or deontological moral theory is correct. The proposed response now requires that she be sensitive to two facts that she does not know, namely which values of *p* and *v* are best supported by her evidence. And worse than that, we have replaced one yes-no question with two quantitative questions. This does not feel like progress.
 
 I've skated over a division between ways the internalist might require that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} be sensitive to her evidence. First, they might require that she have the beliefs that are best supported by the evidence, and then act as her beliefs maintain. This is the version of the view that requires a fairly strong form of normative externalism in epistemology. There is no guarantee that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} knows, or even could know, what the rational credence in consequentialism given her evidence actually is. So requiring her to have credences supported by her evidence is requiring her to follow a norm that she does not, and could not, know. And avoiding that was supposed to be a big payoff for internalism. So this way of defending the **E** theories seems unmotivated.
 
 But alternatively, the internalist here might just say that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} has to be sensitive to her evidence, not that she must know what her evidence supports. As far as it goes, the externalist agrees with this point. The externalist view is that the following three things are in principle separable. (In every case, read 'believe' as meaning 'fully or partially believe'; this covers appropriate credences as well as appropriate full beliefs.)
 
 1.  What [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} should do.
-
 2.  What [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} should believe about what she should do.
-
 3.  What [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} should believe about what she should believe about what she should do.
 
 The **E** theories say that while 2 and 3 might come apart, there is a tight connection between 1 and 2. There's nothing incoherent about that. But it is rather hard to motivate. The following situation is possible. (And thinking through this situation is helpful for getting clear on just what the **E** theories are saying.)
 
-The true moral theory is deontological, so true morality requires that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} not perform the prank. The rational values for $p$ and $v$ given [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s evidence are 0.2 and and 15. That is, violating a deontological norm is (according to Zaina's evidence) as bad as the consequentialist thinks letting 15 people be pranked is, but consequentialism is fairly unlikely to be true. So given [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s evidence, it maximises expected goodness to perform the prank. But [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s credal distribution over possible values of $p$ and $v$ is centred a little off those true values, centred on 0.15 and 20. And while this isn't right, her margin of error in assessing what her evidence supports concerning $p$ and $v$ is great enough that she can't know these are the wrong values. So given her credences, she thinks her evidence supports not performing the prank.
+The true moral theory is deontological, so true morality requires that [Zaina]{acronym-label="Zaina" acronym-form="singular+short"} not perform the prank. The rational values for *p* and *v* given [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s evidence are 0.2 and and 15. That is, violating a deontological norm is (according to Zaina's evidence) as bad as the consequentialist thinks letting 15 people be pranked is, but consequentialism is fairly unlikely to be true. So given [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s evidence, it maximises expected goodness to perform the prank. But [Zaina]{acronym-label="Zaina" acronym-form="singular+short"}'s credal distribution over possible values of *p* and *v* is centred a little off those true values, centred on 0.15 and 20. And while this isn't right, her margin of error in assessing what her evidence supports concerning *p* and *v* is great enough that she can't know these are the wrong values. So given her credences, she thinks her evidence supports not performing the prank.
 
 Given all that, what is the sense in which she should perform the prank, in which it would be more rational, or moral, or praiseworthy, to perform the prank? It's true that if she were better in some respect - in respect of having credences that actually tracked her evidence - then she would perform the prank. But if she were fully moral, she would not perform the prank. And if she maximised expected goodness given her perspective, she would perform the prank only if she were a little better epistemically, without being better morally. But what philosophical significance could that counterfactual have?
 
@@ -187,7 +172,7 @@ While the case is artificial, it fits a natural enough pattern. Someone makes a 
 
 And that's the pattern for the **E** theories in general. They are unhappy half-way houses. If we want people to follow standards that they cannot know in full detail, those standards may as well be the standards of true morality. If we don't want to require this of people, then what their evidence supports is not determinative of what we can demand of them. Just what the evidence supports is sometimes hidden too. But if we start being too permissive, we end up saying nicer things than we really want to say about [Antoine]{acronym-label="Antoine" acronym-form="singular+short"}. There are a lot of choice points here, but none of them lead to a viable version of normative internalism.
 
-### Rationality and Symmetry {#rationalityandsymmetry}
+## Rationality and Symmetry {#rationalityandsymmetry}
 
 In the previous two sections, I argued against five of the six theories we started with. All that is left is **RaC**, and that will be the focus of this section. We'll start with a case modelled on an argument that Nomy Arpaly gives in response to a theory of Michael Smith's  [@Arpaly2003 36-46], then turn to the difficulties the internalist could have in motivating **RaC** by symmetry considerations.
 
@@ -211,7 +196,7 @@ In fact, thinking about the analogy with [Cressida]{acronym-label="Cressida" acr
 
 Put another way, the defender of **RaC** can either try and defend their view with a narrowly tailored symmetry thesis, one that just applies to rationality, or with the broader symmetry thesis that would apply to rightness and praiseworthiness too. If we use the broader symmetry thesis, then [Cressida]{acronym-label="Cressida" acronym-form="singular+short"}'s and [Huck]{acronym-label="Huck" acronym-form="singular+short"}leberry's actions are alike in rationality iff they are alike in rightness. But they are not alike in rightness, so they are not alike in rationality. So **RaC** fails, since they are clearly alike in rationality according to **RaC**. So the defender of **RaC** is forced to use a narrow symmetry thesis. But it is hard to see the motivation for the narrowly tailored thesis. Once we allow that people can be wrong about normative facts, and so can violate a norm while believing they are following it, it seems plausible that one could be wrong about rationality norms, and so could be irrational while believing one is rational.
 
-### Conclusion
+## Conclusion
 
 So far I have argued against six forms of internalism. As I noted at the start, internalism is not committed to the disjunction of these six forms, so there is yet no full argument against internalism. So it might be hoped that some form of internalism can be found that is not committed to any of the six theses that have so far been undermined.
 
@@ -222,9 +207,7 @@ This completes the arc of chapters 2 through 4. In chapter 2 I discussed some re
 This gets to the heart of what I find unsettling about internalism. We start out with three classes of facts:
 
 -   Moral facts, e.g., genocide is wrong.
-
 -   Epistemic facts, e.g., it is irrational, given current evidence, to have a low credence that carbon emissions from human activity are causing global warming.
-
 -   Coherence facts, e.g., it is incoherent to prefer A to B, and D to C in the main example in @Allais1953.
 
 It is easy to feel that one should have something to say about agents who are unaware of all the moral facts. And that can push one towards a theory where the moral facts themselves don't play a substantial role in evaluating agents, rather something that is more accessible plays that role. But what could that be? If we say it is evidential probabilities of moral claims, then we are left saying that some facts that are beyond some agents' ken, i.e., facts about what is evidence for what, are evaluatively significant. Moreover, this kind of view will have strange things to say about cases of inadvertent virtue in agents whose credences track their evidence. So we might want to say something else. If we say it is not evidence but credence that matters, we are left saying that our most important criteria of evaluation turn solely on the agent's coherence. And again, we can ask whether by 'coherence' here we mean actual coherence, or coherence as it strikes the agent. Facts about coherence are not obvious. It is incoherent to believe the naive comprehension axiom. It is incoherent to have the usual preferences in the Allais paradox. Some people think it is incoherent to will something that one could not will to be universally endorsed. Some people think it is incoherent to believe there are discontinuous functions on the reals. If we judge agents by how well their actions, beliefs and evidence actually cohere, then we are judging them by a standard that could well be beyond their knowledge. If we judge agents by how well the think their actions, beliefs and evidence cohere, we'll be back to saying that [Antoine]{acronym-label="Antoine" acronym-form="singular+short"} is a hero. Assuming we want to avoid that, we have to apply some standards beyond what the agent accepts, and probably beyond what they could rationally accept.
@@ -240,9 +223,7 @@ This kind of actualist consequentialism gets the case of [Cressida]{acronym-labe
 None of what I have to say about actualist consequentialism is at all original, which is why I've left it to the end. And of course this view is externalist, even more externalist in a sense than my own view. That's why the objections of this chapter do not really touch it. The reason the normative externalist is not forced into actualist consequentialism is that symmetry fails, as was shown in the previous chapter. It's true that if the arguments of that chapter fail completely, then a new argument could open up against normative externalism, as follows.
 
 1.  If normative externalism is true, then actualist consequentialism is true.
-
 2.  Actualist consequentialism is not true.
-
 3.  So, normative externalism is not true.
 
 But give what we saw in the previous chapter, we should already reject premise 1. And the arguments of this chapter, showing that symmetry will have one or other kind of implausible consequence, provides another reason to reject premise 1.

@@ -1,10 +1,10 @@
-## Against Symmetry {#againstsymmetry}
+# Against Symmetry {#againstsymmetry}
 
 In the previous chapter, I suggested that one of the key motivations for normative internalism that it allows for a symmetry between the way we treat factual uncertainty and ignorance, and the way we might think about treating normative uncertainty and ignorance. Some writers have found it so obvious that these cases should be treated symmetrically that they have simply incorporated this symmetric treatment into their theory without arguing for it. Those who have argued for it have usually found the symmetry very intuitive.
 
 In this chapter, I'll try to undermine that intuitive symmetry. The first three sections will introduce three considerations that undermine the idea that the factual and normative uncertainty should be treated symmetrically, and the last three sections deal with some complications that the first three sections introduce. In the next chapter, I'll argue that even if we found the symmetry intuitive, we should ultimately reject it, because there is no way to incorporate it into a theory that is even remotely plausible. That is, I'll argue that any internalist theory that can handle even very simple cases has to reject the symmetry thesis, and so cannot be motivated by symmetry considerations.
 
-### Guilt and Shame {#guiltandshame}
+## Guilt and Shame {#guiltandshame}
 
 If normative and factual uncertainty have the same normative implications, then we should feel similarly about our own past actions that were done due to factual ignorance, and those that were done due to moral ignorance. But this doesn't seem to be how we do, or should, feel. We can see this by comparing a pair of cases. The second of the cases is a minor modification of a case Elizabeth @Harman2014 uses in making a similar argument to the one I'm presenting in this section.
 
@@ -18,7 +18,7 @@ Unfortunately, the relevant science around here moves slowly and fitfully. The t
 
 If the symmetry thesis were correct, there should not be any difference in [Prasad]{acronym-label="Prasad" acronym-form="singular+short"} and [Archie]{acronym-label="Archie" acronym-form="singular+short"}'s attitudes. Both of them behaved in just the way we should expect, given their factual and normative beliefs. And both of them had beliefs that were sincere, and widely shared in their community. But there is still a difference between the two of them, as revealed by the emotional reactions they both do and should have.
 
-### Jackson Cases {#jacksoncases}
+## Jackson Cases {#jacksoncases}
 
 As @Zimmerman2008 argues, the kinds of cases discussed by @Jackson1991 are important for seeing how factual uncertainty is normatively significant. It isn't just that when an agent doesn't know what is true, and so doesn't know which action produces the best outcome, she thereby doesn't know what is right to do. In some cases of decision making under uncertainty, the thing that is clearly right to do is the one thing she knows will not produce the best outcome. Gambling the charitable donation on the roulette wheel is wrong, although the best outcome would be to gamble on the number that will actually come up. In the previous chapter we dubbed cases like this, where the right thing to do is something one knows will not produce the best outcome, Jackson cases. Jackson cases are ubiquitous when making decisions under factual uncertainty.
 
@@ -27,52 +27,45 @@ If we should treat factual uncertainty and moral uncertainty symmetrically, then
 A simple way to generate Jackson cases is to set up a decision problem with the following features:
 
 -   There are three option: A, B and C;
+-   There are two epistemic possibilities, *w*~1~ and *w*~2~, the agent knows that precisely one of them is realised, and the she reasonably thinks each is fairly likely.
+-   In *w*~1~, A is optimal, C is a little worse, and B is a catastrophe.
+-   In *w*~2~, B is optimal, C is a little worse, and A is a catastrophe.
 
--   There are two epistemic possibilities, $w_1$ and $w_2$, the agent knows that precisely one of them is realised, and the she reasonably thinks each is fairly likely.
+If the agent's uncertainty about *w*~1~ or *w*~2~ is grounded in a straightforwardly factual uncertainty, it seems the agent should do C. Just what that 'should' amounts to is up for debate, but there is something awful about doing A or B - even if it produces the optimal outcome.
 
--   In $w_1$, A is optimal, C is a little worse, and B is a catastrophe.
+What happens, though, if *w*~1~ and *w*~2~ are factually alike, but differ in the correct moral theory? (As has come up a few times, it is unlikely that both *w*~1~ and *w*~2~ will be *possible* worlds in this case, but I don't think this matters for current purposes.) Well, let's look at some cases and see.
 
--   In $w_2$, B is optimal, C is a little worse, and A is a catastrophe.
-
-If the agent's uncertainty about $w_1$ or $w_2$ is grounded in a straightforwardly factual uncertainty, it seems the agent should do C. Just what that 'should' amounts to is up for debate, but there is something awful about doing A or B - even if it produces the optimal outcome.
-
-What happens, though, if $w_1$ and $w_2$ are factually alike, but differ in the correct moral theory? (As has come up a few times, it is unlikely that both $w_1$ and $w_2$ will be *possible* worlds in this case, but I don't think this matters for current purposes.) Well, let's look at some cases and see.
-
-#### Case One - Abortion {#caseone-abortion}
+### Case One - Abortion {#caseone-abortion}
 
 [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} is 12 weeks pregnant, and lives in a state where abortion is criminalised and, on occasion, heavily punished. [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} deeply desires to have an abortion. [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} is reasonably well off, and as is the norm in states that criminalise abortion, reasonably well off people are able to obtain abortions with a little assistance. [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} asks her friend [Shila]{acronym-label="Shila" acronym-form="singular+short"} for such assistance. [Shila]{acronym-label="Shila" acronym-form="singular+short"} now has to make a choice. [Shila]{acronym-label="Shila" acronym-form="singular+short"} is torn between two moral views about abortions 12 weeks into pregnancy. According to one, the potential that the fetus has to develop into a fully functioning human being means that aborting it is the moral equivalent of murder. According to another, the fetus has little or no moral standing on its own, the importance of [Marilou]{acronym-label="Marilou" acronym-form="singular+short"}'s autonomy means that [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} should be able to get an abortion, and her friends should assist her in avoiding the oppressive laws against abortion. [Shila]{acronym-label="Shila" acronym-form="singular+short"} now has three choices.
 
 1.  Assist [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} in getting the abortion, which is either a way of respecting [Marilou]{acronym-label="Marilou" acronym-form="singular+short"}'s autonomy and honouring their friendship, or is a way of being an accomplice to murder.
-
 2.  Report [Marilou]{acronym-label="Marilou" acronym-form="singular+short"}'s plans to the authorities, which is either horribly disrespectful to [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} and a gross violation of their friendship, or bravely preventing a murder. (Assume that Shila knows that although the authorities aren't maximally vigilant about preventing abortions, they are obliged to act on incriminating information, so this tip-off will lead to Marilou's imprisonment.)
-
 3.  Do nothing, suspecting that without her help, [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} will carry the child to term and quietly adopt it out.
 
-In either $w_1$, the world where abortion is permissible, or $w_2$, the world where it is not, C is bad. In $w_1$, [Shila]{acronym-label="Shila" acronym-form="singular+short"} is a bad friend, and is tacitly collaborating in state oppression. In $w_2$, [Shila]{acronym-label="Shila" acronym-form="singular+short"} is not taking simple steps that would remove the mortal danger facing an innocent human. But option C isn't catastrophic in either world. In $w_1$, [Shila]{acronym-label="Shila" acronym-form="singular+short"} is not personally stopping [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} get an abortion, she just isn't helping [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} break the law. (You can be a good enough friend and still draw the line between helping one move houses and helping one move bodies.) And in $w_2$, she's not killing anyone, or even letting someone be killed, just not being maximally vigilent in preventing a killing. So the case has the structure of a Jackson case.
+In either *w*~1~, the world where abortion is permissible, or *w*~2~, the world where it is not, C is bad. In *w*~1~, [Shila]{acronym-label="Shila" acronym-form="singular+short"} is a bad friend, and is tacitly collaborating in state oppression. In *w*~2~, [Shila]{acronym-label="Shila" acronym-form="singular+short"} is not taking simple steps that would remove the mortal danger facing an innocent human. But option C isn't catastrophic in either world. In *w*~1~, [Shila]{acronym-label="Shila" acronym-form="singular+short"} is not personally stopping [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} get an abortion, she just isn't helping [Marilou]{acronym-label="Marilou" acronym-form="singular+short"} break the law. (You can be a good enough friend and still draw the line between helping one move houses and helping one move bodies.) And in *w*~2~, she's not killing anyone, or even letting someone be killed, just not being maximally vigilent in preventing a killing. So the case has the structure of a Jackson case.
 
 And yet there is little to be said for C. The situation calls for moral bravery, one way or the other. (I think in the direction of A, but it doesn't matter for these purposes whether you agree with that.) And C is moral cowardice. Unlike in the cases involving factual uncertainty, it doesn't seem at all like the safe, prudent, commendable option.
 
-#### Case Two - Theft {#casetwo-theft}
+### Case Two - Theft {#casetwo-theft}
 
 [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"} and [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} are acquaintances, and they are planning to go to a party. [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"} is worried because [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} plans to wear some very expensive jewellery, and the party features a number of thieves, several of whom are [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"}'s friends. [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"} tells [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} this, but [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} is unmoved, and insists she won't be deterred from living her life the way she wants by the existence of petty criminals. [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"} is much more observant than [Pandora]{acronym-label="Pandora" acronym-form="singular+short"}, and knows that if someone tries to steal the jewellery, she'll be able to prevent them, but only by using a non-trivial amount of physical force. For example, she could punch the would-be thief hard in the jaw while he was making his escape, revealing his thievery. (Realistically, she can't know exactly how she would prevent a theft, but assume that's the level of force that would be needed.)
 
 [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"} is torn between two moral theories. One of them is a fairly mainstream view on which a moderate amount of physical force is warranted if it is the only way to prevent the theft of expensive goods. On the other moral theory, the demands of friendship and bodily autonomy completely outweigh considerations arising from property, so punching a friendly thief to prevent a theft would be a completely unjustified assault. Given all this, [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"} has three options.
 
 1.  Go to the party and plan to prevent (using violence if necessary) any theft of [Pandora]{acronym-label="Pandora" acronym-form="singular+short"}'s jewellery.
-
 2.  Go to the party and plan to refrain from any violence, even if this means standing by while a theft occurs.
-
 3.  Prevent [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} going to the party. The most morally acceptable way to do that, [Eurydice]{acronym-label="Eurydice" acronym-form="singular+short"} thinks, would be to tell [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} a small lie that leads to [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} going on a wild goose chase for half the night, leaving it impossible to go to the party.
 
 Again, this feels like a Jackson case. C is a moral misdemeanour - you shouldn't lie to people for the purpose of distracting them away from a party they have every right to be at. But it's worse to stand by and watch a theft take place that you could easily (and properly) prevent, or to unjustifiedly punch a friend in the jaw.
 
 Yet again it seems like C would be a terrible option to take. Either the amount of violence needed to apprehend the thief would be justified or it wouldn't be. In neither case does it seem like sending [Pandora]{acronym-label="Pandora" acronym-form="singular+short"} on a wild goose chase to prevent the theft would be a good way to prevent the problem arising. This seems true even though it would guarantee that things don't go badly morally wrong, while either alternative runs a substantial moral risk.
 
-#### An Asymmetry {#anasymmetry}
+### An Asymmetry {#anasymmetry}
 
 When welfare is on the line, it is not just acceptable, but laudable, to sacrifice the chance of the best outcome for a certainty of a very good outcome. But it isn't at all clear that this is true when virtue is on the line. Committing a moral misdemeanour because you don't know which of the other options is a moral felony and which is the right thing to do is, still, committing a moral misdemeanour.
 
-### Motivation
+## Motivation
 
 Moral uncertainty, at least of the kind I'm focussing on, is a kind of constitutive uncertainty. An agent who is morally uncertain is uncertain about what kind of things constitute goodness, rightness, praiseworthiness, and so on. It's very plausible that these are indeed constituted by something else. It's hard to imagine that rightness is a free-floating feature of reality.
 
@@ -104,7 +97,7 @@ What is the difference between [Monserrat]{acronym-label="Monserrat" acronym-for
 
 So we get an explanation of Smith's observation. (And here I'm not saying anything that hasn't been said before, by for example Nomy @Arpaly2003 and Julia @Markovits2010.) It is good to aim at what is actually right and good, not at rightness and goodness themselves, because the constitutors are where the value lies. But that means moral uncertainty should not affect our motivations. And that's a striking asymmetry with factual uncertainty, which quite clearly should affect our motivations.
 
-### Welfare and Motivation {#welfareandmotivation}
+## Welfare and Motivation {#welfareandmotivation}
 
 Smith's insight, that there is something wrong about being motivated to do what's good as such, generalises. There are plenty of other things where we do and should care about their constituents, but we should not (and typically do not) care about them as such. Welfare, for instance, is like this.
 
@@ -133,14 +126,13 @@ Still, [Oberon]{acronym-label="Oberon" acronym-form="singular+short"} worries th
 Now distinguish the following two claims about welfare and rationality. The first of these claims is plausibly true; the second is false.
 
 -   A person's welfare is such that it is irrational for them to do something that might undermine it for no compensating gain.
-
 -   It is irrational for a person to do something that might undermine their welfare, whatever that turns out to be, for no compensating gain.
 
 If welfare turns out to be health, happiness and learning, then the first claim says that it is irrational to risk undermining one's health, happiness and learning for no compensating gain. And that is correct. But the second claim says that for any thing, if that thing might be welfare, and an action might undermine it, it is irrational to perform the action without a compensating gain. That's a much stronger, and a much less plausible, claim. The examples of [Bruce]{acronym-label="Bruce" acronym-form="singular+short"} and of [Oberon]{acronym-label="Oberon" acronym-form="singular+short"} show that it is false; they act rationally even though they do things that might undermine what welfare turns out to be.
 
 One caveat to all this. On some theories of welfare, it will not be obvious that even the first claim is right. Consider a view (standard among economists) that welfare is preference satisfaction. Now you might think that even the first claim is ambiguous, between a claim that one's preferences are such that it is irrational to undermine them (plausibly true), and a claim that it is irrational to undermine one's preference satisfaction. The latter claim is not true. If someone offers a person a pill that will make her have preferences for things that are sure to come out true (she wants the USA to stay being more populous than Monaco, she wants to have fewer than ten limbs; etc.), it is rational to refuse it. And that's true even though taking the pill will ensure that she has a lot of satisfied preferences. What matters is that taking the pill does not satisfy her actual preferences. If she prefers X to Y, she should aim to bring about X. But she shouldn't aim to bring about a state of having satisfied preferences; that could lead to rather perverse behaviour, like taking this pill.
 
-### Motivation, Virtues and Vices {#motivationvirtuesandvices}
+## Motivation, Virtues and Vices {#motivationvirtuesandvices}
 
 So far in this chapter I have relied heavily on Michael Smith's principle that a certain kind of motivation would be unreasonably fetishistic. In this section I'm going to defend Smith's principle in more detail. Since Smith's principle has been extensively discussed, I'm going to spend some time on the existing literature. But one key point of this section will be that I need a much weaker principle for my broader conclusion than Smith needs for his. So even if the existing objections to Smith are correct, and I will concede at least one has some force against the strong principle Smith defends, they may not affect my argument for externalism.
 
@@ -149,15 +141,12 @@ That Smith and I need different versions of the principle should not be too surp
 Let's start by setting out three theses that one might try to draw from considerations starting from Smith's reflections.
 
 Weak Motivation Principle (WMP)
-
 :   In equilibrium, it is permissible to not be intrinsically motivated by maximally thin moral properties de dicto.
 
 Strong Motivation Principle (SMP)
-
 :   In most circumstances, it is impermissible to be at all intrinsically motivated by moderately thin (or thinner) moral properties de dicto.
 
 Ideal Motivation Principle (IMP)
-
 :   In all circumstances, it is impermissible to be at all intrinsically motivated by maximally thin moral properties de dicto.
 
 The SMP and IMP are both stronger than the WMP, though neither is stronger than the other. As I read him, Smith needs the IMP to get his argument for motivational internalism to work. Since I'm not interested in that, I'll set it aside from now on.
@@ -180,9 +169,9 @@ The most obvious cases of realizer desires are when the intrinsic desire is more
 
 So the SMP and WMP concern themselves neither with instrumental desires nor with realizer desires. A good person will typically desire that they do the right thing, but they will desire that because the things they desire are actually the right thing to do, and they will (typically) know this. The principles say that the desires to do things that are actually right could be, or in the case of the latter two principles should be, explanatorily prior to the desire to do the right thing as such.
 
-### The Weak Motivation Principle (WMP) {#theweakmotivationprinciplewmp}
+## The Weak Motivation Principle (WMP) {#theweakmotivationprinciplewmp}
 
-#### Equilibrium
+### Equilibrium
 
 The WMP is restricted to equilibrium states. This restriction is there to deal with an important class of cases that Sigrún @Svavarsdottir1999 discusses.
 
@@ -197,13 +186,11 @@ For current purposes, it means having fairly settled moral views, and having had
 Here are two cases that I take to not be in equilibrium, in the sense relevant to the WMP.
 
 -   Our hero faces a choice between competing values, and is torn about how to resolve them. She does not know which value is stronger, and she either lacks a clear disposition to resolve the tension in one particular way, or has such a disposition but does not trust it.
-
 -   Our hero systematically does not do what they believe to be best, and is trying to change their attitudes and behaviour to conform to their beliefs about the good.
 
 On the other hand, the following two cases are cases of equilibrium in the relevant sense, albeit highly imperfect equilibrium.
 
 -   Our hero does not do what they believe to be best, but they have learned to live with this, perhaps feeling guilty about the gap between their thoughts and their deeds.
-
 -   Our hero is disposed to act one way, but would change their disposition if the reasons for acting a different way, reasons they already possess, were made salient to them.
 
 In all four cases, the person already possesses something like reasons to change. But what makes for being in disequilibrium is the feeling that things must and will change.
@@ -214,7 +201,7 @@ I have a particular route I usually use going from B to C. I have a different ro
 
 But in Svavarsdóttir's example, we do not have someone in equilibrium even in this weak sense. [Mike]{acronym-label="Mike" acronym-form="singular+short"} wants to change his dispositions to line up with his moral theory, and he is making progress at this, but he still isn't there. The WMP does not deny that in cases like this, it is permissible to have goodness itself as a motivation.
 
-#### Why Engage in Moral Reflection? {#whyengageinmoralreflection}
+### Why Engage in Moral Reflection? {#whyengageinmoralreflection}
 
 The following kind of consideration is sometimes advanced as a reason to be motivated by goodness as such. Sometimes people engage in practically directed moral reflection. That is, they think hard about what is the right thing to do, and the intended result of that thinking is that they do the thing they think is right. The most obvious analysis of what's going on in these cases is that the people involved want to do the right thing, and the point of engaging in reflection and acting on it is to bring it about that they do the right thing. And at least in cases where this leads to the thinker acting well, it seems this kind of moral reflection is a very good thing to engage in.
 
@@ -222,7 +209,7 @@ In the next section I'm going to say a lot more about this kind of case, because
 
 The WMP is only making the following claim. When the storm is over and the seas are flat, a good person may be motivated by the things that make their actions right, not by the rightness itself. People who don't know what to do, and are torn between competing values, could not be a counterexample to such a principle.
 
-#### The WMP and Two Kinds of Motivation Gaps {#thewmpandtwokindsofmotivationgaps}
+### The WMP and Two Kinds of Motivation Gaps {#thewmpandtwokindsofmotivationgaps}
 
 But why should we believe the WMP? I think the best reason is the simple intuition that Smith put forward: good people are motivated by things around them in the world, not by abstract notions of virtue and rightness. Another reason comes from reflection on fanatics like [Robespierre]{acronym-label="Robespierre" acronym-form="singular+short"} and [Saint-Just]{acronym-label="Saint-Just" acronym-form="singular+short"}. But not everyone accepts those reasons. So let's look at a pair of cases that need explaining, and which the WMP can explain.
 
@@ -240,7 +227,7 @@ So a desire to do the right thing is, in equilibrium, either unnecessary or insu
 
 Since a desire to do the right thing seems so useless, at least in equilibrium and in the presence of other good desires, it seems permissible to not have such a desire. And that's all WMP says.
 
-#### Against Symmetry
+### Against Symmetry
 
 I've argued so far that the WMP is true. I'm now going to argue that, assuming the WMP is true, there is an asymmetry between factual and moral uncertainty. The role the WMP plays is to block one of three possible routes out of a problem facing the defender of symmetry.
 
@@ -270,7 +257,7 @@ I'll call Option Three the rejection of all that's been said in the last three p
 
 Ultimately, I think this is the deepest problem for the symmetry view. Factual uncertainty changes our actions, and it does so rationally because it changes which factual uncertainty changes the expected value of different actions. For moral uncertainty to have the same effect, either we have to have a false view of the role of desire in action (Option One), or have to reject the WMP (Option Two), or have to adopt an implausible and unattractive view of how desires change when credences change (Option Three). None of these are correct, so symmetry fails.
 
-### The Strong Motivation Principle (SMP) {#thestrongmotivationprinciplesmp}
+## The Strong Motivation Principle (SMP) {#thestrongmotivationprinciplesmp}
 
 It is easy to imagine very good characters who are not motivated by the good as such; instead they are directly motivated by things that are actually good. Indeed, if one's motivations are fully in line with the good, it isn't clear what extra there is to be gained by also being motivated to be good. At worst, this motivation seems like either a distraction, or impermissibly self-centered. As Michael Smith puts it, people with this motivation "seem precious, overly concerned with the moral standing of their acts when they should instead be concerned with the features in virtue of which their acts have the moral standing that they have."  [@Smith1996 183]
 
@@ -278,7 +265,7 @@ There is something disturbing about a person who does not find the fact that a c
 
 That is the intuitive argument for the SMP. And it seems to me compelling. But we can say more to motivate, and justify, the SMP. I'll start with a discussion of a central objection to the SMP; that it doesn't allow a special role for moral reflection. Then I'll discuss another reason to support the SMP; it avoids a certain kind of danger, one that we see manifest in history. And I'll close with a sketch of what a proponent of the SMP thinks the good person is like.
 
-#### How to Explain Reflection {#howtoexplainreflection}
+### How to Explain Reflection {#howtoexplainreflection}
 
 We typically think the following kind of activity is good. A person is faced with a difficult moral question, or with a question that she thought was easy, but which it turns out people she respects take a different view on. She reflects on what morality requires in such a situation. Upon coming to believe that morality requires of her something different than her current practices, she changes her behaviour to match with her new moral beliefs.
 
@@ -292,7 +279,7 @@ My response to this kind of case will be very similar to what @ArpalySchroeder20
 
 When good people use thin moral concepts in their reasoning, it is not because they are aiming at the good as such, but because these concepts are useful tools to use in sorting and clarifying their commitments, and making sure that they promote and respect the things they actually care about. We see this in other walks of life too. A competitor in a sporting event may steer their strategy towards moves that maximise expected returns. That's not because they care about expected returns; they want to win. It is because using the concept of an expected return is a good way to manage your thoughts when you want to think about how to win. And, in practice, this is often a very good way to manage your thoughts, so good strategists will use the concept. Similarly, it may turn out to be useful to use the concepts of goodness and rightness when trying to promote and respect the things that really matter, and so it isn't a surprise that we see good people using them.
 
-#### Against Motivation by Morality {#againstmotivationbymorality}
+### Against Motivation by Morality {#againstmotivationbymorality}
 
 If moral concepts are useful tools for good people to use in promoting and respecting good aims, then we should expect that, like all tools, they have their limits. And indeed those limits are not hard to find. Moral reasoning is a kind of equilibrium reasoning. And equilibrium reasoning has clear strengths and weaknesses. There are cases when it is essential. Trying to work out the effect of a natural disaster on the market for widgets is practically impossible without doing at least some equilibrium reasoning. But there are also cases when it can go badly awry if not used extremely carefully, and in which very small errors in the inputs can lead to very large errors in the outputs. This is particularly the case when there are large feedback effects around. It is hard to use equilibrium reasoning to work out the effect of a rise in the price of labour, because changing the price of labour changes the demand curve for all goods, and hence raising the demand for labour. This isn't an insuperable modelling difficulty; but it means that it will take more than the back of a napkin to work out even approximately what will happen when the price of labour changes. Similarly, weather forecasting using equilibrium models is possible, but has to be done very carefully because very small errors in the initial inputs can push the modeller to an equilibrium that is far removed from reality.
 
@@ -302,7 +289,7 @@ And this suggests a problem with having morality itself as one of one's motivati
 
 But it's not just theory that tells us this is dangerous. The fanatic who thinks the individual is irrelevant, who will sacrifice any number of individuals to an idea, who will destroy villages in order to save them, is a recurring character in history. In some cases they are tragic figures; people who really did start out with praiseworthy aims but who refused to compromise when it turned out that those aims couldn't be realised without much suffering. And sometimes they are self-centred jerks, who feel empty unless they are trying to steer the whole world to their vision, whatever the costs. But what all of them teach us is that aiming for the good, and just the good, can go terribly, horribly, wrong.
 
-#### Back to Symmetry, and Moral Uncertainty {#backtosymmetryandmoraluncertainty}
+### Back to Symmetry, and Moral Uncertainty {#backtosymmetryandmoraluncertainty}
 
 Let's turn away from these ideologues, and towards a positive picture of what a good but flawed person should look like. Our hero will mostly desire things that are actually valuable, and by and large desire them to the extent that they are actually valuable. They will have a well-functioning belief-desire psychology, so they will act so as to promote or respect those valuable things they desire. They will, from time to time, think about what is good and what is valuable, and form largely true beliefs about the good and the valuable. But since we are not supposing they are perfect, we will not assume these beliefs are inevitably true. And these moral beliefs, even the true ones, will not necessarily lead to much change in their action, because they don't connect up with any desire in the right kind of way. It is normal for a mismatch between desires and moral beliefs to lead to some unease, and to think that it might be wise to reform one's beliefs or one's desires. But depending on how deep the disagreement is, this reform program need not be a particularly high priority. And when it is carried out, there is no guarantee that the two will be brought into line by changing desires, as opposed to by changing beliefs. What there is a guarantee of is that if the moral beliefs conflict with other first order desires that the hero has, such as a desire that mass killings not happen, those other first order desires will play a powerful role in stopping the moral beliefs from taking control.
 
@@ -312,7 +299,7 @@ My best guess is that competing desires, such as desires to promote welfare and 
 
 Sometimes good people get the moral facts wrong. Perhaps they get bad advice, or bad evidence. Perhaps they start just a little wrong and equilibrium reasoning takes them to a place that is very wrong. When that happens, they have mechanisms to stop them acting seriously wrongly. I've been arguing that the moral mistakes shouldn't have any direct effect on action, because they won't aim at the good. But as I've noted already, I don't need anything that strong for the main argument of this book. What I need is that there should be some other forces that prevent action from lining up perfectly with moral belief when moral belief is seriously mistaken. A natural suggestion is that desires for things that are actually good can be that force. But even if that suggestion is wrong, as long as there should be some other force, then the symmetry claim fails.
 
-### Motivation Through Thick and Thin {#motivationthroughthickandthin}
+## Motivation Through Thick and Thin {#motivationthroughthickandthin}
 
 In this section I'm going to run through some interesting test cases for WMP and SMP. I have two aims here. First, I want to strengthen the case for WMP. Second, I want to raise some cases that are useful intuition checks for testing the plausibility of the SMP. I know from talking to many people about the cases that I have different views about them to most people. So while I think the cases are evidence for a fairly strong version of the SMP, I know that they won't strike many people that way. Still, I hope the cases are useful ones for thinking about what's at issue in debating the SMP, and in particular thinking about how we should interpret the phrase 'moderately thin' in it if we want the principle to be plausible. But let's start with a case purely about maximally thin moral properties.
 
@@ -351,16 +338,14 @@ Finally, consider a case about welfare, which has interesting lessons for moral 
 I think it isn't. We have to distinguish three possible states.
 
 1.  [Xue]{acronym-label="Xue" acronym-form="singular+short"} is motivated to do things that have the property *promote my health*, and is motivated to do things that have the property *promote my happiness*, and is motivated to do things that have the property *promote my friendships*.
-
 2.  [Xue]{acronym-label="Xue" acronym-form="singular+short"} is motivated to do things that have the disjunctive property *either promote my health, or promote my happiness, or promote my friendships*.
-
 3.  [Xue]{acronym-label="Xue" acronym-form="singular+short"} is motivated to do things that have the property *promote my welfare*.
 
 Assuming fairly minimal coherence, we can't tell the difference between 1 and 2 by just looking at [Xue]{acronym-label="Xue" acronym-form="singular+short"}'s actions. Whether 1 or 2 were correct, she would do the same things in almost all circumstances. Perhaps she would say different things if the issue of whether she had disjunctive or non-disjunctive motivations arose in conversation. But we need not assume she has any interests in such a question, or even a pre-existing disposition as to how she would answer it. But that doesn't mean that there is no difference between the states. It is, in general, better practice to attribute non-disjunctive attitudes to agents rather than disjunctive ones  [@Lewis1994b; @Weatherson2013Lewis]. So we should think that we are in state 1 rather than state 2.
 
 Similarly, given her beliefs about the nature of welfare, there won't be much difference between the actions she is motivated to perform in state 1 and in state 3. So the fact that she responds to the information that bushwalking is good for her welfare by developing a desire for bushwalking is no evidence that we are in state 3. It might just be that we are in state 1. Since there is independent intutive reason to think it would be unreasonable for her to be in state 3, and her desire for bushwalking in this case is reasonable, we should think that we're actually in state 1. In general, we should prefer to attribute a plurality of underlying motivations to agents, rather than disjunctive motivations (as in state 2), or higher-order motivations (as in state 3).
 
-### Moller's Example {#mollersexample}
+## Moller's Example {#mollersexample}
 
 I'll end this chapter by discussing an analogy D. @Moller2011 offers to motivate something like symmetry.[^27]
 
