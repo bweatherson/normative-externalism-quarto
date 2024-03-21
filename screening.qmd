@@ -1,22 +1,20 @@
-ng and Regresses {#screeningandregresses}
+#  Screening and Regresses {#screeningandregresses}
 
 Normative externalism in epistemology is false if agents should respond not just to their evidence, but to what they believe, or should believe, about what their evidence supports. Call that latter claim the higher order hypothesis. Over the last three chapters I've responded to arguments for the higher order hypothesis. I argued that the cases that apparently support the higher order hypothesis do not do so, when viewed in the context of a wider sweep of cases. I've argued against attempts to derive the higher order hypothesis from anti-circularity principles. And I've argued against attempts to derive it from enkratic principles. In this chapter I move on to giving reasons to disbelieve the higher order hypothesis. I argue that the higher order hypothesis is tied to a principle about screening, a principle I call **Judgments Screen Evidence**. And I argue that this principle, whose name I'll shorten to JSE, leads to intolerable regresses. The return to regress based arguments provides a stronger link than we've seen so far between this part of the book and the earlier part; the arguments of this chapter might seem very familiar to someone who has read chapter 4.
 
-### Screening
+##  Screening
 
 The idea of screening that's going to be central to this chapter comes into philosophy via Hans @Reichenbach1956. He was working on a quite different problem, namely when we should infer that two events have a common cause. He says that *C* screens off the positive correlation between *B* and *A* iff the following two conditions are met.
 
-1.  *A* and *B* are positive correlated, i.e., $\Pr(A | B) > Pr(A)$.
+1.  *A* and *B* are positive correlated, i.e., Pr(*A* | *B*) > Pr(*A*).
+2.  Given *C*, *A* and *B* are probabilistically independent, i.e., Pr(*A* | *B* ∧ C) = Pr(*A* | *C*).
 
-2.  Given *C*, *A* and *B* are probabilistically independent, i.e., $\Pr(A | B \wedge C) = Pr(A | C)$.
-
-I'm interested in an evidential version of screening. If we understand evidential support probabilistically, then we could just copy over Reichenbach's definitions, with a little reinterpretation of the formalism. So rather than thinking of $\Pr$ in terms of objective processes, as Reichenbach was, think of it as an evidential probability function. Then these two clauses will say that as things stand, *B* is evidence for *A*, but given *C*, *B* is no evidence for *A*. We can say all that without assuming any particular connection between probability and evidence, as follows.
+I'm interested in an evidential version of screening. If we understand evidential support probabilistically, then we could just copy over Reichenbach's definitions, with a little reinterpretation of the formalism. So rather than thinking of Pr $ in terms of objective processes, as Reichenbach was, think of it as an evidential probability function. Then these two clauses will say that as things stand, *B* is evidence for *A*, but given *C*, *B* is no evidence for *A*. We can say all that without assuming any particular connection between probability and evidence, as follows.
 
 > *C* screens off the evidential support that *B* provides to *A* iff:
 >
 > 1.  *B* is evidence for *A*; and
->
-> 2.  $B \wedge C$ is exactly as good evidence for *A* as *C* is.
+> 2.  *B* ∧ *C* is exactly as good evidence for *A* as *C* is.
 
 Both these clauses, as well as the statement that *C* screens off *B* from *A*, are made relative to an evidential background. I'll leave that as tacit in what follows. Here are a couple of examples, the second loosely based on facts, that illustrate the usefulness of this idea.
 
@@ -24,26 +22,22 @@ A woman is standing at a suburban train station waiting for a train into the cit
 
 Later, she is trying to work out whether a particular person X voted for the Democratic candidate or the Republican candidate at the last Presidential election. She knows that X is either from Alabama or Massachusetts, and voted, and she knows the distribution of voters in those two states are as follows. (The numbers in the boxes are percentages of voters, and GOP is shorthand for the Republican Party.)
 
-::: tabulary
-\@lcccc\@ & Pro--Choice & Pro--Life & Pro--Choice & Pro--Life\
-& Dem & Dem & GOP & GOP\
-
-Alabama & 28 & 7 & 7 & 58\
-Massachusetts & 52 & 13 & 13 & 22\
-:::
+|   | Pro-Choice | Pro-Life | Pro-Choice | Pro-Life |
+|   | Dem | Dem | GOP | GOP |
+|:---|:---:|:---:|:---:|:---:|
+| Alabama | 28 | 7 | 7 | 58 |
+| Massachusetts | 52 | 13 | 13 | 22 |
 
 Learning which state X is from is strong evidence about how they voted, since 65% of Massachusetts voters voted Democratic, while only 35% of Alabama voters did. But if she had previously learned that X was pro-choice, then learning which state X is from would be of no evidential significance. That's because 80% of pro-choice voters in each state voted Democratic. So learning that X is a pro-choice resident of Massachusetts is of no more evidential significance than simply learning X is pro-choice.
 
 There is something very interesting about this theoretical possibility. We can concede that something is usually evidentially significant even while denying it is significant on a particular occasion. This possibility is useful for solving a puzzle about judgment.
 
-### The Counting Problem {#thecountingproblem}
+##  The Counting Problem {#thecountingproblem}
 
 Suppose a rational agent has some evidence *E* that bears on a proposition *p*, and on that basis judges that *p*. Call the fact that the agent has made this judgment *J*, and assume the agent is self-aware enough to know that *J* is true, and that she is rational. Assume also that *p* is a rational thing to judge on the basis of *E*, though the agent does not necessarily know this. The fact that a rational person judges that *p* seems to support *p*. After all, if we found out that she is rational and judged that *p*, that would ceteris paribus be evidence for *p*. Now consider this slightly informal question: *How many pieces of evidence does the agent have that bear on p*? Three options present themselves.
 
 1.  Two - both *J* and *E*.
-
 2.  One - *E* subsumes whatever evidential force *J* has.
-
 3.  One - *J* subsumes whatever evidential force *E* has.
 
 This suggests a trilemma. First, it seems *J* could be evidence for *p*. We could get reason to be more confident in *p* just by learning *J*. Second, it seems like double counting for the agent to take both *E* and *J* to be evidence. After all, she only formed the judgment because of *E*. Yet third, it seems wrong for her to simply ignore *E*, since by stipulation it is evidence, and it certainly seems to bear on whether *p* is true.
@@ -56,9 +50,9 @@ One reason is by thinking generally about reasoning that proceeds in steps. Assu
 
 Another reason for preferring JSE to ESJ is that it alone supports a number of positions that epistemologists have found independently plausible. Indeed, it is arguable that JSE is something of a tacit premise in a number of arguments. In the next section we will look at three such arguments.
 
-### JSE in Epistemology {#jseinepistemology}
+##  JSE in Epistemology {#jseinepistemology}
 
-#### Egan and Elga on Self-Confidence {#eganandelgaonself-confidence}
+###  Egan and Elga on Self-Confidence {#eganandelgaonself-confidence}
 
 We'll start with some conclusions that Andy Egan and Adam Elga draw about self-confidence in their paper "I Can't Believe I'm Stupid". I suspect many of the conclusions they draw in that paper rely on JSE, but I'll focus just on the most prominent use of JSE in the paper.
 
@@ -72,19 +66,19 @@ Start with a slightly different case. [Katell]{acronym-label="Katell" acronym-fo
 
 Now vary the case. The first nine are experts, but the tenth is an anti-expert. He is wrong considerably more often than not. Again, the first nine confidently assert that *p*, but now the tenth says the same thing, i.e., *p*. This doesn't change [Katell]{acronym-label="Katell" acronym-form="singular+short"}'s epistemic situation. She has a lot of evidence for *p*, and a little evidence against it. The evidence against has changed; it is now the confident verdict of an anti-expert, rather than the equivocal anti-verdict of an expert, but this doesn't matter. So she still should, or at least may, believe *p*.
 
-Now make one final variation. [Katell]{acronym-label="Katell" acronym-form="singular+short"} is the tenth person consulted. She asks the first nine people, who of course all know each other's work, and they all say *p*. She knows that she has a tendency to make a wrong judgment in this type of situation -- even when she has had a chance to consult with experts. Perhaps *p* is the proposition that the correct road is to the left, and she is [AE]{acronym-label="AE" acronym-form="singular+short"}, for example. It does require some amount of hubris to continue to be an anti-expert even once you know you are one, and the contra-indicating judgments are made in the presence of expert advice. But I don't think positing delusionally narcissistic agents makes the case unrealistic. After listening to the experts, she judges that *p*. This is some evidence that $\neg p$, since she is an anti-expert. But, as in the last two paragraphs, it doesn't seem that it must override all the other evidence she has. So, even if she knows that in general she is fairly anti-reliable on questions like *p*, she need not suspend judgment. Even if her judgment is some evidence that $\neg p$, it might not be strong enough to defeat her earlier evidence for *p*. On those (presumably rare) occasions where her judgment tracks the evidence, the evidence may be strong enough for me to keep it, even once she acknowledges she have made the judgment.
+Now make one final variation. [Katell]{acronym-label="Katell" acronym-form="singular+short"} is the tenth person consulted. She asks the first nine people, who of course all know each other's work, and they all say *p*. She knows that she has a tendency to make a wrong judgment in this type of situation -- even when she has had a chance to consult with experts. Perhaps *p* is the proposition that the correct road is to the left, and she is [AE]{acronym-label="AE" acronym-form="singular+short"}, for example. It does require some amount of hubris to continue to be an anti-expert even once you know you are one, and the contra-indicating judgments are made in the presence of expert advice. But I don't think positing delusionally narcissistic agents makes the case unrealistic. After listening to the experts, she judges that *p*. This is some evidence that ¬*p* , since she is an anti-expert. But, as in the last two paragraphs, it doesn't seem that it must override all the other evidence she has. So, even if she knows that in general she is fairly anti-reliable on questions like *p*, she need not suspend judgment. Even if her judgment is some evidence that ¬*p* , it might not be strong enough to defeat her earlier evidence for *p*. On those (presumably rare) occasions where her judgment tracks the evidence, the evidence may be strong enough for me to keep it, even once she acknowledges she have made the judgment.
 
 The previous paragraph assumed that JSE did not hold. It assumed that [Katell]{acronym-label="Katell" acronym-form="singular+short"} could still rely on the nine experts, even once she had incorporated their testimony into a judgment. That's what JSE denies. According to JSE, the arguments of the previous paragraph rely on illicitly basing belief on screened-off evidence. That's bad. If JSE holds, then once [Katell]{acronym-label="Katell" acronym-form="singular+short"} makes a judgment, it's all the evidence she has. Now assume JSE is true, and that [Katell]{acronym-label="Katell" acronym-form="singular+short"} knows herself to be something of an anti-expert. Then any judgment she makes is fatally self-undermining, just like Egan and Elga say. When she makes a judgment, she not only has evidence it is false, she has undefeated evidence it is false. So if [Katell]{acronym-label="Katell" acronym-form="singular+short"} knows she is an anti-expert, she must suspend judgment. That's the conclusion Egan and Elga draw, and it seems to be the right conclusion iff JSE is true. So the argument here relies on JSE.
 
-#### White on Permissiveness {#whiteonpermissiveness}
+###  White on Permissiveness {#whiteonpermissiveness}
 
-Roger @White2005 argues that there cannot be a case where it could be epistemically rational, on evidence *E*, to believe *p*, and also rational, on the same evidence, to believe $\neg p$. One of the central arguments in that paper is an analogy between two cases.
+Roger @White2005 argues that there cannot be a case where it could be epistemically rational, on evidence *E*, to believe *p*, and also rational, on the same evidence, to believe ¬*p* . One of the central arguments in that paper is an analogy between two cases.
 
 > **Random Belief**\
 > S is given a pill which will lead to her forming a belief about *p*. There is a ½ chance it will lead to the true belief, and a ½ chance it will lead to the false belief. S takes the pill, forms the belief, a belief that *p* as it turns out, and then, on reflecting on how she formed the belief, maintains that belief.
 
 > **Competing Rationalities**\
-> S is told, before she looks at *E*, that some rational people form the belief that *p* on the basis of *E*, and others form the belief that $\neg p$ on the basis of *E*. S then looks at *E* and, on that basis, forms the belief that *p*.
+> S is told, before she looks at *E*, that some rational people form the belief that *p* on the basis of *E*, and others form the belief that ¬*p*  on the basis of *E*. S then looks at *E* and, on that basis, forms the belief that *p*.
 
 White claims that S is no better off in the second case than in the former. As he says,
 
@@ -96,19 +90,19 @@ First, assume White's narrator is only concerned about having a truthful opinion
 
 Another good reason for weighing evidence carefully is that we learn about other propositions through this process. Assume we're trying to figure out whether *p*, and there is some other proposition *q*, such that (a) we care about whether *q* is true, and (b) *p* is sometimes, but not always, good evidence for *q*. It is very common that at least some such proposition exists. Then figuring out why *p* is true, or at least why we should think it is true, will be relevant for *q*. So an agent who only cares about having at this very moment a true belief about this very proposition might be no better off engaging in rational reflection than taking White's belief-inducting pill, but such agents are far removed from the usual situation we find ourselves in, and not good guides to epistemological generalisation.
 
-But note that with JSE we don't need to restrict attention to such narrowly-defined agents. Assume that JSE is true. Then after S evaluates *E*, she forms a judgment, and *J* is the proposition that she formed that judgment. Now it might be true that *E* itself is good evidence for *p*. (The target of White's critique says that *E* is also good evidence for $\neg p$, but that's not yet relevant.) But given JSE, that fact isn't relevant to S's current state. For her evidence is, in its entirity, *J*. And she knows that, as a rational agent, she could just as easily have formed some other judgment, in which case *J* would have been false. Indeed, she could have formed the opposite judgment. So *J* is no evidence at all, and she is just like the person who forms a random belief, contradicting the assumption that believing *p* could, in this case, be rational, and that believing $\neg p$ could be rational.
+But note that with JSE we don't need to restrict attention to such narrowly-defined agents. Assume that JSE is true. Then after S evaluates *E*, she forms a judgment, and *J* is the proposition that she formed that judgment. Now it might be true that *E* itself is good evidence for *p*. (The target of White's critique says that *E* is also good evidence for ¬*p* , but that's not yet relevant.) But given JSE, that fact isn't relevant to S's current state. For her evidence is, in its entirety, *J*. And she knows that, as a rational agent, she could just as easily have formed some other judgment, in which case *J* would have been false. Indeed, she could have formed the opposite judgment. So *J* is no evidence at all, and she is just like the person who forms a random belief, contradicting the assumption that believing *p* could, in this case, be rational, and that believing ¬*p*  could be rational.
 
 Without JSE, White's analogy breaks down. Forming a belief via a pill, and forming a belief on the basis of the evidence, are very different. That's true even if you know that other rational agents take the evidence to support a different conclusion. The random belief is incapable of being properly updated, or of supporting the correct strands elsewhere in the web of belief.
 
 If we care about getting at the truth in general, and not just about *p*, then White's analogy needs JSE to go through. And we should, and do, care about truth in general. So this argument against permissiveness needs JSE. There may be other arguments against permissiveness, so this isn't to say that White's conclusion requires JSE. But his argument does.
 
-#### Disagreement and Priority {#disagreementandpriority}
+###  Disagreement and Priority {#disagreementandpriority}
 
 Here is Adam Elga's version of the Equal Weight View of peer disagreement, a theory we will discuss much more in chapter 12.
 
 > Upon finding out that an advisor disagrees, your probability that you are right should equal your prior conditional probability that you would be right. Prior to what? Prior to your thinking through the disputed issue, and finding out what the advisor thinks of it. Conditional on what? On whatever you have learned about the circumstances of the disagreement.  [@Elga2007 490]
 
-It is easy to see how JSE could help defend this view. First, focus on the role JSE can play in the clause about priority. Here is one kind of situation that Elga wants to rule out. S has some evidence *E* that she takes to be good evidence for *p*. She thinks T is an epistemic peer. She then learns that T, whose evidence is also *E*, has concluded $\neg p$. She decides, simply on that basis, that T must not be an epistemic peer, because T has got this case wrong. This decision violates the Equal Weight View, because it uses S's probability that T is a peer after thinking through the disputed issue, not prior to it, in deciding who is more likely to be right.
+It is easy to see how JSE could help defend this view. First, focus on the role JSE can play in the clause about priority. Here is one kind of situation that Elga wants to rule out. S has some evidence *E* that she takes to be good evidence for *p*. She thinks T is an epistemic peer. She then learns that T, whose evidence is also *E*, has concluded ¬*p* . She decides, simply on that basis, that T must not be an epistemic peer, because T has got this case wrong. This decision violates the Equal Weight View, because it uses S's probability that T is a peer after thinking through the disputed issue, not prior to it, in deciding who is more likely to be right.
 
 Now at first it might seem that S isn't doing anything wrong here. If she knows how to apply *E* properly, and can see that T is misapplying it, then she has good reason to think that T isn't really an epistemic peer after all. She may have thought previously that T was a peer, indeed she may have had good reason to think that. But she now has excellent evidence, gained from thinking through this very case, to think that T is not a peer and so not worthy of deference.
 
@@ -116,7 +110,7 @@ Since Elga thinks that there is something wrong with this line of reasoning, the
 
 So JSE supports Elga's strong version of the Equal Weight View, which bars agents from using the dispute at issue as evidence concerning the peerhood of another. And if JSE is not true, then there is a kind of simple and natural reasoning which undermines Elga's Equal Weight View. So Elga's version of the Equal Weight View requires JSE.
 
-### JSE and Higher Order Evidence {#jseandhigherorderevidence}
+##  JSE and Higher Order Evidence {#jseandhigherorderevidence}
 
 As noted above, JSE can also support the higher order hypothesis. The idea is reasonably simple. Assume that an agent gets evidence that is in fact good evidence for *p*, concludes *p* on that basis, but also has reason to think they are in a sub-optimal epistemic environment. The believer in higher-order evidence thinks the agent should then lower their confidence in *p*. But why is that, when they already have excellent evidence for *p*, and the evidence about the environment doesn't seem to defeat that?
 
@@ -124,7 +118,7 @@ Let's make that last rhetorical question a little clearer. [Danail]{acronym-labe
 
 I've sketched an argument that the higher order hypothesis not just could be supported by JSE, but would be undermined if JSE were false. And JSE is indeed false, as we'll now show. We'll return at the end of the chapter to whether this fact can be turned into an argument against the higher order hypothesis.
 
-### The Regress Objection {#theregressobjection}
+##  The Regress Objection {#theregressobjection}
 
 [Ariella]{acronym-label="Ariella" acronym-form="singular+short"} is trying to make a forecast for how well her hometown team, the Detroit Tigers, will do in the upcoming baseball season. Baseball teams play 162 games[^51], and the Tigers look like being a relatively mediocre team. She knows that it is irrational to form any belief about precisely how many games the Tigers will win. But she thinks, correctly as it turns out, that it is reasonable to form a credal distribution over propositions of the form *The Tigers will win n games*, and have that distribution be roughly a normal distribution with a standard deviation of 5 games. The question is to work out what the most likely win total is, which will be both the mode and the mean of the distribution. For simplicity, we'll say that for her to *predict* that The Tigers will win *n* games is to set *n* to be this centre. (I don't mean to suggest this is the ordinary use of the English word 'predict'. The definition I'm using here is stipulative.)
 
@@ -151,7 +145,6 @@ This assumption, that only ratifiable judgments are rational, drives much of the
 The puzzling feature is that, as we have already seen, there need not be any ratifiable judgment to make. So the view will be somewhat incomplete. But maybe that isn't such a bad thing. We imagine the ratifiability theorist saying the following two things. (This isn't the only way to extend the ratifiability view, but I won't be objecting to this extension.)
 
 1.  It is important to make ratifiable judgments. Any judgment that is not ratifiable is not rational.
-
 2.  It is better, other things being equal, to have judgments that track the evidence.
 
 This view will say that [Ariella]{acronym-label="Ariella" acronym-form="singular+short"} faces an epistemic dilemma. Anything she does will be to some extent irrational, since it will not be ratifiable. But the least bad option will be to predict that the Tigers will win 76 games, as she does. If you think epistemic dilemmas are impossible, you won't like this way of thinking about [Ariella]{acronym-label="Ariella" acronym-form="singular+short"}. But I don't think the arguments against epistemic dilemmas are particularly strong. If this was the worst thing to say about the ratifiability view then it would look like a reasonable view.
@@ -168,7 +161,7 @@ It's hard to see what could motivate such a position, either about disagreement 
 
 The same thing happens when it comes to screening. Remove B from the example and instead assume that A has some evidence that (a) she has made some mistakes on simple sums in the past, but (b) tends to massively over-estimate the likelihood that she's made a mistake on any given puzzle. What should she do? One option, in my view the correct one, is that she should believe that there are four pieces of fruit in the basket, because that's what the evidence obviously entails. Another option is that she should be not very confident there are four pieces of fruit in the basket, because she makes mistakes on these kinds of sums. Yet another option is that she should be pretty confident (if not completely certain) that there are four pieces of fruit in the basket, because if she were not very confident about this, this would just be a manifestation of her over-estimation of her tendency to err. The 'solution' to the regress we're considering here says that the second of these three reactions is the uniquely rational reaction. The idea behind the solution is that we should respond to the evidence provided by first-order judgments, and correct that judgment for our known biases, but that we shouldn't in turn correct for the flaws in our self-correcting routine. I don't see what could motivate such a position. Either we just rationally respond to the evidence, and in this case just believe there are four pieces of fruit in the basket, or we keep correcting for errors we make in any judgment and start a regress.
 
-### Laundering
+##  Laundering
 
 In the definition of JSE, I said it was restricted to rational judgments. This was to avoid a simple counterexample to the view. (I'm indebted here to Vann McGee for pointing out the need for this.) [Vieno]{acronym-label="Vieno" acronym-form="singular+short"} is usually a pretty reliable judge, and he's not currently drunk or otherwise incapacitated. But he makes a mistake, as we all do sometimes, and forms the belief that *p* on the basis of massively insufficient evidence. This is rather irrational. Again, that's not to say that [Vieno]{acronym-label="Vieno" acronym-form="singular+short"} himself is irrational, but he does have a particular irrational view.
 
@@ -188,7 +181,7 @@ This point about laundering also offers a nice reply to a worry that I shouldn't
 
 [Ariella]{acronym-label="Ariella" acronym-form="singular+short"}'s example doesn't just show that JSE is wrong. It gives us an extra reason to doubt the higher order hypothesis. If that hypothesis is true, then whatever prediction [Ariella]{acronym-label="Ariella" acronym-form="singular+short"} makes, she should raise her prediction as soon as she realises that she has made it. But that isn't plausible, since it leads from a reasonable starting point, a prediction of 76 wins, to an incoherent conclusion. So the higher order hypothesis is false, and the challenge it poses to normative externalism does not succeed.
 
-### Agents, States and Actions {#agentsstatesandactions}
+##  Agents, States and Actions {#agentsstatesandactions}
 
 With this discussion of regresses completed, we are in a position to evaluate an interesting alternative to my account of cases like [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s. The alternative I'll discuss here says that if [Riika]{acronym-label="Riika" acronym-form="singular+short"} does nothing in response to learning the higher order evidence, her resultant belief is perfectly acceptable, but this shows something bad about her. I'm going to first motivate such an alternative view, then suggest that the regresses we've discussed in this chapter pose a problem for it.
 
@@ -207,11 +200,8 @@ With all these distinctions in mind, we can take another look at the cases that 
 Well, it does seem inadvisable for them to act as if they had enough fuel. But to get from premises about the the inadvisability of action to conclusions about the irrationality of belief requires a lot of steps. We could imagine reasoning as follows.
 
 1.  It is inadvisable to act as if one had enough fuel.
-
 2.  So, it is inadvisable to believe one has enough fuel.
-
 3.  So, it is unwise to believe one has enough fuel.
-
 4.  So, it is irrational to believe one has enough fuel.
 
 Put this bluntly, every step seems questionable. There could be distinct norms of action and belief. There could be distinct norms of advice and evaluation. And there could be distinct norms that apply at the level of agents to those that apply at the level of individual beliefs. Let's look at these in order.
@@ -232,7 +222,7 @@ After all, if [Riika]{acronym-label="Riika" acronym-form="singular+short"} shoul
 
 This is a way of debunking the intuitions Christensen endorses about [Riika]{acronym-label="Riika" acronym-form="singular+short"}'s case. (And as noted many times, many other theorists have similar intuitions to Christensen's about similar cases.) As it stands, I don't accept this debunking story, because I accept the 'substantive theory of the action-belief connection', but this is a commitment that goes beyond normative externalism, and the rejection of level-crossing principles.
 
-Let's assume that that bridge has been crossed though, and we have reason (either intuition or argument) to believe it would be inadvisable for [Riika]{acronym-label="Riika" acronym-form="singular+short"} to believe her patient has dengue fever. What follows? Nothing much, unless we assume a very tight connection between assessments of agents and assessments of states, or between assessments of strategies and assessments of states. And there are very good reasons to separating these assessments. Maria [@Lasonen-Aarnio2010b; @Lasonen-Aarnio2014] has argued for separating agent assessment from state assessment, and argued that the standard intuition here involves conflating the two. And John Hawthorne and Amia Srinivasan have argued for separating assessment of states from assessment of strategies for coming to those states  [@HawthorneSrinivasan2013].
+Let's assume that that bridge has been crossed though, and we have reason (either intuition or argument) to believe it would be inadvisable for [Riika]{acronym-label="Riika" acronym-form="singular+short"} to believe her patient has dengue fever. What follows? Nothing much, unless we assume a very tight connection between assessments of agents and assessments of states, or between assessments of strategies and assessments of states. And there are very good reasons to separating these assessments. Maria Lasonen-Aarnio [-@Lasonen-Aarnio2010b; -@Lasonen-Aarnio2014] has argued for separating agent assessment from state assessment, and argued that the standard intuition here involves conflating the two. And John Hawthorne and Amia Srinivasan have argued for separating assessment of states from assessment of strategies for coming to those states  [@HawthorneSrinivasan2013].
 
 Hawthorne and Srinivasan's argument is that these assessments come apart in general, so we should not be surprised if they come apart here. In general, it makes sense to distinguish between what someone should do in a particular circumstance, and what the person would do if they had instilled the habits that would be most effective in the long run. They give an example from sports. Their example involves tennis, but the idea generalises. Given the range of possible installable habits, it might be that the best habit to instil is one that will lead to expending valuable energy on occasionally chasing after lost causes. They are particularly interested in an epistemic limit on possible habits; the fact that we don't always know what we know means that we can't always react perfectly to our knowledge. But there are many possible limitations on possible habits due to our physical and cognitive limitations. And any one of these limitations will produce a gap between the optimal thing to do in a situation given one's knowledge or evidence, and what would be done if one had installed the optimal habits.
 
