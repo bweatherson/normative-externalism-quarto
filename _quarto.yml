@@ -1,0 +1,95 @@
+project:
+  type: book
+
+book:
+  title: "Normative Externalism"
+#  subtitle: "A Human Interest Story"
+  author: "Brian Weatherson"
+  date: now
+  downloads: [pdf, epub, docx]
+  repo-url: https://github.com/bweatherson/kahis-quarto
+  repo-actions:
+    - issue
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - part: "Ethics"
+      chapters: 
+        - internalism.qmd
+        - symmetry.qmd
+        - dilemma.qmd
+        - blame.qmd
+        - double.qmd
+    - part: "Epistemology"
+      chapters:
+        - level.qmd
+        - higher.qmd
+        - circles.qmd
+        - akrasia.qmd
+        - screening.qmd
+        - disagreement.qmd
+    - epilogue.qmd
+    - references.qmd
+  sidebar:
+    search: true
+    collapse-level: 3
+    title: "Normative Externalism"
+
+bibliography: NEBib.bib
+
+format:
+  html:
+    theme: 
+      light: 
+        - solar
+        - html-fonts.scss
+        - solar-defaults.scss
+      dark:
+        - solar
+        - html-fonts.scss
+        - dark-table.scss
+    linestretch: 1.6
+    toc: true
+    toc-title: "In this chapter:"
+    toc-depth: 3
+    toc-location: right
+    reference-location: margin
+    margin-header: "&nbsp;"
+    fontsize: 1.2em
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://use.typekit.net/uzz2drx.css">
+    mainfont: "ff-scala-sans-pro, sans-serif"
+    html-math-method: mathjax
+    self-contained: false
+    bread-crumbs: false
+  pdf:
+    documentclass: scrbook
+    geometry: "left=1.95in,right=1.95in,top=1.78in,bottom=1.78in"
+    mainfont: STIX Two Math
+    sansfont: Lato
+    mainfontoptions: BoldFont = STIX Two Text SemiBold, ItalicFont = STIX Two Text Italic, Scale = MatchLowercase
+    biblio-style: philreview
+    include-in-header: 
+      text: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \renewcommand{\chaptermark}[1]{\markboth{#1 }{}}
+        \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+        \fancyhf{}
+        \fancyhead[CE]{\nouppercase{\textit \leftmark}}
+        \fancyhead[CO]{\nouppercase{\textit \rightmark}}
+        \fancyhead[LE,RO]{\thepage}
+        \fancyfoot{}
+        \renewcommand{\headrulewidth}{0pt}
+        \setlength\heavyrulewidth{0ex}
+        \setlength\lightrulewidth{0ex}
+        \addtolength{\headheight}{1.6pt}
+  docx:
+    toc: true
+    number-sections: true
+  epub:
+    toc: true
+    number-sections: true
+
+editor: visual

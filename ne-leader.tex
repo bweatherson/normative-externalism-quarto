@@ -1,0 +1,80 @@
+\documentclass[11pt, openany]{book}
+%\usepackage{NEsty}
+
+\usepackage{amsmath}
+\usepackage{natbib}
+
+%\bibpunct{(}{)}{;}{n}{}{,}
+
+\usepackage{nicefrac}
+\usepackage{enumitem}
+\setlist{noitemsep}
+\usepackage{mdwlist}
+\usepackage{tabulary}
+\usepackage{booktabs}
+\usepackage{microtype}
+\usepackage[pagebackref]{hyperref}
+
+\renewcommand{\backref}[1]{(#1)}
+
+\usepackage{hyphenat}
+\hyphenation{Bu-ch-ak str-an-ge head-aches a-b-out Moor-e-an wo-u-ld a-m-ou-nt wh-eth-er Ta-ma-ti gu-ard-i-an-s Arn-t-zen-i-us sh-ou-ld phil-os-o-ph-ers gr-ou-n-ds me-th-od it-self hy-po-cr-isy Will-i-am-son str-ong-est wh-at}
+\lefthyphenmin=2
+\righthyphenmin=2
+
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black}
+
+\usepackage[no-math]{fontspec}
+%\setmainfont[Ligatures=TeX, BoldFont = Garamond Bold]{Adobe Garamond Pro}
+%\setmainfont[Mapping=tex-text, BoldFont = Baskerville SemiBold]{Baskerville}
+%\setmainfont[Mapping=tex-text, BoldFont = ACaslonPro-Semibold.otf]{Adobe Caslon Pro}
+\setmainfont[Ligatures=TeX, Mapping=tex-text, BoldFont = Adobe Caslon Pro Semibold]{Adobe Caslon Pro}
+%\setmainfont{Old Standard TT}
+%\setmainfont{Gentium Basic}
+\usepackage[defaultmathsizes,italic]{mathastext}
+
+\usepackage[compact, explicit]{titlesec}
+\titleformat{\section}{\normalfont \large \bfseries}{\thesection}{1em}{#1}
+\titleformat{\chapter}[display]{\bfseries \huge \centering}{\chaptertitlename\ \thechapter}{1em}{#1}
+\titleformat{\subsection}{\normalfont \normalsize \itshape}{\thesubsection}{1em}{#1}
+
+\widowpenalty=150
+\clubpenalty=150
+
+\setlength{\parskip}{0ex plus 2ex minus 0ex}
+\setlength{\headsep}{10pt}
+\setlength{\headheight}{14pt}
+\setlength{\textheight}{540pt}
+\setlength{\textwidth}{371pt}
+
+\setlength{\marginparwidth}{100pt}
+\setlength{\oddsidemargin}{50pt}
+\setlength{\evensidemargin}{50pt}
+
+\raggedbottom
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1 }{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{0.5pt}
+\fancypagestyle{plain}{
+  \fancyhead{}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+\newcommand{\PPI}{Reprinted in \textit{Philosophical Papers}, Volume I, pp. \hbox{}}   
+\newcommand{\PPII}{Reprinted in \textit{Philosophical Papers}, Volume II, pp. \hbox{}}    
+\newcommand{\PPL}{Reprinted in \textit{Papers in Philosophical Logic}, pp. \hbox{}}    
+\newcommand{\PME}{Reprinted in \textit{Papers in Metaphysics and Epistemology}, pp. \hbox{}}    
+\newcommand{\PESP}{Reprinted in \textit{Papers in Ethics and Social Philosophy}, pp. \hbox{}}
+
+\usepackage{chngcntr}
+\counterwithout{footnote}{chapter}
+
+
+\usepackage[nopostdot]{glossaries}

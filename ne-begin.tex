@@ -1,0 +1,56 @@
+\makeglossaries
+
+  \renewcommand*{\glossentry}[2]{%  
+    \item[\glsentryitem{#1}%  
+          \glstarget{#1}{\glossentryname{#1}}]  
+       \glossentrydesc{#1}\glspostdescription\space ({#2})}
+
+\begin{document}
+\pagenumbering{roman}
+
+\pagestyle{plain}
+\fancyhf{}
+\markboth{ }{}
+
+%\newcommand*{\FSfont}[1]{\fontencoding{T1}\fontfamily{#1}\selectfont}
+\newlength{\drop}% for my convenienc
+{\begingroup% Robert Frost, T&H p 149
+%\FSfont{5bp} % FontSite Bergamo (Bembo)
+\drop = 0.2\textheight
+\centering
+\vfill
+{\Huge Normative Externalism}\\[\baselineskip]
+{\large Brian Weatherson}\\[0.5\drop]
+\vfill
+%\includegraphics{cclicence} \\
+%{\Large \plogo}\\[0.5\baselineskip]
+%{\Large \cc \ccnc \ccsa}\\[0.5\baselineskip]
+%{\Large The Publisher}\par
+{\large\scshape \today}\par
+\vfill\null
+\endgroup}
+
+
+\setcounter{tocdepth}{1}
+
+\tableofcontents 
+
+\vspace{12pt}
+
+\noindent Last revised: \textbf{\today}
+
+\newpage
+       
+\printglossary[title=List of Examples,toctitle=List of Examples]
+
+%\printglossary[title=List of Examples \\ \normalsize{\textrm{EJK Seminar, Brian Weatherson, May 21, 2015}},toctitle=List of Examples]
+
+\newpage
+
+\pagenumbering{arabic}
+
+\fancyhf{}
+\fancyhead[CE]{\textit \leftmark}
+\fancyhead[LE]{\thepage}
+\fancyhead[CO]{\textit \rightmark}
+\fancyhead[RO]{\thepage}
