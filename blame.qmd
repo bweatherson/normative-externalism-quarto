@@ -1,10 +1,10 @@
-## Blame and Moral Ignorance {#blameandmoralignorance}
+# Blame and Moral Ignorance {#blameandmoralignorance}
 
 If an argument from premises concerning symmetry to a conclusion about internalism worked, we would get a very strong conclusion. It would turn out that true morality is irrelevant to our judgment of actions and persons. All we should use, when judging someone's actions, is the moral compass that they have. Or, perhaps, the moral compass that they should have given their evidence. As I have stressed though, the arguments for symmetry might undermine the availability of this fallback. It really looks like that if symmetry proves anything, it proves that the only moral standard (and indeed only epistemic standard) is (perceived) consistency with one's own values.
 
 Put so baldly, it perhaps it isn't surprising that symmetry-based internalism as it was developed in the last three chapters ended up looking like a hopeless project. So it is time to look at alternative motivations for internalism, ones that suggest somewhat weaker forms of internalism. The views we looked at so far said that being true to one's own self (in one way or another) was both necessary and sufficient for the applicability of some key moral concept. Over the next two chapters, we'll look at views that drop one or other direction of that connection. So in this chapter, we'll look at views which say that conformity to one's own values is a sufficient condition for blamelessness. And in the next chapter, we'll look at views which say that conformity to one's own values is a necessary condition for avoiding all vices.
 
-### Does Moral Ignorance Excuse? {#doesmoralignoranceexcuse}
+## Does Moral Ignorance Excuse? {#doesmoralignoranceexcuse}
 
 In recent work on moral responsibility, many philosophers have argued that that blameless ignorance of what's right and wrong is exculpatory. Something is exculpatory if it provides a full excuse; it makes an agent not blameworthy for a wrong action they perform. So slightly more precisely, what these philosophers have argued for is a version of the following view.
 
@@ -15,26 +15,24 @@ In recent work on moral responsibility, many philosophers have argued that that 
 > 2. This belief of S's is not itself blameworthy; and\
 > 3. The belief is tied in the right way to the performance of *X*.
 
-The second and third clauses are vague, and getting clear on whether there is a way of resolving the vagueness that makes the theory viable is going to be a big part of the story to follow. But the vagueness also makes it plausible to attribute MIE to a lot of philosophers. A classic statement of MIE, that I'll return to at some length below, is in "Reproach and Responsibility" by Cheshire @Calhoun1989. But the view has been more recently defended by Gideon [@Rosen2003; @Rosen2004], Michael @Zimmerman2008 and Neil @Levy2009. And I plan to argue against all of these views.
+The second and third clauses are vague, and getting clear on whether there is a way of resolving the vagueness that makes the theory viable is going to be a big part of the story to follow. But the vagueness also makes it plausible to attribute MIE to a lot of philosophers. A classic statement of MIE, that I'll return to at some length below, is in "Reproach and Responsibility" by Cheshire @Calhoun1989. But the view has been more recently defended by Gideon Rosen [-@Rosen2003; -@Rosen2004], Michael @Zimmerman2008 and Neil @Levy2009. And I plan to argue against all of these views.
 
 Although I'll focus on philosophers such as Rosen and Zimmerman who have openly defended MIE, I've crafted the definition of MIE so that it is endorsed by many of their critics. In taking on MIE, then, I'm taking on a much broader range of philosophers than those who describe themselves as holding that moral ignorance excuses.
 
 MIE is not a reductive account of blameworthiness; it uses the notion of blameworthy belief right there in the second clause. And through the 1990s and 2000s, much of the debate around MIE turned on how to understand that clause. Rosen and Zimmerman use MIE to argue for a very strong view. They think that mistaken moral beliefs are very rarely blameworthy, so they think MIE implies that people are rarely blameworthy. Or, at least, there are very few cases where we can be confident someone is blameworthy. This view is rejected by, for example, [Alex]{acronym-label="Alex" acronym-form="singular+short"}ander @Guerrero2007 and William @Fitzpatrick2008. Looking back to the earlier debate, Michelle @MoodyAdams1994 similarly rejects some of the practical conclusions that @Calhoun1989 draws. But all of these rejections are accompanied by acceptance of something like MIE. The complaint these philosophers are making is not that MIE fails, but that philosophers have been too generous in their application of clause 2. I'm arguing for the stronger claim, that MIE itself fails.
 
-In recent years more philosophers have adopted the more radical view that MIE itself is false. Elizabeth [@Harman2011a; @Harman2014] has argued against the view that moral mistakes can be exculpatory. Since Harman thinks that moral mistakes are themselves blameworthy, her view is in a technical sense consistent wth MIE. But that's only because she thinks that strictly speaking, it never applies. And the broader view on responsibility I'm adopting draws on work by Nomy @Arpaly2003, Angela @AngelaSmith2005 and Julia @Markovits2010.
+In recent years more philosophers have adopted the more radical view that MIE itself is false. Elizabeth Harman [-@Harman2011a; -@Harman2014] has argued against the view that moral mistakes can be exculpatory. Since Harman thinks that moral mistakes are themselves blameworthy, her view is in a technical sense consistent wth MIE. But that's only because she thinks that strictly speaking, it never applies. And the broader view on responsibility I'm adopting draws on work by Nomy @Arpaly2003, Angela @AngelaSmith2005 and Julia @Markovits2010.
 
 Harman notes that the debate has been misnamed. When we talk about moral ignorance excusing, what we really mean is that moral *mistakes* might excuse. If someone is extremely confident that *X* is wrong, but not quite confident enough to know it, few philosophers would say that mental state is exculpatory when *X* is done. If they have a justified true belief that *X* is wrong, but don't strictly know this because their belief is in some other way defective, no one takes their lack of knowledge to be exculpatory. What matters are cases of moral mistake; cases where an agent firmly and reasonably has a moral belief that's simply false. Harman notes that this point is at least implicit in Guerrero's response to Rosen  [@Guerrero2007], and a similar point is made by Rik @Peels2010.
 
-In order to keep terminological consistency with most of the debate, while avoiding getting caught up on the point of the last paragraph, I'll make some more terminological stipulations. Say that a person is **thoroughly ignorant** of a truth *p* iff she believes $\neg$ *p*. And then the live issue is whether thorough moral ignorance excuses. I'll assume that when other writers hypothesise that moral ignorance excuses, the term 'thorough' has been elided. And I will join them in this way of writing.
+In order to keep terminological consistency with most of the debate, while avoiding getting caught up on the point of the last paragraph, I'll make some more terminological stipulations. Say that a person is **thoroughly ignorant** of a truth *p* iff she believes ¬*p*. And then the live issue is whether thorough moral ignorance excuses. I'll assume that when other writers hypothesise that moral ignorance excuses, the term 'thorough' has been elided. And I will join them in this way of writing.
 
-### Why Believe MIE? {#whybelievemie}
+## Why Believe MIE? {#whybelievemie}
 
-There are three main classes of arguments that have been given for MIE. The first is what I'll call the Argument from Symmetry, defended by @Rosen2003 \[64\] and @Zimmerman2008 [192].
+There are three main classes of arguments that have been given for MIE. The first is what I'll call the Argument from Symmetry, defended by @Rosen2003 [64] and @Zimmerman2008 [192].
 
 1.  Cases like Adelajdra's and [Billie]{acronym-label="Billie" acronym-form="singular+short"}'s show us that mistakes about matters of fact can excuse wrongdoing.
-
 2.  Moral mistakes and non-moral mistakes should be treated the same way.
-
 3.  So moral mistakes can excuse wrongdoing.
 
 I've in effect already offered two responses to this argument. Adelajdra and [Billie]{acronym-label="Billie" acronym-form="singular+short"} don't do anything wrong, so they don't need an excuse, so they aren't reasons to think that non-moral mistakes are excuses. And in general non-moral mistakes are not excuses. Borrowing some terms from jurisprudence, mistakes of fact are defences, not excuses; they are reasons to find someone not guilty, rather than reasons to not punish them despite their guilt. And chapters 3 and 4 are long arguments for thinking that premise 2 of this argument is wrong.
@@ -42,9 +40,7 @@ I've in effect already offered two responses to this argument. Adelajdra and [Bi
 The second is an argument from motivation, which we could put as follows.
 
 1.  It is good, or at least blameless, to do *X* because one thinks *X* is the thing to do.
-
 2.  If an action is blameworthy, this blame must be traceable to some stage that led to the production of the action.
-
 3.  So if the belief that *X* was the thing to do is blameless, then so is the performance of *X*.
 
 The long argument that Michael Zimmerman gives for a version of MIE is, I think, a version of an argument from motivation  [@Zimmerman2008 175ff]. And the argument plays a central role in Gideon Rosen's discussion. He describes a character[Bonnie]{acronym-label="Bonnie" acronym-form="singular+short"} who is, as he puts it, an "unreconstructed selfish creep" (77) [Bonnie]{acronym-label="Bonnie" acronym-form="singular+short"} cuts in front of a father waiting in the rain for a cab with his family, for no good reason other than she wanted to get uptown in more of a hurry. It turns out later that [Bonnie]{acronym-label="Bonnie" acronym-form="singular+short"} has been suffering from a virus, and one effect of this virus is that she ceases to view considerations involving others as giving her reasons for action. But it did so, remarkably, in a way that left [Bonnie]{acronym-label="Bonnie" acronym-form="singular+short"} in a relatively coherent state. She reflectively endorses her self-centred behaviour, and dismisses the importance of traditional moral considerations. Indeed, she apparently can hold her own in philosophical argumentation when confronted with the standard arguments against the kind of nihilism or egoism (it isn't exactly clear which) she now espouses. Rosen argues it is reasonable for her to take arguments for conventional morality seriously, but she does that, so to get her act well we will need her to do more.
@@ -63,19 +59,16 @@ For example, consider [JoJo]{acronym-label="JoJo" acronym-form="singular+short"}
 
 But to get to MIE, we need two stronger assumptions, neither of which we can get from raw intuition. One is that [JoJo]{acronym-label="JoJo" acronym-form="singular+short"} is not just less blameworthy than his father, but that he is blameless. The other is that [JoJo]{acronym-label="JoJo" acronym-form="singular+short"} is blameless because he is morally ignorant. I'm going to argue that neither of these extra assumptions is correct. When we return to [JoJo]{acronym-label="JoJo" acronym-form="singular+short"} at the end of the chapter, I will draw on some insightful things that Elinor @Mason2015 says about cases like [JoJo]{acronym-label="JoJo" acronym-form="singular+short"}'s to argue that MIE is the wrong conclusion to draw cases from like his.
 
-### Chapter Plan {#chapterplan}
+## Chapter Plan {#chapterplan}
 
 The argument here is going to be a little more roundabout than in other chapters, so let's have a road-map to see where we're going.
 
 -   In sections 4 and 5, I'll set out some very general features of blame that I'll be taking mostly for granted in the discussion that follows.
-
 -   Sections 6 through 9 will discuss the idea that moral ignorance only excuses if it is connected to action in the right way. I'll argue that most of the ways we might try to make this vague notion of 'connected in the right way' precise lead to implausible theories. The only version of MIE that survives being precisified is very weak.
-
 -   Sections 10 and 11 will discuss two kinds of cases that this weak version of MIE might still cover: wrong actions that are done habitually, and wrong actions by people in very different moral cultures. In each case, I'll argue that there are better explanations than MIE for why blame might be eliminated on reduced in these cases.
-
 -   Finally, I'll return to the picture of blame that results from these discussions, and go over how it handles a number of difficult cases.
 
-### Blame and Desire {#blameanddesire}
+## Blame and Desire {#blameanddesire}
 
 The main aim of the chapter is to argue that MIE is false. It posits a necessary connection between (rationally) believing actions have a certain moral property, and actions actually having some similar property. Since I'm in the business of rejecting all such necessary connections, it's my job to argue against it.
 
@@ -96,18 +89,17 @@ We can see this with non-moral examples. [Abbott]{acronym-label="Abbott" acronym
 In general, people who are practically irrational might be blameless for what seem like wrong acts, because the act does not reflect their underlying desires. This isn't exactly the same thing as saying that normative ignorance excuses, but it is very close. The following two groups are not identical as a matter of conceptual necessity, but they have a huge overlap.
 
 -   People whose actions do not reflect their desires.
-
 -   People who do not know what actions are best given their desires.
 
 Indeed, many people who are in both groups would cease being in the first group as soon as they ceased being in the second. The view I'm going to be defending is that whether someone is in the second group does not directly matter to how blameworthy they are. That is, MIE is false. But whether someone is in the first group matters a lot, and whether someone is in the first group might in practice depend on whether they are in the second group. So normative ignorance will in many real world cases be indirectly relevant to blame.
 
-### Blame, Agents and Time {#blameagentsandtime}
+## Blame, Agents and Time {#blameagentsandtime}
 
 I'm not going to try to present a full theory of blameworthiness, and then derive results about ignorance and blameworthiness from it. But I will record with two important general points about blame that will matter in what follows.
 
 The first is that it is agents, not actions or outcomes, which are the primary subjects of praise and blame. I will still say, and have already said, that agents can be blameworthy for actions. (Peter A. @Graham2012, in the course of offering a plausible general theory of blame, denies even this.) But it is the agent, not the act, that is the focus of blame.
 
-The second point, which has not received sufficient attention in the recent literature, is that blameworthiness is time sensitive. It seems very bizarre to say that a particular action, performed at $t_1$, is wrong at $t_2$ but not wrong at $t_3$. Perhaps that is even contradictory. But it is certainly not contradictory to say that the agent of that action is blameworthy for the action at $t_2$ but not at $t_3$. Indeed, such claims are often true, as in the following case.
+The second point, which has not received sufficient attention in the recent literature, is that blameworthiness is time sensitive. It seems very bizarre to say that a particular action, performed at *t*~1~, is wrong at *t*~2~ but not wrong at *t*~3~. Perhaps that is even contradictory. But it is certainly not contradictory to say that the agent of that action is blameworthy for the action at *t*~2~ but not at *t*~3~. Indeed, such claims are often true, as in the following case.
 
 [Glyn]{acronym-label="Glyn" acronym-form="singular+short"} is a twelve year old boy. He steals [Mehdi]{acronym-label="Mehdi" acronym-form="singular+short"}'s expensive new jacket. [Glyn]{acronym-label="Glyn" acronym-form="singular+short"} does not need a new jacket, he is not suffering from any kind of duress or compulsion, and he knows it is wrong to steal. But he wants the jacket, so he steals it. At the time he steals it, he is blameworthy for the theft.
 
@@ -129,7 +121,7 @@ Rosen actually notes that time might matter to [Bonnie]{acronym-label="Bonnie" a
 
 But the last point is exactly what can't be stipulated. It isn't just passage of time or forgiveness of victims that makes blameworthiness go away. Sufficient change of character can too. That's why it doesn't take too long for juvenile wrongdoing to be morally expunged. Commit the misdeed at the right time, and it might be legally expunged in a few days. Morality doesn't use the same hard cutoffs the law uses, but the principle is the same. [Bonnie]{acronym-label="Bonnie" acronym-form="singular+short"}'s change of character is much quicker, but not completely unrealistic. (Compare the case discussed by @BurnsSwedlow2003.) And we should have the same verdict; her actions were blameworthy, but she is no longer to blame for them.
 
-### Acting In Ignorance is No Excuse {#actinginignoranceisnoexcuse}
+## Acting In Ignorance is No Excuse {#actinginignoranceisnoexcuse}
 
 The next three sections are on clause 3 of MIE. The clause is ambiguous, and on the most natural interpretations, MIE is clearly false. So we'll look at whether there is any interpretation that makes MIE plausibly true. It will take a while to cover the possibilities, but at the end the only version of MIE left viable will be one that is very weak.
 
@@ -141,16 +133,14 @@ The ignorance that our carnivore shows does not excuse her. It is true that she 
 
 There are two natural ways to think that moral mistakes could be relevant to actions in ways that are excusing. First, the action might be counterfactually dependent on the mistake. If the agent wasn't making the mistake, they wouldn't have performed the action. Second, the action might be motivated by the mistake. That is, the reasons the agent had for the action might have included the mistaken belief. In many cases, these two will go together. But this actually makes things tricky for the idea that action from ignorance can excuse. The next subsection will show that adding a condition that the action was counterfactually dependent on the mistake does not provide a sufficient condition for blamelessness. And the following subsection will show that if ignorance ever does excuse, it isn't necessary that the ignorance is motivating. Indeed, it is sometimes necessary that the ignorance is not motivating. The space of cases in which ignorance excuses is, if not empty, exceedingly small.
 
-### Against Counterfactual Interpretations of Acting From Ignorance {#againstcounterfactualinterpretationsofactingfromignorance}
+## Against Counterfactual Interpretations of Acting From Ignorance {#againstcounterfactualinterpretationsofactingfromignorance}
 
 The mere presence of a blameless moral mistake does not excuse. It is a little more plausible to think that actions that are in some way traceable to a blameless moral mistake are excusable. Here's a version of MIE that makes that idea rigorous.
 
 > For any agent S, proposition *p* and action *X*, if
 >
 > 1.  S blamelessly believes *p*; and
->
 > 2.  *p* is false; and
->
 > 3.  If S had not believed *p*, S would not have done *X*, then
 >
 > S is not blameworthy for doing *X*, since her ignorance of *X* is an excuse.
@@ -175,7 +165,7 @@ So on Rosen's view, [Pasco]{acronym-label="Pasco" acronym-form="singular+short"}
 
 One possible move that could be made here is to restrict the quantifier in our principle about excuse. Perhaps we should say that a false belief is excusing only if it is a false belief in a proposition about morality, and satisfies these conditions. But such a move would be undermotivated twice over. For one thing, a core motivation for MIE is the argument from symmetry, and making this move is to insist on a huge asymmetry. For another thing, we need some special story about why such a restricted theory should be true, and the literature is not exactly forthcoming with such stories. Indeed, if we had such a restriction in place, it isn't clear we would even need Rosen's fourth condition. But, as Rosen acknowledged, we do need such a condition to get a plausible thesis about mistake and excuse.
 
-### Against Motivational Interpretations of Acting From Ignorance {#againstmotivationalinterpretationsofactingfromignorance}
+## Against Motivational Interpretations of Acting From Ignorance {#againstmotivationalinterpretationsofactingfromignorance}
 
 Still, there is a natural enough fix to MIE. [Pasco]{acronym-label="Pasco" acronym-form="singular+short"}'s false moral belief, either on its own or in conjunction with false factual beliefs, doesn't excuse because it doesn't play the right kind of role in his deliberations. For a false belief to excuse, it isn't sufficient for an agent's actions to be counterfactually sensitive to the presence of the belief. Rather, the belief must play some kind of affirmative role in the agent's motivations, not just the kind of regulative role that is implied by counterfactuals like the one Rosen uses. The action must not just be sensitive to the presence of the belief, but in some way brought about by the belief.
 
@@ -194,9 +184,7 @@ This is the wrong way around. [Sebastian]{acronym-label="Sebastian" acronym-form
 Perhaps we can avoid both kinds of counterexamples just described if we modify the idea that false moral belief can excuse even further. For a false moral belief to excuse it must:
 
 -   Be blamelessly held; and
-
 -   Be relied on in action guidance; and
-
 -   Be blamelessly relied on in action guidance.
 
 Note that I say 'action guidance' not 'deliberation' here, because I take it we want to say that someone can be guided by their beliefs without using them in deliberation. When I descend from a balcony by the stairs rather than jumping over the railing, I'm guided by my belief that jumping over the railing will result in injury, even if I don't deliberate using that belief. Typically, I don't deliberate at all before descending via stairs rather than via jumping, so I don't use any beliefs in deliberation. Now given what we said about [Pasco]{acronym-label="Pasco" acronym-form="singular+short"}, we'll need some notion of action guidance that is stronger than counterfactual dependence, and that will be no small challenge. I'll return to that problem in the next section, because first I need to note some points about the restriction to reliance that is blameless.
@@ -207,13 +195,13 @@ Second, it is a commonplace that blameworthy acts have to be traceable to someth
 
 But once we remember Williams's point about too many thoughts, we should see that this is a very tight restriction. In a lot of cases, it is wrong to directly bring considerations of the morality of the action into one's deliberation. Rather, actions should be guided by the facts in virtue of which the action is right or wrong. A false belief about morality should generally be behaviourally inert, and so is not clear it can ever be blamelessly relied upon.
 
-### Adopting a Decision Procedure and Acting on It {#adoptingadecisionprocedureandactingonit}
+## Adopting a Decision Procedure and Acting on It {#adoptingadecisionprocedureandactingonit}
 
 But, says the objector, it is not always wrong to think about right and wrong and use this to guide one's actions. Indeed, this is what one should do when faced with novel, hard cases. The objector I'm imagining here is making a point similar to something Sigrun @Svavarsdottir1999 says in response to Michael @Smith1994. Smith argued that good agents would never be motivated by right and wrong as such, but things that made actions right and wrong. Svavarsdóttir argued, in effect, that this should hold only in equilibrium. (See, for instance, her example of Mike on page 209. I also discussed this example in section 3.5, making a somewhat related point.) When an agent first reaches a momentous moral decision, it is fine that they are moved to act by it. In the long run, they should be able to be moved by the forces behind the moral truth. That is, in the long run they should reach an equilibrium between their moral beliefs and their motivations; things they believe to be good should become directly motivating. But it is too much to require one's motivations to turn on a dime, the instant belief changes, especially if the decision is one where there are weighty interests on either side of the scale.
 
 This doesn't make any trouble for the [Sebastian]{acronym-label="Sebastian" acronym-form="singular+short"} and [Belle]{acronym-label="Belle" acronym-form="singular+short"} case from the previous section, for we can easily add to the case that they have been consequentialists for long enough that they should have by now reached this kind of equilibrium. But it does mean that there could be some cases where someone actually is moved by a moral belief, and is not thereby blameworthy. It is easiest to see that happening in novel cases where there is a lot at stake, morally speaking. In some of these cases, we might think, virtue requires both careful moral deliberation, and perhaps even acting on the result of that deliberation in advance of one's motives lining up with one's resulting view of the good.
 
-But it turns out there is a distinct problem these cases pose for the view that moral ignorance is exculpatory. The problem is one raised by [Alex]{acronym-label="Alex" acronym-form="singular+short"}ander @Guerrero2007, though I'm going to put his point in a slightly different way. The worry is that defenders of the view that moral ignorance excuses haven't been sensitive enough to time. If any kind of moral mistake matters, it is a mistake at the time of action. But it is all too easy, when thinking about cases, to focus on mistakes at the time of belief formation. If there can be cases where a belief is blamelessly formed, but the persistence of that belief is blameworthy, these will come apart. And that's just what happens, Guerrero argues, in some of the cases that we've just said looked most promising for the view that moral ignorance excuses.
+But it turns out there is a distinct problem these cases pose for the view that moral ignorance is exculpatory. The problem is one raised by Alex @Guerrero2007, though I'm going to put his point in a slightly different way. The worry is that defenders of the view that moral ignorance excuses haven't been sensitive enough to time. If any kind of moral mistake matters, it is a mistake at the time of action. But it is all too easy, when thinking about cases, to focus on mistakes at the time of belief formation. If there can be cases where a belief is blamelessly formed, but the persistence of that belief is blameworthy, these will come apart. And that's just what happens, Guerrero argues, in some of the cases that we've just said looked most promising for the view that moral ignorance excuses.
 
 Consider the example, used by both Rosen and Guerrero, of the ancient slaveowner. Rosen says that such people were often blamelessly wrong about the morality of slaveowning. They were blameless because they simply absorbed the prevailing morality of the day. No one around them questioned whether slaveowning was right or wrong, so they were under no obligation to do so either.
 
@@ -227,7 +215,7 @@ I've set up Guerrero's argument in terms of interest-relative theories of belief
 
 So we have, after a long detour, an answer to some of the rhetorical questions Rosen posed earlier. [Bonnie]{acronym-label="Bonnie" acronym-form="singular+short"} believes that she has most reason to steal the cab; what do we expect her to do? On the Ganson-Weatherson view, we expect her to lose the belief in light of the stakes. On the Ross and Schroeder view, we expect her to lose the disposition to act on the belief in light of the stakes. Either way, there's no excuse for simply harming others on the basis of a prior belief that one would be blameless in so doing.
 
-### Calhoun on Blame and Blameworthiness {#calhounonblameandblameworthiness}
+## Calhoun on Blame and Blameworthiness {#calhounonblameandblameworthiness}
 
 The considerations raised so far suggest that there will be very few cases of wrongdoing that are excused for the reasons that Rosen and Zimmerman raise. The wrongdoing must be counterfactually sensitive to the mistaken belief, and be motivated, or at least guided, by the mistaken belief, and both of these things must be blameless, and the belief itself, both in formation and retention, must be blameless, along with the use of that belief in deliberation. And it turns out these exceptions to the excuse condition are complementary, so between them they cover a vast range of cases. Indeed, at this stage it would be reasonable to speculate that there are no cases at all that satisfy all of these constraints.
 
@@ -258,25 +246,17 @@ Now [Inka]{acronym-label="Inka" acronym-form="singular+short"} is in a position 
 Putting these points together, we can sketch a way in which moral ignorance might excuse. Assume that all of the following conditions are met.
 
 1.  S is, as a matter of policy, disposed to do *X* in circumstances C.
-
 2.  S has this policy for the same reasons that she has the false moral belief that doing *X* in circumstances C is permissible. This means that she would (eventually) lose the policy if she lost the belief, and that the adoption and maintenance of the policy is part of a general disposition to adopt policies she regards as permissible.
-
 3.  It is commonly held in S's community that it is permissible to do *X* in circumstances C.
-
 4.  S is in circumstances C.
-
 5.  If S does *X* right now, no one will be greatly harmed.
-
 6.  S has no time or reason to reconsider her policy of doing *X* in C before it becomes time to act.
-
 7.  S does *X*.
 
 None of the arguments I've offered so far refute the idea that S is less blameworthy in these cases than is a typical person who does *X*. Even without having necessary and sufficient conditions for 'acting from ignorance', it is plausible that S acts from ignorance and not just in ignorance. And it's not true that the situation S finds herself in calls for reflection and deliberation rather than action. So nothing I've said so far rules out S's actions being excused. I'm going to defend three claims about this case.
 
 -   We need to know more about S to know how much her situation excuses her behaviour.
-
 -   Even when S has a partial excuse, it isn't the fact that she is morally ignorant that excuses. But the moral ignorance is relevant; the reasons that she is morally ignorant will typically be the reasons that she is excused.
-
 -   In any case, there are no such things as full excuses for wrong action, so S couldn't have a full excuse for wrong action.
 
 I'm going to defend the first and second claims in this section, and the third claim at the end of the chapter. The defences will turn on considerations arising from cases of practical irrationality. [^37]
@@ -297,7 +277,7 @@ So that's my overall conclusion about the people who commit minor wrongs out of 
 
 Instead I'll turn to one other aspect of Calhoun's examples. [Inka]{acronym-label="Inka" acronym-form="singular+short"} is a case of habitual minor wrongdoing, in cases where habitual rather than reflective action is called for. Now we'll spend a bit of time on wrongdoing that is culturally approved.
 
-### Moral Mistakes and Moral Strangers {#moralmistakesandmoralstrangers}
+## Moral Mistakes and Moral Strangers {#moralmistakesandmoralstrangers}
 
 Nothing I've said so far explains why [JoJo]{acronym-label="JoJo" acronym-form="singular+short"} is less blameworthy than his father. And many philosophers hold it to be very intuitive that he is, and that something like MIE explains why. My preferred account of [JoJo]{acronym-label="JoJo" acronym-form="singular+short"} relies on work by Elinor @Mason2015.
 
@@ -308,9 +288,7 @@ Mason argues thinks that the debate about moral ignorance has been oversimplifie
 There are (at least) three interesting claims being made here.
 
 1.  Only people who are in our moral community are subject to ordinary blame. We might have contempt, or disdain, or disrepect for people in alien moral communities. Indeed, we might hold them subject to objective blame. Indeed, having contempt, etc for them might be a way of objectively blaming them.
-
 2.  When an ordinary person in our moral community does something wrong, they know that what they are doing is wrong, at least at some, possibly sub-conscious, level, or they are engaged in blameworthy motivated reasoning.
-
 3.  Only people who know that what they are doing is wrong, at least at some, possibly sub-conscious, level, are subject to ordinary blame, unless they are engaged in blameworthy motivated reasoning.
 
 I'm not sure whether Mason intended to argue from 1 and 2 to 3; the text doesn't make that appear to be the central strand on her reasoning. (Cases like JoJo's are much more important.) But as I've set this up, there is a valid argument from 1 and 2 to 3. And it's a pretty interesting argument for MIE.
@@ -347,7 +325,7 @@ This approach agrees with intuitions about cases. [JoJo]{acronym-label="JoJo" ac
 
 I've said this is a plausible explanation of why we have certain intuitions, but that's a long way from saying those intuitions are true. I don't have to take a stand on that question, and I don't know what the right thing to say is. My best guess is that figuring out what to say about [JoJo]{acronym-label="JoJo" acronym-form="singular+short"} requires settling some very big picture questions about the role of blame in a moral theory. One possible consequence of the ideas I've just been sketching is that we shouldn't *blame* [JoJo]{acronym-label="JoJo" acronym-form="singular+short"}, but we should have some other negative person-level evaluation of him. That's to say, we should still in some good sense hold him responsible for his actions - though maybe not in the way that we hold people responsible when we blame them. It is not uncommon to see philosophers identify moral responsibility with susceptibility to praise and blame, and if the picture I've been building to here is right, that identification must be wrong. We could treat [JoJo]{acronym-label="JoJo" acronym-form="singular+short"} as responsible by, for example, being angry at him, or having contempt for him, even if we don't blame him, or think blame would be the right kind of attitude to hold. While I'm not going to settle any questions that big, I will end with some other points about blame that help make sense of the views I've defended in this chapter.
 
-### Two Approaches to Blame {#twoapproachestoblame}
+## Two Approaches to Blame {#twoapproachestoblame}
 
 Neil @Levy2005 helpfully distinguishes two approaches to responsibility.
 
@@ -362,9 +340,7 @@ Levy argues that one problem for the attributionist view is that it can't distin
 On the view I have in mind, wrongfulness and blameworthiness differ in three respects.
 
 1.  They have different targets. It is, in the first instance, actions that are wrong, but agents who are blameworthy.
-
 2.  They differ with respect to time. As noted above, an action can become less blameworthy over time, but does not become less wrong.
-
 3.  They frequently differ with respect to degree.
 
 The last point is true because there are such things as partial excuses. Indeed, it is arguable that all excuses are partial excuses. By a partial excuse, I mean something that reduces an agent's blameworthiness, without fully absolving the agent. It is helpful to think of a familiar analogy from the criminal law. Sometimes, special circumstances can provide an agent with a defence; the circumstances mean that the agent was not guilty of any crime even though they fulfilled all the elements of the crime. (Defence of another is often thought of this way.) In other cases, circumstances mitigate an agent's guilt. They don't provide a reason for finding the agent not guilty, but they provide a reason for imposing a lesser punishment. In this context, a full excuse would be something that meant there was no punishment at all that was appropriate, but which did not provide a reason for finding the person not guilty. This is a strange combination. Indeed, it may be incoherent. The finding of guilt is itself a punishment. The same thing is true in the moral case. Excuses typically mitigate responsibility. But things that absolve an agent from responsibility are usually defences, which imply the agent didn't do anything wrong. Holding that the agent has no defence for what they did, but they are fully excused, is an unstable position.
