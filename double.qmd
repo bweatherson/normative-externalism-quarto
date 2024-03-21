@@ -1,22 +1,20 @@
-## Double Standards {#doublestandards}
+# Double Standards {#doublestandards}
 
 This chapter wraps up three loose ends. First, I discuss whether hypocrisy is a vice. I'm going to argue that it isn't, and say why this matters to the broader issue of normative externalism. Second, I'm going to say why I haven't relied on arguments about inter-theoretic value comparison to argue for normative externalism. Roughly, I think those arguments over-generalise, so it is a mistake to use them here. And finally, I'll say something about which aspects of normative externalism are central to the view, and which are peripheral. This will serve as a summing up of this part of the book, and help bring into focus how the different parts fit together.
 
-### Hypocrites
+## Hypocrites
 
 [Janus]{acronym-label="Janus" acronym-form="singular+short"} has the following odd set of views. He has basically correct views about the physiology of animals that are used for livestock. On the basis of these views, and some straightforward philosophical reflection, he has concluded that meat eating is almost certainly impermissible. Given the philosophical evidence available to him, this isn't a particularly irrational view to have, but it is false in the world he is in. And this is good luck for [Janus]{acronym-label="Janus" acronym-form="singular+short"}, since he eats meat at every opportunity.
 
 Here's a natural objection to the simple externalism I have so far defended.
 
 1.  [Janus]{acronym-label="Janus" acronym-form="singular+short"} is, in some way or other, criticisable.
-
 2.  According to simple forms of normative externalism, he is not criticisable, since what he does is not wrong.
-
 3.  So simple forms of normative externalism are wrong.
 
 I'm going to primarily push back against premise 1 here. While there is some intuitive pull to the idea that [Janus]{acronym-label="Janus" acronym-form="singular+short"} is criticisable, I will argue that intuition can easily be explained away. But first, I'll start with a couple of clarifications of the case.
 
-#### Why hypocrisy? {#whyhypocrisy}
+### Why hypocrisy? {#whyhypocrisy}
 
 Some readers may be wondering why I'm talking about [Janus]{acronym-label="Janus" acronym-form="singular+short"}'s hypocrisy, rather than his akrasia. After all, 'akrasia' is the standard philosophers' term for a person who acts against their better judgment. And hypocrisy is attached to doing other than what one says is right, as much as doing what one doesn't think is right.
 
@@ -24,13 +22,13 @@ On that last point, I think hypocrisy applies to more people than just the chara
 
 Still, why not describe this as akrasia? Well, for one thing the term 'akrasia' is barely a term of English. There is the English expression 'weakness of will', but this has very little to do with the phenomenon we're considering here  [@Holton1999]. To the extent we understand what it is to be akratic, we understand it stipulatively. But as we'll see below, there are some tricky borderline cases of hypocrisy. I would like to use our intuitive judgments to help clarify those cases. But I can hardly ask the reader to share intuitions about akrasia, since it is a notion introduced by stipulation.
 
-#### The Hypocrite and the Rationaliser {#thehypocriteandtherationaliser}
+### The Hypocrite and the Rationaliser {#thehypocriteandtherationaliser}
 
 I've known the occasional person like [Janus]{acronym-label="Janus" acronym-form="singular+short"}, but in many ways he seems like a rather foreign character. A much more common character, at least in the circles I typically move in, is the person who comes up with rationalizations for their particular behaviour. (I'm drawing heavily in this subsection on what Eric @Schwitzgebel2011 says about rationalizations.) It is not obvious why one would think that that making these rationalizations is a moral improvement. Indeed, I suspect I prefer the character who faces up to their own moral failures to the one who constantly finds a spurious reason to justify their own behaviour.
 
 I only bring this up to note that if you're like me, it might be a little hard to make firm judgments about [Janus]{acronym-label="Janus" acronym-form="singular+short"}. After all, [Janus]{acronym-label="Janus" acronym-form="singular+short"} is so foreign, so Other, that he doesn't attract our normal sympathies, and without those sympathies we aren't great at moral judgments. I'm not going to lean heavily on this point, but I do think that it is a reason to suspect that we might not be the best judge of people like [Janus]{acronym-label="Janus" acronym-form="singular+short"}.
 
-#### Recklessness and Character {#recklessnessandcharacter}
+### Recklessness and Character {#recklessnessandcharacter}
 
 My preferred thing to say about [Janus]{acronym-label="Janus" acronym-form="singular+short"} is that his action is not in itself criticisable, but that actions like this are revealing of a character flaw that is worrying. (This diagnosis borrows from some suggestions @HawthorneSrinivasan2013 make about how to analyse a parallel case in epistemology.) The character flaw is not taking the interests of others as seriously as one should, especially in comparison to one's own interests. One way to do that is adopt theories or standards that are helpful to oneself. Another is simply to ignore what one thinks are the appropriate standards in one's actions.
 
@@ -50,7 +48,7 @@ And this is all evidence that hypocrisy isn't in itself a vice. [Yori]{acronym-l
 
 And that is the key thing for normative externalists to say about hypocrisy. Often, the hypocrite does something bad, and that should be criticised. In many other cases, the hypocrite reveals a character flaw that will, quite probably, lead to bad actions in the near future. That too should be criticised, at least with the aim of preventing the bad actions from happening in the near future. But sometimes the hypocrite simply does the right thing, and ignores their false moral views. That isn't bad, and isn't even a character flaw. There is nothing wrong with simply doing the right thing, even if one doesn't recognise it.
 
-### Value Comparisons {#valuecomparisons}
+## Value Comparisons {#valuecomparisons}
 
 There is a prominent argument against normative internalism that I have not discussed here. This is the problem of inter-theoretic value comparisons  [@Sepielli2009; @Hedden2015]. I haven't discussed it because I don't think it is as big a problem for internalism as some of my fellow externalists do. But it is an interesting problem, and thinking about how it could be solved shows some constraints on the form of a viable internalism.
 
@@ -58,27 +56,25 @@ There is a prominent argument against normative internalism that I have not disc
 
 The externalist says that we need to know whether the consequentialist or the deontological theory is correct, and that will determine what [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} should do. But some internalists don't like this answer. They note, correctly, that it is really hard to work out what the right moral theory is. And they think that it shouldn't be so hard to work out what to do. So [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} must be able to do something with just the knowledge he has. (Or so say the internalists. I obviously disagree, but we'll set aside my disagreement for the moment.)
 
-What options does [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} have? If he knew one of the moral theories was more likely than the other, perhaps he could just do the thing recommended by the more likely moral theory. But we've assumed that [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} knows no such thing. So perhaps the thing to do is to maximise expected moral value. To do that, we just need to know whether $x > y$, where $x$ and $y$ are defined as follows:
+What options does [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} have? If he knew one of the moral theories was more likely than the other, perhaps he could just do the thing recommended by the more likely moral theory. But we've assumed that [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} knows no such thing. So perhaps the thing to do is to maximise expected moral value. To do that, we just need to know whether *x* > *y*, where *x* and $y$ are defined as follows:
 
--   $x$ = the amount which action A is better than action B, according to the version of consequentialism [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} takes seriously.
+-   *x* = the amount which action A is better than action B, according to the version of consequentialism [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} takes seriously.
 
 -   $y$ = the amount which action B is better than action A, according to the deontological moral theory that [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} takes seriously.
 
-The problem is, how are we going to find out whether $x > y$? We can't look to either of the moral theories that [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} takes seriously. They can only answer questions internal to themselves; they can't say how to compare something that's wrong by their lights to a kind of wrongness taken seriously by a rival theory. What we need is a comparison of wrongness across theories. That is, we need an inter-theoretic comparison of wrongness. Or, as it is sometimes put, we need an inter-theoretic value comparison. (It sometimes seems to me that there is an implicit consequentialism built into this way of putting the problem, but set that worry aside.)
+The problem is, how are we going to find out whether *x* > *y*? We can't look to either of the moral theories that [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} takes seriously. They can only answer questions internal to themselves; they can't say how to compare something that's wrong by their lights to a kind of wrongness taken seriously by a rival theory. What we need is a comparison of wrongness across theories. That is, we need an inter-theoretic comparison of wrongness. Or, as it is sometimes put, we need an inter-theoretic value comparison. (It sometimes seems to me that there is an implicit consequentialism built into this way of putting the problem, but set that worry aside.)
 
 Now there are a number of moves that have been proposed for how to get around this impasse, and a number of criticisms of each of them. What I'm interested in here is the following argument.
 
 1.  If normative internalism is true, there is a solution to the problem of inter-theoretic value comparison.
-
 2.  There is no solution to the problem of inter-theoretic value comparison.
-
 3.  So, normative internalism is false.
 
 Premise 2 of this argument is false. I don't say that because I know the solution, or because I have an argument in favour of a particular solution. What I do have is an argument that a solution must exist. The argument turns on considerations about democracy and representation.
 
 [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"} is a good democratic representative. She currently faces a tricky decision between two options. One option will maximise welfare, but breach some moral principles that are often held to be important. The other option will do neither of these things. Now as it turns out, the true moral theory in [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"}'s world is a kind of pluralism that says it is morally permissible to make either choice when acting for oneself, and making this kind of choice. But [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"} isn't acting for herself, she is a representative. And representatives have a duty to represent, at least in cases where the people want them to act in morally permissible ways. And it turns out [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"}'s constituents are torn. Half of them are committed welfarist consequentialists, the other half are deontologists. Assume further that [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"} has not promised, either implicitly or explicitly, to make one choice rather than the other in this kind of situation.
 
-Given all those assumptions, what [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"} should do turns on the correct answer to the problem of inter-theoretic value comparison. What she should do depends, at least in part, on whether the welfare loss matters more to her welfarist constituents than the principle violation matters to her principled constituents. That is to say, what she should do turns on exactly the same kind of question that [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} faced when he was deciding whether $x > y$.
+Given all those assumptions, what [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"} should do turns on the correct answer to the problem of inter-theoretic value comparison. What she should do depends, at least in part, on whether the welfare loss matters more to her welfarist constituents than the principle violation matters to her principled constituents. That is to say, what she should do turns on exactly the same kind of question that [Ulysses]{acronym-label="Ulysses" acronym-form="singular+short"} faced when he was deciding whether *x* > *y*.
 
 Now as an externalist, I don't think [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"} has to in any sense solve the problem of inter-theoretic value comparison. She just has to do the right thing for the right reasons. And one can do the right thing for the right reasons without knowing they are the right reasons, or even without having any general disposition to act rightly in similar cases. But I do think that we as theorists need to solve the problem in order to say anything evaluative about [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"}'s actions. And even if we can't do that, if we believe there is a fact of the matter about whether [Saraswati]{acronym-label="Saraswati" acronym-form="singular+short"} did the right thing, then we are committed to thinking that there is a solution to the problem of inter-theoretic value comparisons.
 
@@ -92,7 +88,7 @@ It's worth noting just how strong a conclusion we could draw from the inter-theo
 
 Imagine that someone faces a choice about whether to betray a confidence. The betrayal would be extremely disrespectful, but they think there would be a small gain to the welfare of the world if they did so. And while they mostly think respect is central to morality, then have a non-zero credence that welfare consequentialism is the correct moral theory. They break the confidence. Are they hypocritical? I think they probably are, even if we can't give an algorithm for weighing the downside of the betrayal on the moral theory they think is probably right against the welfarist upside on the theory they give a small credence to. If we think the problem of inter-theoretic welfare comparisons is not solvable in principle, then we can't even define a notion of hypocrisy that applies in cases like this. And that would be a very strong result. I don't think the arguments that hypocrisy is no vice are nearly as strong as the arguments against more systematic forms of internalism in chapters 2--4. So I suspect the argument from inter-theoretic value comparisons proves too much. It doesn't just rule out views like *The best thing to do is maximise expected goodness*, it also rules out views like *It's at least a minor vice to not live up to your own principles*. And that feels like too much weight for the argument to bear.
 
-### The Externalist's Commitments {#theexternalistscommitments}
+## The Externalist's Commitments {#theexternalistscommitments}
 
 I'm going to finish up this part by saying a bit about what I take to be the more and less central parts of normative externalism. Like any -ism, the view not only makes many different commitments, those commitments differ greatly in strength. Setting out these commitments serves a few useful functions. It helps us see how the different parts of the view hang together. And it is good practice to say ahead of subsequent refutations what retreats would be minor setbacks, and what would amount to fleeing the field[^38]. It's very tempting when a part of one's view is shown to be flawed to insist that it was only a peripheral aspect of the view to begin with. Writing down which commitments are central and which are peripheral before the flaws are made visible is a way to avoid this temptation.
 
@@ -111,9 +107,7 @@ More generally, we can distinguish amongst views that say there is a connection 
 We can put all this in terms of a checklist. Ideally, from the point of view of normative externalism, there would be no necessary connections between moral properties, on the one hand, and actual or reasonable moral beliefs on the other hand. If, however, there is such a connection, we can ask three questions about it.
 
 1.  Is the connection two-way, as opposed to moral beliefs providing merely a necessary or a sufficient condition for the moral property?
-
 2.  Is the moral feature morally central, as opposed to being, say, a minor vice or virtue?
-
 3.  Does the (actual or reasonable) moral belief explain why the moral property is instantiated, as opposed to the explanation going the other way, or some third factor explaining the connection?
 
 The more 'yes' answers we give, the worse things are for normative externalism. The view I want to defend is that there are no necessary connections between moral belief and morality. But if there are such connections, I want to defend the view that these are one-way, or are minor, or that the moral belief does not explain the moral property. Being true to yourself is not part of morality. But if it is, it is a small part, and actions that are true to yourself aren't good because they are true to yourself.
