@@ -67,7 +67,7 @@ We have already seen some valid arguments that are not PTAs. The argument from t
 3.  *a*~3~ is the third most recent *F*, and it is *G*.
 4.  So the last three *F*s are *G*.
 
-For a concrete instance of this, let *F* be *President of the USA*, *G* be *is left-handed*, and the $a_i$ be Barack Obama, George W. Bush and Bill Clinton, and imagine someone considering the argument in 2009. More generally, consider cases where *G* is a coincidental property of the last 3 (or more) *F*s, and we see that the last few *F*s have this property by simply working through the cases. The result is a conclusion that we learn simply by remembering the premises, and then doing a very simple deduction. So there are some PTAs, even if not every valid argument is a PTA.
+For a concrete instance of this, let *F* be *President of the USA*, *G* be *is left-handed*, and the *a~i~* be Barack Obama, George W. Bush and Bill Clinton, and imagine someone considering the argument in 2009. More generally, consider cases where *G* is a coincidental property of the last 3 (or more) *F*s, and we see that the last few *F*s have this property by simply working through the cases. The result is a conclusion that we learn simply by remembering the premises, and then doing a very simple deduction. So there are some PTAs, even if not every valid argument is a PTA.
 
 The clearest example of a valid argument that is not a PTA, for any agent, is *A, therefore A*. By definition, a PTA is one where the agent could first learn the premise, and then, in virtue of that, later come to learn the conclusion. But one cannot first learn the premise of *A, therefore A*, and later come to believe the conclusion. For similar reasons, it will be rare that *A and B, therefore A*, could be a PTA for an agent, though perhaps there are some possible instances of this schema, and some possible agents, for whom this is a PTA.
 
@@ -193,7 +193,7 @@ Pyrrhonian scepticism starts with reflection on the problem of the criterion. An
 
 The problem of the criterion is potentially a very strong argument. After all, the conclusion of the last paragraph was not that we know nothing about the unobservable, or about the external world, or even about contingent matters. It is that we know nothing at all. That even extends to philosophical knowledge. So the problem of the criterion is naturally an argument for Pyrrhonian scepticism, the view that we cannot know anything, even the truth of philosophical claims like Pyrrhonian scepticism.
 
-For much the same reason, the view looks so strong as to be self-defeating. You might think that by the lights of the Pyrrhonian sceptic, we can't even assert Pyrrhonian scepticism, since we can't know it to be true. That's too quick, since it assumes as a premise that *Only assert what you know* is a valid rule, and that's both false in academic contexts, and easily denied by the Pyrrhonian. But still, a view that says we can't know that we exist, we can't know that we are thinking, we can't know that $\neg (0 = 1)$, and so on is just absurd.
+For much the same reason, the view looks so strong as to be self-defeating. You might think that by the lights of the Pyrrhonian sceptic, we can't even assert Pyrrhonian scepticism, since we can't know it to be true. That's too quick, since it assumes as a premise that *Only assert what you know* is a valid rule, and that's both false in academic contexts, and easily denied by the Pyrrhonian. But still, a view that says we can't know that we exist, we can't know that we are thinking, we can't know that ¬(0 = 1), and so on is just absurd.
 
 And worse still, it is an argument for an absurd conclusion with really only one key premise, namely global conservatism. Sometimes arguments can have absurd conclusions, but at least they present us with a challenge to identify where things have gone wrong. Not here! The mistake is obviously the global conservatism, since that's the only premise there is. I'm assuming here that we are reading 'method' so weakly that it is uncontroversial that any knowledge is gained by some method or other.
 
@@ -207,7 +207,7 @@ If global conservatism is false, then either liberalism is true somewhere, or ra
 
 The normative externalist looks like they will be subject to what Stewart [@Cohen2002; @Cohen2005] calls "The Problem of Easy Knowledge". This might be a better way to cash out the intuition that normative externalism leads to problematic kinds of circular reasoning.
 
-The problem of easy knowledge arises for any theory that says an agent can use a method to gain knowledge without knowing that it is knowledge-producing. Say *M* is one such method, and S one such agent. And assume, at least for now, that S can identify how and when she is using *M*. That is, when she forms a belief that *p* using *M*, she at least often knows that she is doing so. Say that she forms beliefs $p_1, \dots, p_n$ this way, and each of these beliefs amount to knowledge. Then she can reason as follows.
+The problem of easy knowledge arises for any theory that says an agent can use a method to gain knowledge without knowing that it is knowledge-producing. Say *M* is one such method, and S one such agent. And assume, at least for now, that S can identify how and when she is using *M*. That is, when she forms a belief that *p* using *M*, she at least often knows that she is doing so. Say that she forms beliefs *p*~1~, $\dots$, *p~n~* this way, and each of these beliefs amount to knowledge. Then she can reason as follows.
 
 1.  *p*~1~ $\wedge \dots \wedge$ *p~n~*
 2.  *M* said that *p*~1~ $\wedge \dots \wedge$ *p~n~*
@@ -287,25 +287,22 @@ We'll return briefly to the question of whether this is a good way to test the t
 
 Again, the problem here is that the last step of the reasoning is mistaken. There are plenty of tests that can only produce knowledge in one direction only. Here are four such examples.
 
-First example. The agent is an intuitionist, so she does not believe that instances of excluded middle are always true. She does, however, know that they can never be false. She is unsure whether $Fa$ is decidable, so she does not believe $Fa \vee \neg Fa$. She observes $a$ closely, and observes it is *F*. So she infers $Fa \vee \neg Fa$. Her test could not have given her a reason to believe $\neg(Fa \vee \neg Fa)$, but it does ground knowledge that $Fa \vee \neg Fa$.
+First example. The agent is an intuitionist, so she does not believe that instances of excluded middle are always true. She does, however, know that they can never be false. She is unsure whether *Fa* is decidable, so she does not believe *Fa* \vee ¬*Fa*. She observes $a$ closely, and observes it is *F*. So she infers *Fa* \vee ¬*Fa*. Her test could not have given her a reason to believe ¬(*Fa* \vee ¬*Fa*), but it does ground knowledge that *Fa* \vee ¬*Fa*.
 
-Second example. The agent is trying to figure out which sentences are theorems of a particular modal logic she is investigating. She knows that the logic is not decidable, but she also knows that a particular proof-evaluator does not validate invalid proofs. She sets the evaluator to test whether random strings of characters are proofs. After running overnight, the proof-evaluator says that there is a proof of some particular sentence $S_0$ in the logic. The agent comes to know that $S_0$ is a theorem of the logic, even though the failure of the proof-evaluatory to output that $S_0$ has a proof would not have given her any reason to believe it is not a theorem.
+Second example. The agent is trying to figure out which sentences are theorems of a particular modal logic she is investigating. She knows that the logic is not decidable, but she also knows that a particular proof-evaluator does not validate invalid proofs. She sets the evaluator to test whether random strings of characters are proofs. After running overnight, the proof-evaluator says that there is a proof of some particular sentence *S*~0~ in the logic. The agent comes to know that *S*~0~ is a theorem of the logic, even though the failure of the proof-evaluatory to output that *S*~0~ has a proof would not have given her any reason to believe it is not a theorem.
 
-Third example. [Ada]{acronym-label="Ada" acronym-form="singular+short"} has a large box of Turing machines. She knows that each of the machines in the box has a name, and that its name is an English word. She also knows that when any machine halts, it says its name, and that it says nothing otherwise. She does not know, however, which machines are in the box, or how many machines are in the box. She listens for a while, and hears the words 'Scarlatina', 'Aforetime' and 'Overinhibit' come out of the box. She comes to believe, indeed know, that Scarlatina, Aforetime and Overinhibit are Turing machines that halt. Had those machines not halted, she would not have been in the right kind of causal contact with those machines to have singular thoughts about them, so she could not have believed that they are not halting machines. So listening for what words come out of the box is one-sided in the sense described above; for many propositions, it can deliver knowledge that *p*, but could not deliver knowledge that $\neg p$.
+Third example. [Ada]{acronym-label="Ada" acronym-form="singular+short"} has a large box of Turing machines. She knows that each of the machines in the box has a name, and that its name is an English word. She also knows that when any machine halts, it says its name, and that it says nothing otherwise. She does not know, however, which machines are in the box, or how many machines are in the box. She listens for a while, and hears the words 'Scarlatina', 'Aforetime' and 'Overinhibit' come out of the box. She comes to believe, indeed know, that Scarlatina, Aforetime and Overinhibit are Turing machines that halt. Had those machines not halted, she would not have been in the right kind of causal contact with those machines to have singular thoughts about them, so she could not have believed that they are not halting machines. So listening for what words come out of the box is one-sided in the sense described above; for many propositions, it can deliver knowledge that *p*, but could not deliver knowledge that ¬*p*.
 
 Fourth example. [Kylie]{acronym-label="Kylie" acronym-form="singular+short"} is a Red Sox fan in Australia in the pre-internet era. Her only access to game scores are from one-line score reports in the daily newspaper. She doesn't know how often the Red Sox play. She notices that some days there are 2 games reported, some days there is 1 game reported, and on many days there are no games reported. She also knows that the paper's editor is also a Red Sox fan, and only prints the score when the Red Sox win. When she opens the newspaper and sees a report of a Red Sox win (i.e. a line score like "Red Sox 7, Royals 3") she comes to believe that the Red Sox won that game. But when she doesn't see a score, she has little reason to believe that the Red Sox lost any particular game. After all, she has little reason to believe that any particular game even exists, or was played, let alone that it was lost. So the newspaper gives her reasons to believe that the Red Sox win games, but never reason to believe that the Red Sox didn't win a particular game.
 
-So we have four counterexamples to the principle that you can only know *p* if you use a test that could give you evidence that $\neg p$. The reader might notice that many of the examples involve cases from logic, or cases involving singular propositions. Both of those kinds of cases are difficult to model using orthodox Bayesian machinery. That's not a coincidence. There's a well known Bayesian argument in favour of the principle I'm objecting to, namely that getting evidence for *p* presupposes the possibility of getting evidence for $\neg p$. The argument turns on the fact that this is a valid argument, for any values of $E, H, x$ you like.
+So we have four counterexamples to the principle that you can only know *p* if you use a test that could give you evidence that ¬*p*. The reader might notice that many of the examples involve cases from logic, or cases involving singular propositions. Both of those kinds of cases are difficult to model using orthodox Bayesian machinery. That's not a coincidence. There's a well known Bayesian argument in favour of the principle I'm objecting to, namely that getting evidence for *p* presupposes the possibility of getting evidence for ¬*p*. The argument turns on the fact that this is a valid argument, for any values of *E*, *H*, *x* you like.
 
-1.  $Pr(H) < x$
+1.  Pr(*H*) < *x*
+2.  Pr(*E*) > 0
+3.  Pr(*H* | *E*) ⩾ *x*
+4.  So, Pr(*H* | ¬*E*) < Pr(*H*)
 
-2.  $Pr(E) > 0$
-
-3.  $Pr(H | E) \geq x$
-
-4.  So, $Pr(H | \neg E) < Pr(H)$
-
-Intuitively, we might read this as saying that if *E* raises the probability of *H* above any threshold *x*, then $\neg E$ would be evidence against *H*. I haven't discussed that objection here, because it's irrelevant. When dealing with foundational matters, like logical inference, Bayesian modelling is inappropriate. We can see that by noting that in any field where Bayesian modelling is appropriate, the objection currently being considered works. What's not so clear, in fact what is most likely false, is that we can model the above four examples in a Bayesian framework. Bayesianism just isn't that good at modelling logical uncertainty, or changes in which singular propositions are accessible to the agent. But that's what matters to these examples.
+Intuitively, we might read this as saying that if *E* raises the probability of *H* above any threshold *x*, then ¬*E* would be evidence against *H*. I haven't discussed that objection here, because it's irrelevant. When dealing with foundational matters, like logical inference, Bayesian modelling is inappropriate. We can see that by noting that in any field where Bayesian modelling is appropriate, the objection currently being considered works. What's not so clear, in fact what is most likely false, is that we can model the above four examples in a Bayesian framework. Bayesianism just isn't that good at modelling logical uncertainty, or changes in which singular propositions are accessible to the agent. But that's what matters to these examples.
 
 ### Generality
 
@@ -362,17 +359,11 @@ In response to the 'testing' argument for the intuition that easy knowledge is n
 There is something deeply wrong with [Cus]{acronym-label="Cus" acronym-form="singular+short"}'s conclusion, but it is surprisingly hard to see just where the argument fails. Let's lay out his argument a little more carefully.
 
 1.  The machine said my caviar weighed 78g, and we know this, since we could all see the display.
-
 2.  My caviar did weigh 78g, and we know this, since we all know the machine is working correctly.
-
 3.  So we know that the machine weighed my caviar correctly. (From 1, 2)
-
 4.  By similar reasoning we can show that the machine has weighed everyone's caviar correctly. (Generalising 3)
-
 5.  All we do in testing a machine is see that it weighs various weights correctly.
-
 6.  So just by watching the machine all morning we get just as much knowledge as we get from a test. (From 4, 5)
-
 7.  So there's no point in running [Ins]{acronym-label="Ins" acronym-form="singular+short"}'s tests. (From 6)
 
 [Cus]{acronym-label="Cus" acronym-form="singular+short"}'s summary of how testing scales works is obviously a bit crude but we can imagine that the spot test [Ins]{acronym-label="Ins" acronym-form="singular+short"} plans to do isn't actually any more demanding than what the scale has been put through while she's been standing there. So we'll let premise 5 pass. (If you'd prefer more realism in the testing methodology, at the cost of less realism in the purchasing pattern of customers, imagine that the purchases exactly follow the pattern of weights that a calibrator following the guidelines of the officially approved methods of calibration.) If 3 is true, it does seem 4 follows, since [Cus]{acronym-label="Cus" acronym-form="singular+short"} can simply repeat his reasoning to get the relevant conclusions. And if 4 and 5 are true, then it does seem 6 follows. To finish up our survey of the uncontroversial steps in [Cus]{acronym-label="Cus" acronym-form="singular+short"}'s argument, it seems there isn't any serious dispute about step 1.
@@ -380,9 +371,7 @@ There is something deeply wrong with [Cus]{acronym-label="Cus" acronym-form="sin
 So the contentious steps are:
 
 -   Step 2 - we may deny that everyone gets knowledge of the caviar's weight from the machine.
-
 -   Step 3 - we may deny that the relevant closure principle that [Cus]{acronym-label="Cus" acronym-form="singular+short"} is assuming here.
-
 -   Step 7 - we may deny that the aim of the test is (merely) to know that the machine is working.
 
 One way to deny step 2 is to just be an inductive sceptic, and say that no one can know that the machine is working merely given that it worked, or at least appeared to work, last week. But that doesn't seem very promising. It seems that the customers do know, given that the testing regime is a good one, and that the machine was properly tested, that the machine is working. And the inspector has all of the evidence available to the customers, and is in an even better position to know that the testing regime is good, so as step 2 says, she gets knowledge of the caviar's weight from the machine.

@@ -1,4 +1,4 @@
-## Preface {#preface .unnumbered}
+# Preface {#preface .unnumbered}
 
 Philosophy is hard. Ethics is hard; epistemology is hard; decision theory is hard; logic is hard. All the parts of philosophy are hard, but those four are going to be particularly relevant to the story I'm telling here. They matter because they are all evaluative. Someone who violates ethical principles is immoral; someone who violates epistemological principles is irrational; someone who violates the principles of decision theory is imprudent; someone who violates logical principles is illogical. And to say that someone is immoral, irrational, imprudent or illogical is to negatively evaluate them.
 
