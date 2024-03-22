@@ -1,39 +1,31 @@
-## Level-Crossing Principles {#level-crossingprinciples}
+# Level-Crossing Principles {#level-crossingprinciples}
 
-### First-Order and Second-Order Epistemology {#first-orderandsecond-orderepistemology}
+## First-Order and Second-Order Epistemology {#first-orderandsecond-orderepistemology}
 
 In the previous part I argued that morality is independent of both what one thinks about morality, and what one should think about morality. In this part I want to argue the same thing for epistemology. But we have to be a bit careful setting up the independence thesis. Informally, a thesis of the previous part was that morality and epistemology are distinct existences. Arguing 'the same thing' for epistemology would amount to arguing that epistemology and epistemology are distinct existences. That doesn't sound particularly plausible. So to state my intended conclusion a bit more carefully, and a bit more plausibly, we need one bit of terminology.
 
 Say that a claim that either describes or evaluates a particular belief of a person is **first-order** when that very belief is not itself a description or evaluation of a particular belief. And say that a claim that either describes or evaluates a particular belief of a person is **second-order** when the belief in question is a description or evaluation of another belief. So here are some examples of first-order claims.
 
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} believes that his keys are missing.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} should believe that his keys are missing.
 
 And here are some examples of second-order claims.
 
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} believes that he believes that his keys are missing.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} should believe that he believes that his keys are missing.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} believes that he should believe that his keys are missing.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} should believe that he should believe that his keys are missing.
 
 And we can replace 'should' in any of these claims with any other kind of epistemic norm. So here are some more first order claims.
 
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"}'s evidence supports the belief that his keys are missing.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"}'s belief that his keys are missing is justified.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} rationally believes that his keys are missing.
 
 And here are a sample of some more second-order claims.
 
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"} should believe that he rationally believes his keys are missing.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"}'s evidence supports the belief that his belief that his keys are missing is justified.
-
 -   [Baba]{acronym-label="Baba" acronym-form="singular+short"}'s belief that he believes that his keys are missing is justified.
 
 The core thesis of this part of the book, the core thesis of normative externalism in epistemology, is that first-order and second-order claims are independent. There are no true **level-crossing** principles, describing necessary connections between first-order and second-order claims.
@@ -42,12 +34,11 @@ Just like in part one, there are fall-back positions I will adopt if this strong
 
 I'm interested in level-crossing principles for a few reasons. For one thing, I find them intrinsically interesting. For another, they have consequences for a bunch of epistemological debates. I'm going to discuss at the end of the book the consequences they have for disputes about how to best respond to peer disagreement. But they also matter for a bunch of other debates. And they matter because to the extent they are true, they push us towards a certain kind of coherentism, and away from a certain kind of foundationalism. Just which kind will depend on just which level-crossing principles are true. But the general idea is that if rationality requires conformity to one's own beliefs about the rational, then rationality is more of a coherence concept than we might have thought it was.
 
-### Change Evidentialism {#changeevidentialism}
+## Change Evidentialism {#changeevidentialism}
 
 It isn't just the principles that push away from foundationalism. The examples that are used to motivate level-crossing principles are also taken to mitigate against a fairly weak form of foundationalist evidentialism that I'll call Change Evidentialism.
 
 Change Evidentialism
-
 :   A person with a rational attitude towards $p$ is under no rational obligation to change that attitude unless their evidence for or against $p$ changes.
 
 I think Change Evidentialism is true. Indeed, I think a much stronger form of foundationalist evidentialism, one that says the rational status of a mental state supervenes on the evidence it is based on, is true. It is far beyond the scope of this book to defend the stronger claim. I will, in effect, be defending evidentialism against a class of attacks, but that defence will not be the focus.
@@ -62,33 +53,29 @@ I'm going to argue that the previous paragraph is all false. What the resident s
 
 So I'm going to argue that cases like Christensen's resident not only fail to challenge Change Evidentialism, they end up supporting it. And because the cases support it, they don't support 1--4. There are also direct counterexamples to 1--4. The example in the next chapter of [Roshni]{acronym-label="Roshni" acronym-form="singular+short"} is one such counterexample.
 
-### Motivations for Level-Crossing {#motivationsforlevel-crossing}
+## Motivations for Level-Crossing {#motivationsforlevel-crossing}
 
 The rest of this book will be devoted to investigating three recent motivations for level-crossing principles. The first concerns higher-order evidence, the second akrasia, and the third peer disagreement.
 
-#### Higher-Order Evidence {#higher-orderevidence}
+### Higher-Order Evidence {#higher-orderevidence}
 
-As well as evidence that bears on a question, agents can have evidence that bears on the rationality of their verdicts about the question. Christensen's example involving the medical resident is one such case. Elsewhere, Christensen has provided several other examples along similar lines, e.g.,  [@Christensen2007a 8],  [@Christensen2010b 126] and  [@Christensen2011 5-6]. Similar examples have also been proposed by Adam @Elga2008, Thomas @Kelly2010 \[140\], Joshua @Schechter2013 [443-4] and Sophie @Horowitz2014 [719]. The examples suggest something like the following argument against Change Evidentialism.
+As well as evidence that bears on a question, agents can have evidence that bears on the rationality of their verdicts about the question. Christensen's example involving the medical resident is one such case. Elsewhere, Christensen has provided several other examples along similar lines, e.g.,  [@Christensen2007a 8],  [@Christensen2010b 126] and  [@Christensen2011 5-6]. Similar examples have also been proposed by Adam @Elga2008, Thomas @Kelly2010 [140], Joshua @Schechter2013 [443-4] and Sophie @Horowitz2014 [719]. The examples suggest something like the following argument against Change Evidentialism.
 
 1.  It is irrational for the resident in this case to stick with the original prescription without making some kind of cross-check.
-
 2.  The best explanation of why it is irrational to stick with the original prescription is that it is irrational to stick with the original diagnosis, i.e., the original belief.
-
 3.  The information the nurse provides is not evidence one way or the other about whether the patient has the disease originally diagnosed.
-
 4.  It was rational, before the information the nurse provides about how long the resident has been awake, to believe in the original diagnosis.
-
 5.  So this is a case where the rationality of a belief changes without any change in the evidence.
 
 The last line follows from what came before, so the issue is whether the first four claims are true. I'm going to raise doubts about every one of those steps. But this is, I think, the most pressing challenge to Change Evidentialism.
 
-#### Akrasia {#akrasia}
+### Akrasia {#akrasia}
 
 Assume, for reductio, that the level-crossing principles are false. And assume that in any field, it is possible to have evidence that supports being extremely confident in something that is, as a matter of fact, false. Then there should be cases where one's evidence strongly supports *p*, but one's evidence also strongly supports the falsehood that one has very poor evidence for *p*. If one follows the evidence where it leads, one should be very confident in is the conjunction *p, and I have very weak evidence for p*. Assuming one believes (correctly!) that it is rational to follow the evidence where it leads, one should believe the conjunction: *p, and it is irrational for me to be confident in p*. But it is absurd to think that one can rationally be confident in either of these conjunctions; they are instances of epistemic akrasia, and akrasia is paradigmatically irrational.
 
 I'm going to come back to this argument in chapter 10. The main response will be that the apparent absurdity is really not that absurd. Indeed, the intuition that it is absurd can be shown to be highly unreliable; it supports the 'absurdity' of many things that are plainly true. For now, note the connection between intuitions about akrasia and intuitions about Christensen's resident case. If the resident follows the evidence where it leads, he'll believe that the diagnosis is correct, and this belief is irrational. It looks like Evidentialism, and perhaps just Change Evidentialism, implies that the resident should be akratic. Unlike many philosophers, I won't take this to be a decisive objection to Change Evidentialism.
 
-#### Disagreement {#disagreement}
+### Disagreement {#disagreement}
 
 It seems possible for people who are known to have equally good track records, and who in some sense have the same evidence, to come to different conclusions. When they do, there is something intuitively plausible about each moving their beliefs in the direction of the other. Here is one such case.
 
@@ -97,20 +84,14 @@ It seems possible for people who are known to have equally good track records, a
 Again, we can use the case to construct an argument against Change Evidentialism, as follows.
 
 1.  [Ankita]{acronym-label="Ankita" acronym-form="singular+short"}'s original evidence provides her strong reason to believe that 22 times 18 is 396.
-
-2.  [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s announcement is no evidence against the claim that 22 times 18 is
-
-    396. 
-
+2.  [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s announcement is no evidence against the claim that 22 times 18 is 396. 
 3.  Yet, on hearing [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s announcement, and respecting the fact that the two of them have equally good track records, [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} should be unsure which of them is right, and which wrong, on this occasion.
-
 4.  Since [Ankita]{acronym-label="Ankita" acronym-form="singular+short"} knows what each of them announced, the only way she can consistently be unsure which of them is right is to be unsure whether 22 times 18 is 396.
-
 5.  So although [Bojan]{acronym-label="Bojan" acronym-form="singular+short"}'s announcement does not change her evidence that bears on whether 22 times 18 is 396, it does change whether it is rational for her to fully believe that this is true.
 
 Again, this looks like a reasonably intuitive argument against Change Evidentialism. And again, I'm going to raise doubts about every premise. The focus of chapter 12 will be the picture of disagreement behind premise 3. This is the view that has come to be called *conciliationism*. But what I say about evidence over the next few chapters will also raise concerns about the first two premises of the argument.
 
-### The Plan for the Rest of the Book {#theplanfortherestofthebook}
+## The Plan for the Rest of the Book {#theplanfortherestofthebook}
 
 In what follows, the even-numbered chapters will deal with the three big arguments for level-crossing principles, and against Change Evidentialism, that I just discussed. In chapter 8, I'll discuss higher-order evidence; in chapter 10, I'll discuss akrasia principles, and in chapter 12, I'll discuss disagreement. In between I'll address two big issues that arise out of those discussions.
 
@@ -124,7 +105,7 @@ But before we get to all that, I need to do a little ground-clearing. The rest o
 
 These two sections are helpful for understanding the rest of the book. But they are not essential. And someone who is impatient to get on to higher-order evidence, akrasia or disagreement could skip ahead to any one of those chapters.
 
-### Evidence, Rationality and Wisdom {#evidencerationalityandwisdom}
+## Evidence, Rationality and Wisdom {#evidencerationalityandwisdom}
 
 Change Evidentialism is a claim about the rationality of beliefs and other doxastic attitudes. The level-crossing principles I reject are principles about evidence, and about rationality. The focus here, as you may have gathered, is on rationality and on evidence. There are other concepts in the area that I don't have as much to say about, and which may not be systematically related to those concepts.
 
@@ -140,7 +121,7 @@ Change Evidentialism is not a claim about wise agents, it is a claim about the r
 
 I am leaning heavily her on work on the connection between rationality and wisdom by Maria [@Lasonen-Aarnio2010b; @Lasonen-Aarnio2014]. I agree with almost everything she says about the connection. The biggest difference between us is terminological. She uses 'reasonable' and 'reasonableness' where I use 'wise' and 'wisdom'. In my idiolect, I find it too easy to confuse 'rational' and 'reasonable'. So I'm using a different term, and one that, to me at least, more strongly suggests a focus on agents not states. But this is a small point, and everything I say about the distinction draws heavily on Lasonen-Aarnio's work.
 
-### Evidence, Thought and Mathematics {#evidencethoughtandmathematics}
+## Evidence, Thought and Mathematics {#evidencethoughtandmathematics}
 
 The picture of evidence behind the version of evidentialism that I'm presenting here differs from a natural picture that many epistemologists have. In particular, I draw the line between acquiring evidence and processing evidence at a very different place than many others do. I'm going to motivate this re-drawing by working through some examples involving mathematics. Much of what I say about these examples follows closely the arguments that Paul @Boghossian2003 made against simple forms of reliabilism and internalism about logic and mathematics. But these arguments of Boghossian's are worth rehearsing, because their significance for recent epistemological debates has not always been appreciated.
 
