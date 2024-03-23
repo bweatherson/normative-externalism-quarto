@@ -5,9 +5,9 @@ book:
   title: "Normative Externalism"
 #  subtitle: "A Human Interest Story"
   author: "Brian Weatherson"
-  date: now
+  date: 19 May 2019
   downloads: [pdf, epub, docx]
-  repo-url: https://github.com/bweatherson/kahis-quarto
+  repo-url: https://github.com/bweatherson/normative-externalism-quarto
   repo-actions:
     - issue
   chapters:
