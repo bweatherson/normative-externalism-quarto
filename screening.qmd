@@ -9,7 +9,7 @@ The idea of screening that's going to be central to this chapter comes into phil
 1.  *A* and *B* are positive correlated, i.e., Pr(*A* | *B*) > Pr(*A*).
 2.  Given *C*, *A* and *B* are probabilistically independent, i.e., Pr(*A* | *B* ∧ C) = Pr(*A* | *C*).
 
-I'm interested in an evidential version of screening. If we understand evidential support probabilistically, then we could just copy over Reichenbach's definitions, with a little reinterpretation of the formalism. So rather than thinking of Pr $ in terms of objective processes, as Reichenbach was, think of it as an evidential probability function. Then these two clauses will say that as things stand, *B* is evidence for *A*, but given *C*, *B* is no evidence for *A*. We can say all that without assuming any particular connection between probability and evidence, as follows.
+I'm interested in an evidential version of screening. If we understand evidential support probabilistically, then we could just copy over Reichenbach's definitions, with a little reinterpretation of the formalism. So rather than thinking of Pr in terms of objective processes, as Reichenbach was, think of it as an evidential probability function. Then these two clauses will say that as things stand, *B* is evidence for *A*, but given *C*, *B* is no evidence for *A*. We can say all that without assuming any particular connection between probability and evidence, as follows.
 
 > *C* screens off the evidential support that *B* provides to *A* iff:
 >
